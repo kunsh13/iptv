@@ -1097,7 +1097,29 @@ var chnumb = "0";
 			oldchnl.classList.add("active");
 		}
 
+function navMidscroll(){
+	// https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link
+	// Scroll to specific values
+	// window.scrollTo or
+	window.scroll({
+	  top: 1000, 
+	  left: 0, 
+	  behavior: 'smooth'
+	});
 
+	// Scroll certain amounts from current position 
+	window.scrollBy({ 
+	  top: 250, // could be negative value
+	  left: 0, 
+	  behavior: 'smooth' 
+	});
+
+	
+	document.querySelector('.active').scrollIntoView({block:'center',behavior: 'smooth'});
+	//let el = document.querySelector('.active');
+	//el.scrollIntoView(true);
+	//el.scrollIntoView({block:'center'});
+	}
 
 navMidscroll();
 
@@ -1122,29 +1144,7 @@ navMidscroll();
 	})
 
 
-function navMidscroll(){
-	// https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link
-	// Scroll to specific values
-	// window.scrollTo or
-	window.scroll({
-	  top: 1000, 
-	  left: 0, 
-	  behavior: 'smooth'
-	});
 
-	// Scroll certain amounts from current position 
-	window.scrollBy({ 
-	  top: 250, // could be negative value
-	  left: 0, 
-	  behavior: 'smooth' 
-	});
-
-	
-	document.querySelector('.active').scrollIntoView({block:'center',behavior: 'smooth'});
-	//let el = document.querySelector('.active');
-	//el.scrollIntoView(true);
-	//el.scrollIntoView({block:'center'});
-	}
 	
 	
 		
