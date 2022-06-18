@@ -1121,7 +1121,7 @@ function navMidscroll(){
 	//el.scrollIntoView({block:'center'});
 	}
 
-navMidscroll();
+// navMidscroll();
 
 		
 	var myLi = document.querySelectorAll('li');	
