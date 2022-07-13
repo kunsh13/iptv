@@ -8,6 +8,6 @@
 
 [youtube]: https://kunsh13.github.io/iptv/
 
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-
-[<img align="left" alt="qr code" width="200px" hight="200px" src="img/qr.png" />]
+<img align="left" alt="qr code" width="200px" hight="200px" src="img/qr.png" />
