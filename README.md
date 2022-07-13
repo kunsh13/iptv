@@ -2,12 +2,12 @@
 ---
 
 ###       Click image to open
-[<img align="left" alt="IPTV" width="500px" hight="281px" src="img/banner.png" />][youtube]
+[<img align="left" alt="IPTV" width="500px" height="281px" src="img/banner.png" />][youtube]
 
 
 
 [youtube]: https://kunsh13.github.io/iptv/
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="left" alt="qr code" width="200px" hight="200px" src="img/qr.png" />
+
+<img align="left" alt="qr code" width="300px" height="300px" src="img/qr_c.png" />
