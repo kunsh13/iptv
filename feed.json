@@ -230,7 +230,7 @@
 
  	["Di TV - Sweden", "international", "https://gujims.com/media/cache/thumbnail/uploads/assets/68c08e06d895607aab91feb284d0fc881e42e459.jpeg", "https://httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8"],
 
- 	["LFM - Switzerland", "international", "https://live-tv-channels.org/pt-data/uploads/logo/ch-lfm-tv-8957.jpg", "https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8"],
+ 	["LFM - Switzerland", "international", "https://photos.live-tv-channels.org/tv-logo/ch-lfm-tv-8957.jpg", "https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8"],
 
  	["RFO - Germany", "international", "https://upload.wikimedia.org/wikipedia/commons/f/f8/RFO_Senderlogo.svg", "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"],
 
@@ -341,7 +341,7 @@
 
  	["PTC Chak De IND", "music", "https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De-1.png", "https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8"],
 
- 	["PTC Chak De Canada", "music", "https://i.ytimg.com/vi/FqSAtKB0mjY/hqdefault.jpg", "https://streaming.ptcplay.com/ptcchakdeusONE/smil:Live.smil/playlist.m3u8"],
+ 	["PTC Chak De Canada", "music", "https://www.ptcnetwork.com/wp-content/uploads/2021/09/03-PTC-Chakde.jpg", "https://streaming.ptcplay.com/ptcchakdeusONE/smil:Live.smil/playlist.m3u8"],
 
  	["PTC Simran", "music", "https://static.wikia.nocookie.net/logopedia/images/0/02/PTC_Simran.jpg", "https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8"],
 
@@ -351,13 +351,13 @@
 
  	["PTC Punjabi IND", "music", "https://wp.ptcpunjabi.co.in/wp-content/uploads/2021/02/miss-ptc-punjabi-2021-2.jpg", "https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8"],
 
- 	["PTC Punjabi One", "music", "", "https://streaming.ptcplay.com/ptcpunjabiujONE/smil:Live.smil/playlist.m3u8"],
+ 	["PTC Punjabi One", "music", "https://wp.ptcpunjabi.co.in/wp-content/uploads/2017/12/No-1-Channel.jpg", "https://streaming.ptcplay.com/ptcpunjabiujONE/smil:Live.smil/playlist.m3u8"],
 
  	["PTC Punjabi Canada", "music", "https://yt3.ggpht.com/ytc/AKedOLQBn9p-xEdWyKEvmtQHGrcbKUo1EczFyU2vKSTlnA=s900-c-k-c0x00ffffff-no-rj", "https://streaming.ptcplay.com/ptcpunjabiUSone/smil:Live.smil/playlist.m3u8"],
 
  	["PTC News IND", "music", "https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png", "https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8"],
 
- 	["PTC News US", "music", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.6435-9/40790419_727877544224608_1079971811501801472_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=IL4k11NNtU8AX-l51VR&_nc_ht=scontent.fdel27-3.fna&oh=072432fe7753bfab00c87af2085d985d&oe=60E535E5", "https://streaming.ptcplay.com/ptcnewsusONE/smil:Live.smil/playlist.m3u8"],
+ 	["PTC News US", "music", "https://i.ytimg.com/vi/N_YRHYQ6orQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcOtgnOTN3gdchUWGlDhJxajIipQ", "https://streaming.ptcplay.com/ptcnewsusONE/smil:Live.smil/playlist.m3u8"],
 
  	["9x Music", "music", "http://www.radioandmusic.com/sites/www.radioandmusic.com/files/images/biz/2017/12/29/9XM.png", "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"],
 
@@ -382,7 +382,7 @@
 
  	["Radio Caravan US", "communityradio", "https://jointhecaravan.com/wp-content/uploads/2021/05/radio-caravan-show.jpg", "https://stream.voxx.pro/radio/8260/radio.mp3"],
 
- 	["Radio City Smaran", "communityradio", "https://scontent.fdel1-5.fna.fbcdn.net/v/t1.18169-9/62457_616281695091198_1394971087_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=e3f864&_nc_ohc=1SlJAOD31wUAX-wnJBh&tn=MbAVq2-K7VreU5ZZ&_nc_ht=scontent.fdel1-5.fna&oh=a89026d33c6643de5cde49b8a55c74a2&oe=6124D25B", "http://prclive1.listenon.in:9950"],
+ 	["Radio City Smaran", "communityradio", "https://middaycdn.s.llnwi.net/Radiocity-images/images/uploads/smaran_l.jpg", "http://prclive1.listenon.in:9950"],
 
  	["Shemaroo Bhakti", "communityradio", "https://m.media-amazon.com/images/S/aplus-media/sc/46726d2b-3d9b-49a0-acbe-5560114bd920.__CR0,0,970,600_PT0_SX970_V1___.png", "https://radiobhaktishopping.shemaroo.com/hariomradio/Stream1_aac/chunklist_w1854039901.m3u8"],
 
@@ -407,7 +407,7 @@
 
 
 
- 	["Gaana Live Radio", "radio", "https://entrackr.com/wp-content/uploads/2020/09/gaana.jpg.webp", "https://stream.zeno.fm/szh14bya1feuv"],
+ 	["Gaana Live Radio", "radio", "https://dbs.radioline.fr/pictures/radio_e90882e3049561f4ee2c7929a1bc76ac/logo200.jpg?size=600", "https://stream.zeno.fm/szh14bya1feuv"],
 
  	["FM 91.1 - Radio City", "radio notavailable", "img/radio-city.jpg", "https://radioindia.net/radio/radio-city/icecast.audio"],
 
