@@ -166,8 +166,6 @@
 
  	["AMC Rush", "movies", "https://provider-static.plex.tv/epg/images/ott_channels/arts/AMCThrillers_artwork_horizontal.jpg", "https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
 
- 	["Pluto TV Mistérios", "movies", "https://www.oficinadanet.com.br/imagens/post/38874/chamada-pluto-tv-iptv-ganha-novos-canais.jpg", "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="],
-
  	["Pop TV - Movies", "movies", "https://cdn.poptv.com/1804785680-29101_poptv_movie_banner.jpg", "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"],
 
  	["Filmstreams", "movies", "https://shareomaha.org/sites/default/files/media/223/DundeeTheaterbyHarrisonMartin.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
