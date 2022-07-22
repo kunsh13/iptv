@@ -82,7 +82,7 @@
 
  	["TV9 Kannada", "regional", "https://static.vidgyor.com/live/midroll/assets/tv9kannada.png", "https://vidcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live1/chunks.m3u8"],
 
- 	["Animal Kingdom", "lifestyle", "", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
+ 	["Safari - Malayalam", "lifestyle", "https://i.ytimg.com/vi/ZXo4MkUDsZ4/sddefault_live.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
 
  	["Animal Planet Hindi", "lifestyle", "https://dcom-prod.imgix.net/files/538428338FF64CE38F11D0F2535E1DB2.jpg", "https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8"],
 
@@ -92,7 +92,7 @@
 
  	["Love Nature 4K", "lifestyle", "https://videos.thematv.com/love-nature-4k.jpg", "https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"],
 
- 	["Crafty Panda 4K", "lifestyle", "https://tv.mobistream.co.za/uploads/png/4a95e3ca3e8f98d7374c05a8bf0ca9a9.png", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"],
+ 	["Crafty Panda 4K", "lifestyle", "https://speakrj.nyc3.cdn.digitaloceanspaces.com/youtube/craftypanda.jpg", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"],
 
  	["Comedy Hub - Just for Laugh", "lifestyle", "https://images.squarespace-cdn.com/content/v1/528b55afe4b04d10f50b4f75/1614163275147-RXUVNDG1Q4F4QAZ7Q8JR/comedyhub3.jpg", "https://uksono1-samsunguk.amagi.tv/playlist.m3u8"],
 
