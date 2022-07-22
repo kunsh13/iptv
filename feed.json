@@ -1,4 +1,6 @@
  [
+	["Welcome", "welcome", "img/welcome1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
+
  	["Welcome", "welcome", "img/welcome1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
 
  	["Aaj Tak", "news", "https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak_livetv_fbshare_thumbnail-647X404.png", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8"],
@@ -425,6 +427,7 @@
  	["FM 98.3 - Radio Mirchi", "radio", "img/radio-mirchi.jpg", "http://peridot.streamguys.com:7150/Mirchi"],
 
  	["FM 100.1 - Vividh Bharti", "radio", "img/radio-vividh-bharti.jpg", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
+
  	["FM 102.6 - AIR Rainbow", "radio", "img/radio-rainbow.jpg", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
 
  	["FM 104 - Fever FM", "radio", "img/radio-fever.jpg", "https://ishq_mumbai-lh.akamaihd.net/i/Ishq_Mumbai_1@855087/index_1_a-p.m3u8?sd=10&rebase=on"],
