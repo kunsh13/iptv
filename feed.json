@@ -1,4 +1,4 @@
- [
+[
 	["Welcome", "welcome", "img/welcome2.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
 
  	["Welcome", "welcome", "img/welcome2.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
@@ -88,7 +88,7 @@
 
  	["Animal Planet Hindi", "lifestyle", "https://dcom-prod.imgix.net/files/538428338FF64CE38F11D0F2535E1DB2.jpg", "https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8"],
 
- 	["Discovery HD Hindi", "lifestyle", "https://1.bp.blogspot.com/-IWzRnT0xWHA/Xo9MVXY2sdI/AAAAAAAABDM/ZSScvG6XvPIEe4KBsg643tAM-9e2sF3TQCLcBGAsYHQ/s1600/discovery-channel-Hindi.webp", "https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8"],
+ 	["Discovery HD Hindi", "lifestyle", "https://1.bp.blogspot.com/-IWzRnT0xWHA/Xo9MVXY2sdI/AAAAAAAABDM/ZSScvG6XvPIEe4KBsg643tAM-9e2sF3TQCLcBGAsYHQ/s1600/discovery-channel-Hindi.webp", "https://www.youtube.com/embed/jyIy4OGa-iQ?enablejsapi=1&amp=1&playsinline=1&iv_load_policy=3"],
 
  	["Discovery HD HGTV", "lifestyle", "https://i.ytimg.com/vi/8C7jfO-8ZIM/maxresdefault.jpg", "http://58.65.171.202:8000/play/4334/index.m3u8"],
 
@@ -190,16 +190,16 @@
  	["Rakuten Comedy", "movies", "https://global.rakuten.com/corp/innovation/assets/img/rnn/2017/0724_s/ogp.jpg", "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
 
- 	["Rakuten Action", "movies", "https://cdn.mos.cms.futurecdn.net/Wnc8K42CNBuUFwTeV8CYLB-1200-80.jpg.webp", "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
+ 	["Rakuten Action", "movies", "https://www.lsa-conso.fr/mediatheque/3/6/8/000418863_5.jpg", "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
- 	["AXN - Indonesia", "movies", "https://www.datareign.com/wp-content/uploads/2020/06/axn-tv-channel-sony-india.jpg", "http://210.210.155.35/dr9445/h/h141/index.m3u8"],
+ 	["AXN - Indonesia", "movies", "https://i.gadgets360cdn.com/large/axn_india_1590998944479.jpeg", "http://210.210.155.35/dr9445/h/h141/index.m3u8"],
 
  	["HBO - Asia", "movies", "https://archello.s3.eu-central-1.amazonaws.com/images/2019/05/31/1HBO-Seattle-2016--7-.1559288571.1657.jpg", "https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8"],
 
 
  	["Cinemax", "movies", "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506916553_cinemax.jpg", "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8"],
 
- 	["Star Movies HD", "movies", "https://content.osn.com/bob/745x419/STM.jpg", "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8"],
+	["Star Movies HD", "movies", "https://content.osn.com/bob/745x419/STM.jpg", "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8"],
 
  	["Dubai One", "movies", "https://x-architects.com/uploads/news/original/87884Y9PC0SK9P3Y8MSI775775665910700.jpg", "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8"],
 
@@ -213,7 +213,7 @@
 
  	["Local Now Romantique", "movies", "https://f9q4g5j6.ssl.hwcdn.net/604819fcb99c5b3ca1689cf2/900", "https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist_1280x720.m3u8"],
 
- 	["Local Now Fear This", "movies", "https://tv.mobistream.co.za/uploads/png/f32481c01610e12a8aa9422786f1dbec.png", "https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist_1280x720.m3u8"],
+ 	["Local Now Fear This", "movies", "https://f9q4g5j6.ssl.hwcdn.net/60417731dc00887af0275acb/900", "https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist_1280x720.m3u8"],
 
  	["Local Now Family Flix", "movies", "https://www.lookhu.tv/uploads/tv_image/family-flix.jpg", "https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x720.m3u8"],
 
@@ -225,43 +225,41 @@
 
  	["CNN", "international", "https://www.wspa.com/wp-content/uploads/sites/53/2020/06/AP18297639328586.jpg?w=2560&h=1440&crop=1", "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8"],
 
- 	["Fox Now", "international", "https://www.wfla.com/wp-content/uploads/sites/71/2019/03/fox20disney_1553095201798.jpg_78362155_ver1.0.jpg?strip=1", "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"],
-
+ 	["Fox Now", "international", "https://www.flexiform.co.uk/wp-content/uploads/2021/11/fox-media-office-design-and-installation-700x394.jpg", "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"],
 
  	["CBS News", "international", "https://media1.s-nbcnews.com/i/rockcms/2021-04/911/210409-cbs-news-nyc-se-1024a-959002_65b20002fd6dbaaa90a68272d4ccf3d2db6e3a34.jpg", "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"],
-
- 	["Di TV - Sweden", "international", "https://gujims.com/media/cache/thumbnail/uploads/assets/68c08e06d895607aab91feb284d0fc881e42e459.jpeg", "https://httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8"],
 
  	["LFM - Switzerland", "international", "https://photos.live-tv-channels.org/tv-logo/ch-lfm-tv-8957.jpg", "https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8"],
 
  	["RFO - Germany", "international", "https://upload.wikimedia.org/wikipedia/commons/f/f8/RFO_Senderlogo.svg", "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"],
 
- 	["Tagesschau - Germany", "international", "https://www.tagesschau.de/multimedia/bilder/tagesschausendungsbild-101~_v-videowebl.jpg", "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8"],
+ 	["Tagesschau - Germany", "international", "https://www.horizont.net/news/media/38/Penelope-Khnis-Moderatorin-Tagesschau-2022-377955.jpeg", "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8"],
 
  	["DW - Deutsche Welle News", "international", "https://www.ndr.de/deutschewelle166_v-contentxl.jpg", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],
 
+ 	["BBC World News", "international", "https://www.egypttoday.com/siteimages/Larg/42546.jpg", "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"],
+	
+	["RT - Russia Today", "international", "https://im-media.voltron.voanews.com/Drupal/01live-166/2019-04/8556B79F-5B44-4B45-8795-92A2C69FEA9D.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
 
- 	["BBC World News", "international", "https://ichef.bbci.co.uk/images/ic/1200x675/p04fqyng.jpg", "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"],
+ 	["RT - Russia Today", "international", "https://cdni.russiatoday.com/files/2022.02/xxl/61f908d32030270f205ec5e3.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
 
- 	["RT - Russia Today", "international", "https://im-media.voltron.voanews.com/Drupal/01live-166/2019-04/8556B79F-5B44-4B45-8795-92A2C69FEA9D.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
-
- 	["ABC - Australia", "international", "https://www.abc.net.au/news-web/assets/fallback-image_2150x1210.jpg", "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"],
+	["ABC - Australia", "international", "https://images.theconversation.com/files/468606/original/file-20220613-14-7uiw35.jpg", "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"],
 
  	["Euro News - France", "international", "https://static.euronews.com/articles/stories/04/02/10/68/1440x810_cmsv2_0da2be17-012f-5974-8da0-335c816629d1-4021068.jpg", "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8"],
 
- 	["TV5 Monde", "international", "https://mir-s3-cdn-cf.behance.net/project_modules/1400/60dd87100792751.5f10699fb3b80.png", "https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8"],
+ 	["TV5 Mongolia", "international", "https://i1.sndcdn.com/avatars-000152089818-6ge2jh-t500x500.jpg", "https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8"],
 
  	["Rai News 24", "international", "https://i.ytimg.com/vi/YyxUFkt48mU/maxresdefault.jpg", "http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"],
 
- 	["SKY News - UK", "international", "https://www.tvnewsroom.co.uk/wp-content/uploads/wallpapers/skynews-2010.jpg", "https://www.youtube.com/embed/9Auq9mYxFEE?autoplay=1&mute=1"],
+ 	["SKY News - UK", "international", "https://deadline.com/wp-content/uploads/2018/09/rexfeatures_5267476a-e1556204009728.jpg", "https://youtu.be/9Auq9mYxFEE"],
 
- 	["Al Jazeera", "international", "https://cms.qz.com/wp-content/uploads/2013/07/aljazeera.jpg?quality=75&strip=all&w=1600&h=900&crop=1", "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],
+ 	["Al Jazeera", "international", "https://insidearabia.com/wp-content/uploads/2019/11/Al-Jazeera-headquarters-Doha-Qatar.jpeg", "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],
 
  	["TRT World - Turkey", "international", "https://s.wsj.net/public/resources/images/BN-PJ118_TURKTV_P_20160811155616.jpg", "https://tv-trtworld.live.trt.com.tr/master.m3u8"],
 
  	["CNA - Singapore", "international", "https://i.ytimg.com/vi/UidT9twuiDI/maxresdefault.jpg", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"],
 
- 	["NHK - Japan", "international", "https://cdn.newsapi.com.au/image/v1/37969cb984ffb8aa03962b8122e525ef", "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"],
+ 	["NHK - Japan", "international", "https://www.tsunagulocal.com/wp-content/uploads/2020/09/nhk-red-logo-s1527689987-1.jpg", "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"],
 
  	["Arirang - Korea", "international", "https://i.ytimg.com/vi/APlvA2wtdKk/maxresdefault.jpg", "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"],
 
@@ -304,7 +302,7 @@
 
  	["WeatherSpy - CA", "international", "https://www.spotx.tv/wp-content/uploads/weatherspy-weatherpod-forecast-jukin-streaming-1024x576.png", "https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8"],
 
- 	["WeatherSpy - US", "international", "https://f1.media.brightcove.com/8/4794656764001/4794656764001_6153538008001_6153542701001-vs.jpg?pubId=4794656764001&videoId=6153542701001", "https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8"],
+ 	["WeatherSpy - US", "international", "https://discover.jukinmedia.com/hubfs/WS-2.png", "https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8"],
 
  	["Red Bull", "international", "https://wallpaperaccess.com/full/563870.jpg", "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],
 
@@ -369,9 +367,6 @@
 
  	["Music India", "music", "https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png", "http://14.199.164.20:4001/play/a0mt/index.m3u8"],
 
-
-
- 	["Harayana Tashan Music", "music", "http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/80251cb7-eefb-457b-bbce-a84cb0a0179a.jpg", "https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in_480p/index.m3u8"],
 
  	["Harayana Tashan Ent", "music", "http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/9512fdf2-e1a6-4d7f-b19d-b43a07aed296.jpg", "http://haryanatashantv.livebox.co.in/haryanatehelkahls/haryanatehelka.m3u8"],
 
