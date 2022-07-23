@@ -1,34 +1,34 @@
 <!DOCTYPE html>
-<html>
-<head>
- 
-    <title>readme</title>
-</head>
-<body bgcolor="grey">
+    <html>
+    <head>
+    <meta charset=utf-8 />
+    <title>Kunsh IPTV</title>
+	<link rel="icon" href="img/favicon_square.png">
+	<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
+	<link hrref="https://unpkg.com/@videojs/themes@1/dist/fantasy/index.css" rel="stylesheet">
+	<link href="https://unpkg.com/@videojs/themes@1/dist/city/index.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
+	<script src="https://unpkg.com/video.js/dist/video.js"></script>
+	    
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-FMEGMP0875"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
-    <h1>Click image to open</h1>
-    <!-- <img src="/img/lolipop.jpg" alt="IPTV" width="500px" height="281px">
-    <img src="/img/qr_c.jpg" alt="Qr code" width="281px" height="281px"> -->
-
-
-<img id="image" src="./img/lolipop.jpg" onclick="openImg1()" alt="IPTV" width="500px" height="281px">  
-
-<img id="image" src="./img/qr_c.png" onclick="openImg2()" alt="Qr code"  width="281px" height="281px">  
-    
-<script>
-
-function openImg1(){
-    var image = document.getElementById('image');
-    var source = image.src;
-    window.open('https://kunsh13.github.io/iptv/');
-}
-
-function openImg2(){
-    var image = document.getElementById('image');
-    var source = image.src;
-    window.open('https://kunsh13.github.io/iptv/');
-}
-</script>
-
-</body>
-</html>
+	  gtag('config', 'G-FMEGMP0875');
+	</script>
+	    
+	    
+    </head>
+    <body>
+<section>
+<main>
+<div id="myvideo"></div>
+</main>
+<nav>
+<!--div id="bar"><i id="starbtn" class="showpin"></i></div-->
+<div id="pane"><ul id="menu"></ul></div>
+</section>  
+<script src="script.js"></script>
