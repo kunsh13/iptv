@@ -1,8 +1,9 @@
 
-<h1 align='center'>✯ IPTV <img src="/img/favicon_square.png" width="40" height="40"> Pʟᴀʏ 3.0 ✯</h1>
+<h1 align='center'>✯ IPTV <a href="https://kunsh13.github.io/iptv/"><img src="/img/favicon_square.png" width="40" height="40"></a> Pʟᴀʏ 3.0 ✯</h1>
 
 
 ###       Click image to open
+
 [<img align="left" alt="IPTV" width="500px" height="281px" src="img/banner.png" />][youtube]
 
 [youtube]: https://kunsh13.github.io/iptv/
