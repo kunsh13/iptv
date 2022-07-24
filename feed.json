@@ -1,9 +1,9 @@
 [
-	["Welcome", "welcome", "img/lolipop.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
+	["", "", "", ""],
 
  	["Welcome", "welcome", "img/lolipop.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
 
- 	["Aaj Tak", "news", "https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak_livetv_fbshare_thumbnail-647X404.png", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8"],
+	["Aaj Tak", "news", "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201906/aajtak.jpeg?Nq9I..DGOTZdCekaix7UWi1irdM5EM56&size=1200:675", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8"],
 
  	["Aaj Tak HD", "news", "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67f1076555179.5c6d4e838c624.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8"],
 
@@ -24,7 +24,7 @@
 
  	["News24", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-206/list_clean/e24newslogob11700c746fee89b44c46be80867f8da05949.png", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
 
- 	["Good News Today", "news", "https://i.pinimg.com/736x/44/ac/cb/44accb7a09435399b818eff2957e9946.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8"],
+ 	["Good News Today", "news", "https://i.ytimg.com/vi/OVan-oeJH_c/maxresdefault.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8"],
 
  	["News 18 India", "news", "https://i.ytimg.com/vi/rNo9tuQMuCM/maxresdefault.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8"],
 
@@ -54,13 +54,12 @@
 
  	["Sudarshan News", "news", "https://media-exp1.licdn.com/dms/image/C511BAQGJC2RXsYVxgw/company-background_10000/0/1559202816158?e=2159024400&v=beta&t=yGSwFoZpnrcrGMt_CH-1aaQAWkGWsZ0-nkloBt8mXpc", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
 
- 	["Tribe TV", "news", "https://i.imgur.com/ubZEa9F.png", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
+ 	["Tribe TV", "news", "https://santalijagat.in.net/uploads/images/202108/image_750x415_6107d3db49da7.jpg", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
 
  	["Hornbill TV", "news", "https://i.ytimg.com/vi/_SvlsUX_4OM/maxresdefault.jpg", "http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist_w607013661.m3u8"],
 
  	["TV9 Bharatvarsh", "news", "https://cdn.myportfolio.com/822c501a1f7e2b70f9df29f21633dffc/ddbf52da-e9fb-4260-913b-ffd64540f402_rw_1920.jpg?h=275d8a9c54a202dcdfd06d7badc1fa8f", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8"],
 
- 	["DD Sports", "news", "", "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8"],
 
  	["DD News", "news", "https://smartdigitalnews.com/wp-content/uploads/2020/04/DD.png", "https://playhls.media.nic.in/live/ddnews/index.m3u8"],
 
@@ -70,19 +69,8 @@
 
  	["Kantipur Nepal", "regional", "https://static.vidgyor.com/live/midroll/assets/kantipur.png", "https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/playlist.m3u8"],
 
- 	["Mathrubhumi", "regional", "https://static.vidgyor.com/live/midroll/assets/mathrubhumi.png", "https://mathrubhumividgyor.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/playlist_dvr.m3u8"],
-
  	["Assam Talks", "regional", "https://live.staticflickr.com/8895/18126064071_7bf915b844_c.jpg", "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8"],
 
- 	["TV9 Gujarati", "regional", "https://static.vidgyor.com/live/midroll/assets/tv9gujarati.png", "https://vidcdn.vidgyor.com/tv9gujarati-origin/live/tv9gujarati-origin/live1/chunks.m3u8"],
-
- 	["TV9 Bangla", "regional", "https://static.vidgyor.com/live/midroll/assets/tv9bangla.png", "https://vidcdn.vidgyor.com/tv9bangla-origin/live/playlist.m3u8"],
-
- 	["TV9 Marathi", "regional", "https://static.vidgyor.com/live/midroll/assets/tv9marathi.png", "https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8"],
-
- 	["TV9 Telugu", "regional", "https://static.vidgyor.com/live/midroll/assets/tv9telugu.png", "https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8"],
-
- 	["TV9 Kannada", "regional", "https://static.vidgyor.com/live/midroll/assets/tv9kannada.png", "https://vidcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live1/chunks.m3u8"],
 
  	["Safari - Malayalam", "lifestyle", "https://i.ytimg.com/vi/ZXo4MkUDsZ4/sddefault_live.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
 
@@ -90,7 +78,6 @@
 
  	["Discovery HD Hindi", "lifestyle", "https://1.bp.blogspot.com/-IWzRnT0xWHA/Xo9MVXY2sdI/AAAAAAAABDM/ZSScvG6XvPIEe4KBsg643tAM-9e2sF3TQCLcBGAsYHQ/s1600/discovery-channel-Hindi.webp", "https://www.youtube.com/embed/jyIy4OGa-iQ?enablejsapi=1&amp=1&playsinline=1&iv_load_policy=3"],
 
- 	["Discovery HD HGTV", "lifestyle", "https://i.ytimg.com/vi/8C7jfO-8ZIM/maxresdefault.jpg", "http://58.65.171.202:8000/play/4334/index.m3u8"],
 
  	["Love Nature 4K", "lifestyle", "https://videos.thematv.com/love-nature-4k.jpg", "https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"],
 
@@ -115,7 +102,7 @@
 
  	["InBites", "lifestyle", "https://advanced-television.com/wp-content/uploads/2020/12/InsightTV.jpg", "https://inshort-samsungindia.amagi.tv/playlist.m3u8"],
 
- 	["InTrouble", "lifestyle", "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/02/Insight-TV-Global-Rebrand.jpg?fit=1200%2C800&ssl=1", "https://introuble-samsungindia.amagi.tv/playlist.m3u8"],
+ 	["InTrouble", "lifestyle", "https://yt3.ggpht.com/EQ6Slim2i8d3YgXWGgHNgOnHVhZB40iBFDmjrzliJJY8ddgS9UEAb1hImPIGIsEjhNo9Cg_K=s900-c-k-c0x00ffffff-no-rj", "https://introuble-samsungindia.amagi.tv/playlist.m3u8"],
 
  	["InWild", "lifestyle", "https://i.pinimg.com/originals/fa/70/f7/fa70f777c3c1f244e9fa4b71772e9fa0.jpg", "https://inwild-samsungindia.amagi.tv/playlist.m3u8"],
 
@@ -399,44 +386,25 @@
 
 
 
+ 	["Gaana Live Radio", "radio", "https://res.feednews.com/assets/v2/cf49f21d52a59aba630381b2fdae4a80?width=1280&height=720&quality=hq&category=us_News_Entertainment", "https://stream.zeno.fm/szh14bya1feuv"],
+
+ 	["FM 91.1 - Radio City", "radio", "https://i.ytimg.com/vi/hFEOhNsv7-4/maxresdefault.jpg", "https://prclive1.listenon.in/"],
+
+ 	["FM 92.7 - BIG FM", "radio", "https://media-exp1.licdn.com/dms/image/C511BAQHIwRLGcNK9TQ/company-background_10000/0/1547450907721?e=2147483647&v=beta&t=cnG-d3jLy6rCZhsKDsx1NE2NGzgp44a_MnW-_1_PIp0", "http://sc-bb.1.fm:8017/"],
 
 
+ 	["FM 98.3 - Radio Mirchi", "radio", "https://images.jdmagicbox.com/comp/hubli/a8/0836px836.x836.190104162530.i2a8/catalogue/98-3-radio-mirchi-tb-road-hubli-radio-broadcasting-services-e3ftz9h331.jpg", "http://peridot.streamguys.com:7150/Mirchi"],
 
- 	["Gaana Live Radio", "radio", "https://dbs.radioline.fr/pictures/radio_e90882e3049561f4ee2c7929a1bc76ac/logo200.jpg?size=600", "https://stream.zeno.fm/szh14bya1feuv"],
+ 	["FM 100.1 - Vividh Bharti", "radio", "https://i.ytimg.com/vi/KabAZ-2QddU/maxresdefault.jpg", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
 
- 	["FM 91.1 - Radio City", "radio notavailable", "img/radio-city.jpg", "https://radioindia.net/radio/radio-city/icecast.audio"],
+ 	["FM 102.6 - AIR Rainbow", "radio", "https://scontent.fdel27-4.fna.fbcdn.net/v/t1.18169-9/15669_713439805359934_8643515448473030333_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hJ8ZsOximF0AX9gZVkN&_nc_oc=AQnttgbXgfSrvIzDibEY_qZWGK2r-fB8Z5nkyPsRQGPQUd4hOMZH8aHnMKnnXzExA4E&_nc_ht=scontent.fdel27-4.fna&oh=00_AT8efwuA6O1kEgusPmd-v9bqqTn43OKvPVB4TyMpfGCfaw&oe=6303D44B", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
 
-
-
- 	["FM 91.1 - Radio City 2", "radio", "img/radio-city.jpg", "https://prclive1.listenon.in/"],
-
-
- 	["FM 92.7 - BIG FM", "radio", "img/radio-big-fm.jpg", "http://sc-bb.1.fm:8017/"],
-
- 	["FM 93.5 - Red FM", "radio notavailable", "img/radio-red.jpg", "https://cdn.videvo.net/videvo_files/audio/premium/audio0186/watermarked/TrainStnPassLounge PE790601_preview.mp3"],
-
- 	["FM 94.3 - Radio One", "radio notavailable", "img/radio-one.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
-
- 	["FM 95.0 - Hit FM", "radio notavailable", "img/radio-hit.jpg", "https://rainymood.com/audio1112/0.mp3"],
-
- 	["FM 98.3 - Radio Mirchi", "radio", "img/radio-mirchi.jpg", "http://peridot.streamguys.com:7150/Mirchi"],
-
- 	["FM 100.1 - Vividh Bharti", "radio", "img/radio-vividh-bharti.jpg", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
-
- 	["FM 102.6 - AIR Rainbow", "radio", "img/radio-rainbow.jpg", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
-
- 	["FM 104 - Fever FM", "radio", "img/radio-fever.jpg", "https://ishq_mumbai-lh.akamaihd.net/i/Ishq_Mumbai_1@855087/index_1_a-p.m3u8?sd=10&rebase=on"],
-
- 	["FM 106.4 - AIR Gold", "radio", "img/radio-air-gold.jpg", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"],
+ 	["FM 106.4 - AIR Gold", "radio", "https://th-i.thgim.com/public/news/national/dmi2gg/article31359714.ece/alternates/LANDSCAPE_1200/TH17FM", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"],
 
  	["FM 107.2 - Radio Nasha", "radio notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"],
 
-
-
-
- 	["FM 91.1 Radio city", "radio", "img/radio-nasha.jpg", "https://prclive4.listenon.in/Hindi"],
-
-
+ 	["Fusion Life Radio", "radio", "http://fusionliferadio.com/images/22jul-696x1024.jpeg", "https://c28.radioboss.fm:18046/stream"],
+    
  	["VDesi", "radio", "https://scontent.fdel27-2.fna.fbcdn.net/v/t1.6435-9/138392988_451701219542798_4773615084829361087_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=t3ZhiuK3gvUAX9xHmAw&_nc_ht=scontent.fdel27-2.fna&oh=00_AT8jd6h9TYfHD_QLlOz11I9yRMHWynZr0lF8z0CYWuJFeQ&oe=62F10949", "https://stream.radio.co/s42e977b6c/listen"],
 
  	["Sound Asia - Nairobi", "radio mp3", "http://www.soundasiafm.com/images/slider/slide1_bg.jpg", "https://cors.bitwize.com.lb/http://41.72.210.222:88/stream"],
@@ -446,20 +414,19 @@
 
  	["Bollywood Now - UAE", "radio", "https://static2.mytuner.mobi/media/tvos_radios/PvpdDr9E4A.png", "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"],
 
-
- 	["Humm FM 1 - Dubai", "radio", "https://resources.stuff.co.nz/content/dam/images/1/8/p/9/a/c/image.related.StuffLandscapeThreeByTwo.1151x768.18p9jq.png/1450227647961.jpg", "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"],
-
- 	["Humm FM 2 - Dubai", "radio", "https://creativeamit.com/wp-content/uploads/2019/09/humm-fm-outdoor-poster.jpg", "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"],
-
- 	["Humm FM 3 - Dubai", "radio", "https://creativeamit.com/wp-content/uploads/2019/09/humm-fm-digital-poster.jpg", "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"],
+  	["Kadak FM - Dubai", "radio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t39.30808-6/280666994_7507586672617306_6061754888400503823_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=83SRqBwRqHIAX9XaXpt&tn=ZO1mfzWPepMtTggW&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9I1shCE6a3umW5SxkrPwyqDjJ_xgchI9iKz3BBK9sZJw&oe=62E2402D", "https://admdn7ta.cdn.mangomolo.com/mirchirdo/mirchirdo.stream_aac/chunklist.m3u8"],
+    
+    
+ 	["Instrumental Music Radio", "radio", "https://instrumentalhitsradio.com/images/IHR.jpg", "https://azuracast.vibesounds.in:8030/radio.mp3"],
+    
+ 	["Aajtak News Radio", "radio", "https://akm-img-a-in.tosshub.com/aajtak/resource/at-podcast/img/at_radio_og.jpg", "https://lmil.pc.cdn.bitgravity.com/lmil/live/aajtak_150k/chunklist_ao.m3u8"],
+    
+    
+    ["Humm FM 1 - Dubai", "radio", "https://resources.stuff.co.nz/content/dam/images/1/8/p/9/a/c/image.related.StuffLandscapeThreeByTwo.1151x768.18p9jq.png/1450227647961.jpg", "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"],
 
  	["Ujala Radio - Netherlands", "radio", "https://www.ujala.nl/wp-content/uploads/2017/02/Ujalas-Mela-On-Tour-85.jpg", "https://server4.ujala.nl/stream/2/listen.mp3"],
 
  	["Tune India - Australia", "radio", "https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f971b10982643.560ef10595011.jpg", "https://s2.radio.co/se5e166e2f/listen"],
-
- 	["Club Mirchi - US", "radio", "https://i.ytimg.com/vi/36KqMVUMBHU/maxresdefault.jpg", "https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/index_1_a-p.m3u8?sd=10&rebase=on"],
-
- 	["Bollywood and beyond - Greensboro, USA", "radio", "https://4.bp.blogspot.com/-Hb35Vg5lyes/XcVUcBVMqjI/AAAAAAAA2Tk/JM_JKt0chF8i9hlPATEBAuvOlAqBFY5dQCK4BGAYYCw/w680/bollywood-790559.webp", "https://cors.bitwize.com.lb/http://185.80.220.12:8046/live"],
 
  	["Bombay Beats", "radio", "https://online-fmradio.com/wp-content/uploads/2017/11/Bombay-Beats-Hindi-FM.jpg", "https://strmreg.1.fm/bombaybeats_mobile_mp3"],
 
@@ -468,7 +435,7 @@
 
  	["Spice Radio - Bangladesh", "radio", "https://www.spicefmbd.com/assets/img/gallery/Celebrities/Armeen%20Musa%20with%20Rj%20Tazz.jpg", "http://162.254.149.187:9300/;"],
 
- 	["Bolly FM - West Bengal", "radio", "https://liveradios.in/wp-content/uploads/radio-bolly-fm.jpg", "https://stream.zeno.fm/zu59ykebs2zuv"],
+ 	["Bolly FM - West Bengal", "radio", "https://cdn-profiles.tunein.com/s121492/images/logod.png?t=162523", "https://stream.zeno.fm/zu59ykebs2zuv"],
 
  	["Oye India", "radio", "https://liveonlineradio.net/wp-content/uploads/2020/10/oye-india-radio.jpg", "https://stream.zeno.fm/cgrwb1hd4v8uv"],
 
@@ -476,91 +443,25 @@
 
  	["Desi World - CA, US", "radio mp3", "https://scontent.fdel27-5.fna.fbcdn.net/v/t31.18172-8/27748315_193911918024698_2749932360338421270_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=1EqE3BuGwOAAX8f0kUa&tn=QrWM4Mq--jECOhJ0&_nc_ht=scontent.fdel27-5.fna&oh=00_AT8V0UWp8ST3iAklNZGt7x2kXkJcucLAdeznCLYuXQpTXA&oe=62F2365A", "https://stream.zeno.fm/4mbfcn4mf24tv"],
 
-
  	["Radio Antara", "radio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t1.6435-9/51620061_347359402774290_8749326351682502656_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=xDcgehxfQ5MAX_CEf1L&tn=QrWM4Mq--jECOhJ0&_nc_ht=scontent.fdel27-1.fna&oh=00_AT-YfWmXdlORgGoy_u-SE2BWgbDxRg6p89tkIx4bpZqgfg&oe=62F0595C", "https://stream.zenolive.com/x6ch94sse0quv"],
-
-
-
-
-
-
-
- 	["Calm - Los Angeles", "radio", "https://radiosindia.com/images/calmradio.jpg", "https://streams.calmradio.com:7028/;"],
-
-
- 	["Radio Namkin - Mumbai", "radio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.18169-9/12246874_891816117598140_7700240054460806601_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=ayes8Ve6xVQAX89wXa5&_nc_ht=scontent.fdel27-3.fna&oh=00_AT8UHeLqM2b7rbRwpeD6JNaQtyx9lh8oWmenV4OuO22UJg&oe=62F27154", "https://stream.zeno.fm/yg1qhsbaqv5tv"],
-
-
-
- 	["Radio Namkin - Los Angeles", "radio mp3", "img/radio-nasha.jpg", "https://indianlink.radioca.st/streams/128kbps"],
-
- 	["EBC Radio - Los Angeles", "radio mp3", "img/radio-nasha.jpg", "https://ice7.securenetsystems.net/WWTR?"],
-
- 	["Fun Asia - Los Angeles", "radio", "img/radio-nasha.jpg", "https://funasia.streamguys1.com/live-1?_=1596332823914"],
-
- 	["Saptarang - Los Angeles", "radio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t1.18169-9/13442119_1051053548311940_3174563265355564021_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=19026a&_nc_ohc=G8DGpBNgmpIAX_E81qi&_nc_ht=scontent.fdel27-1.fna&oh=00_AT_M5py78X9dV7wECcF1bE_sqBRZYVQ5dCLwD_1LcfRlpA&oe=62EF41F8", "https://cors.bitwize.com.lb/http://85.25.185.202:8138/stream"],
 
  	["Desi Maska - Chicago", "radio mp3", "http://www.desimaska.com/upload/slide/normal/5a973c7d905047.46547605.jpg", "https://ample.radiojar.com/q9rymqdbeyduv"],
 
- 	["Easy 96 - New York", "radio", "https://easy96.com/image/easy96.jpg", "https://ice8.securenetsystems.net/EASY96?type=.mp3"],
-
-
-
  	["Desi Radio - UK", "radio mp3", "https://i.guim.co.uk/img/media/40f5aca5d824391fba9c560a19172edbf745f661/0_115_1536_922/master/1536.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=2d570ce940635b5d9ca28b2fbf7b59c5", "https://desi.canstream.co.uk:8001/live.mp3"],
-
-
 
  	["Asian Star - UK", "radio mp3", "https://asianstarradio.co.uk/wp-content/uploads/2021/12/Shabo-scaled.jpeg", "https://radio.canstream.co.uk:9067/live.mp3"],
 
  	["Fever FM 107.3 UK", "radio", "https://www.radioasianfever.com/uploads/1607520176.png", "https://radio.canstream.co.uk:8115/live.mp3"],
 
- 	["Aap ki Aawaz - UK", "radio", "img/radio-nasha.jpg", "https://streaming02.zfast.co.uk/proxy/akram?mp=/stream//?type=http"],
-
- 	["Spice - UK", "radio mp3", "https://scontent.fdel27-4.fna.fbcdn.net/v/t1.6435-9/158999367_3797976746946515_5062901983041735324_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a26aad&_nc_ohc=5fkkxDzt__YAX8Z7K0E&_nc_ht=scontent.fdel27-4.fna&oh=00_AT-QFH-dlqZFnN9cKam6tcqzpr1JvCmAneFugOkESrRCEQ&oe=62F093F5", "https://spice988fm.radioca.st/stream"],
-
-
- 	["Awaz - Scotland", "radio", "https://www.awaazfm.co.uk/wp-content/uploads/2021/07/IMG-20210707-WA0064.jpg", "https://node-21.zeno.fm/vbrs8s6zetzuv?rj-ttl=5&rj-tok=AAABc6yrqgkAtI3dZzNfSNXtsg"],
-
- 	["HiD - Netherlands", "radio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t1.18169-9/12993345_1354278351265578_8485408939816211774_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=QNJBobpuFUoAX87IEk9&_nc_ht=scontent.fdel27-1.fna&oh=00_AT838pzovC98lorYzHQRqOAlC-65zFjyRwheW5afHbRzvA&oe=62F33A95", "https://hidradio.live-streams.nl/live"],
-
- 	["Sangeet - Spain", "radio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t31.18172-8/15774699_1491136220914260_4774191802846320239_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_ohc=m1HQ82Za1GwAX_840tt&_nc_ht=scontent.fdel27-1.fna&oh=00_AT8ZsoYidpQdkqrEQdIqD2qrEteHCJ-zGLrDGaPXkO5C6A&oe=62EF7A87", "https://www.radiomast.io/stream/22e2c991-fc0c-4242-8cba-0a64d0aea809/listen?_=1"],
-
+ 	["Lyca Radio 1458 AM", "radio", "https://www.bizasialive.com/wp-content/uploads/2016/11/lycaradio001.jpg", "https://ads-direct.sharp-stream.com/1458.mp3"], 
+    
+    
+    ["Spice - UK", "radio mp3", "https://scontent.fdel27-4.fna.fbcdn.net/v/t1.6435-9/158999367_3797976746946515_5062901983041735324_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a26aad&_nc_ohc=5fkkxDzt__YAX8Z7K0E&_nc_ht=scontent.fdel27-4.fna&oh=00_AT-QFH-dlqZFnN9cKam6tcqzpr1JvCmAneFugOkESrRCEQ&oe=62F093F5", "https://spice988fm.radioca.st/stream"],
 
  	["Olive - Denmark", "radio", "https://www.aljazeera.com/wp-content/uploads/2018/12/d0c713ff81754523afd16f1fe76e7687_18.jpeg", "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"],
-
- 	["Aasman Radio - Paris", "radio", "https://www.aasmanradio.fr/wp-content/uploads/2020/07/DP-600x375-20.jpg", "https://aasman_radio.ice.infomaniak.ch/aasmanradio"],
-
-
-
-
-
-
-
-
-
-
+    
  	["106.2 Big FM Dubai", "radio", "https://i.ytimg.com/vi/xBFOgpM-XzI/maxresdefault.jpg", "https://funasia.streamguys1.com/live4"],
+ 	
+    ["Mirchi - Fiji 2", "radio mp3", "https://play-lh.googleusercontent.com/F4UTE_uRdBPKD_NO9nCzvmUKLsUQCI8NRbthg_xMuZI23XafXzaDw3b64X6veGmTwXh_", "https://peridot.streamguys1.com:7150/RFTwo"]
 
- 	["Mirchi 1024 Dubai", "radio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t39.30808-6/277782736_5777439395618534_6655192478928728910_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=mLlVIkiQD5cAX8491xr&_nc_ht=scontent.fdel27-3.fna&oh=00_AT-xcsUY5aBL_BNAw9XdRUJNodGxZeDfMefVgp5OGlB6UA&oe=62D0DC70", "https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1"],
-
- 	["Lotus - South Africa", "radio", "img/radio-nasha.jpg", "https://playerservices.streamtheworld.com/api/livestream-redirect/LOTUSFM_SC"],
-
-
-
-
-
-
- 	["HUMM FM - New Zealand", "radio mp3", "img/radio-nasha.jpg", "https://cp12.serverse.com/proxy/hummfm?mp=/live"],
-
- 	["Mirchi - Fiji", "radio", "img/radio-nasha.jpg", "https://peridot.streamguys1.com:7150/Mirchi"],
-
- 	["Mirchi - Fiji 2", "radio mp3", "img/radio-nasha.jpg", "https://peridot.streamguys1.com:7150/RFTwo"],
-
- 	["Australian Hindi", "radio", "img/radio-nasha.jpg", "https://node-33.zeno.fm/bapme73qn7zuv?rj-ttl=5&rj-tok=AAABc6y-wX4A7iTCPJDR6o-nZg"],
-
- 	["Mastana - Australia", "radio mp3", "img/radio-nasha.jpg", "https://cors.bitwize.com.lb/http://radiomastanaaustralia.serverroom.net:9170/;"],
-
- 	["Radio 360 - Australia", "radio mp3", "img/radio-nasha.jpg", "https://cors.bitwize.com.lb/http://radio360aust.ddns.net:88/broadwave.mp3"],
- 	["Brisvaani - Australia", "radio mp3", "img/radio-nasha.jpg", "https://ssl.aloncast.com:1513/;"],
- 	["Indian Link - Australia", "radio", "img/radio-nasha.jpg", "https://indianlink.radioca.st/streams/128kbps"]
  ]
