@@ -51,40 +51,49 @@
 
 	.thumbtitle {display:none}
 	
+
+
 	/* VideoJS Player overrides */
-	#myvideo {height:100%;wi//dth:100%;margin:0;padding:0;}
+		/* VideoJS Player overrides */
+		#myvideo {background-size:cover;background-size:100% 100%!important; height:100%;width:100%;margin:0;padding:0}
 
-	 video[poster]{object-fit: cover}
-	.vjs-poster {background-size:100% 100%!important}
+		#vidZ{height:100%;width:100%;margin:0;padding:0}
+		#vidZ video{object-fit:initial;background-size:cover;background-size:100% 100%;margin:0;padding:0}
+		
+		.video-js {width:100%!important;height:100%!important}
+		.video-player {position:relative!important;width:100%!important;height:auto!important}
 	
-	.video-js .vjs-volume-panel.vjs-volume-panel-horizontal {width:10em!important}	
-	.video-js .vjs-volume-panel .vjs-volume-control {opacity:1;width:100%!important}
-
-	.vjs-live .vjs-progress-control {display: flex!important}
-	.video-js .vjs-live-control {border: 1px solid red;display:none!important}
+		.video-js {background-color:transparent!important}
+		.video-js .vjs-volume-panel.vjs-volume-panel-horizontal {width:10em!important}	
+		.video-js .vjs-volume-panel .vjs-volume-control {opacity:1;width:100%!important}
 	
-	.vjs-mo/dal-dialog{display:none!important}
+		.vjs-live .vjs-progress-control {display: flex!important}
+		.video-js .vjs-live-control {border: 1px solid red;display:none!important}
+		
+		.vjs-modal-dialog{display:none!important}
+		.vjs-live .vjs-progress-control{di//splay:flex}
+		
+		.vjs-live-display {displ//ay: none}
+		.video-js.vjs-live:not(.vjs-liveui) .vjs-seek-to-live-control,
+		.video-js:not(.vjs-live) .vjs-seek-to-live-control {display:inline-block}
+		
+		.vjs-paused.vjs-has-started .vjs-big-play-button {display:block!important}
+		
+		.video-js .vjs-big-play-button {
+			font-size: 5em!important;
+			line-height: 3em!important;
+			height: 3em!important;
+			width: 3em!important;
+			border: .03em solid #fff;
+			border-radius: 2em;
+			top: 40%!important;
+			left: 6%!important;
+		}
+		
+		.video-js .vjs-big-play-button .vjs-icon-placeholder:before {font-size:2em!important}	
 	
-	.video-js.vjs-live:not(.vjs-liveui) .vjs-seek-to-live-control,
-	.video-js:not(.vjs-live) .vjs-seek-to-live-control {display:inline-block}
-	
-	.vjs-paused.vjs-has-started .vjs-big-play-button {display:block!important}
-	
-	.video-js .vjs-big-play-button {
-		font-size: 5em!important;
-		line-height: 3em!important;
-		height: 3em!important;
-		width: 3em!important;
-		border: .03em solid #fff;
-		border-radius: 2em;
-		top: 40%!important;
-		left: 6%!important;
-	}
-	
-	.video-js .vjs-big-play-button .vjs-icon-placeholder:before {font-size:2em!important}	
-
-	.vjs-fullscreen-control.vjs-button	{font-size:2em!important}
-	.vjs-default-skin.vjs-paused .vjs-control-bar{display:block}
+		.vjs-fullscreen-control.vjs-button	{font-size:2em!important}
+		.vjs-default-skin.vjs-paused .vjs-control-bar{display:block}
 
     
 
