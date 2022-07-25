@@ -1,5 +1,5 @@
 ```py
-             Copyright 2021 Avishkar Patil
+             Copyright 2022 Kunsh
            
   [+] - Star 🌟 Before Copying this 😢  
   [+] - Follow me and get some new APIs and Repository 😅
