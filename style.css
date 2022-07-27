@@ -28,30 +28,125 @@
        .active img {width:173px;height:130px}
     }
 
-	::-webkit-scrollbar-thumb {background-color:yellow;}
-	::-webkit-scrollbar-corner {background:0 0;}
-	::-webkit-scrollbar {width:8px;height:8px;background:0 0;}
+	/*aside*/
+    .aside{position:absolute;top:0;right:calc(15%);float:top;width:50px;height:50px;padding:10px;margin:10px;font-family:arial;border-radius:50%}
+    
+	.aside ul {padding:0;margin:0;list-style:none;}
+    .aside ul li{margin:0;vertical-align:middle}
+	.aside .searchUl li {width:50px;height:50px;padding:0;margin:0;border:1px solid blue;border-radius:50px}
+	.aside .searchUl li:hover,.aside .searchUl li:active{cursor:pointer;border:1px solid yellow;background:yellow}
+
+	/*https://nikitahl.com/search-icon-inside-input*/
+	.aside .searchbox  {
+		color: #000;
+		display: flex;
+		padding: 2px;
+		border-radius: 5px;
+		margin: 0 0 30px;
+	}
+	.aside .hidden {display:none}
+
+	.aside .searchbox input:active,
+	.aside .searchbox input:hover{cursor:pointer}
+
+	.aside .searchbox {padding:6px;margin:0;position:absolute;float:top;right:0;text-align:right}
+	  
+	.aside .searchbox span {
+		display: flex;
+		padding: 2px;
+		border-radius: 5px;
+		margin:0;
+		background: rgba(229, 232, 114, .5)
+	}
+
+	.aside .searchbox input[type="text"] {
+	border: none;
+	color:#000;
+	width: 160px;
+	background: transparent;
+	margin: 0;
+	padding: 7px 8px;
+	font-size: 1.8em;
+	color: inherit;
+	border: 2px solid transparent;
+	border-radius: inherit;
+	}
+	.aside .searchbox input[type="text"]::placeholder {
+	color: #ffff00;
+	}
+
+	.aside .searchbox input[type="text"]:focus {
+	box-shadow: 0 0 3px 0 #ffff00;
+	border-color: #ffff00;
+	outline: none;
+	}
+	
+
+
+	.aside #filterList {	}
+	
+	.aside #filterList li {
+		color:#000;
+		cursor:pointer;
+		text-align:left;
+		padding:10px;
+		margin:1px;
+		border-radius: 5px;
+		background: rgba(229, 232, 114, .5)
+	}
+	.aside #filterList li:hover {background:yellow;font-size:1.2em}
+
+	.aside #filterList .filterChannel {
+		background: yellow;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
 	
 	/* navigation */
 	nav ul {padding:0;margin:0;list-style:none;}
 	#menu {background: #12c2e9;background: -webkit-linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);}
 
 	#menu li {margin:0;cursor:pointer; color:yellow;vertical-align:middle}
-	#menu li:hover {background:#fff;color:red!important;cursor:pointer}
+	#menu li:hover {background:yellow;cursor:pointer}
 	
-
 	.active img{background-color:yellow;border:10px solid yellow}
 
-
-	.hide{display:none!important;background-color:red!important;}
-	.notavailable	{text-decoration:line-through}
-
+	.hide {display:none!important}
+	.notavailable {text-decoration:line-through}
 
 	.thumbtitle {display:block;width:140px;hei//ght:80px;padding:4px;over/flow:hidden; text-ove/rflow: ellipsis; white-sp/ace: nowrap;display: flex;justify-content: left;align-items: center;}
-
 	.thumbtitle {display:none}
 	
 
+	.fullScreen{display:fullscreen;}
+
+	/*https://stackoverflow.com/questions/3899865/can-you-display-html5-video-as-a-full-screen-background*/
+	@media (min-aspect-ratio: 16/9) {
+		#vidZ{
+		  width: 100%;
+		  height: auto;
+		}
+	  }
+	  @media (max-aspect-ratio: 16/9) {
+		#vidZ{
+		  width: auto;
+		  height: 100%;
+		}
+	  }
 
 	/* VideoJS Player overrides */
 		/* VideoJS Player overrides */
@@ -95,9 +190,8 @@
 		.vjs-fullscreen-control.vjs-button	{font-size:2em!important}
 		.vjs-default-skin.vjs-paused .vjs-control-bar{display:block}
 
-    
+	::-webkit-scrollbar-thumb {background-color:yellow;}
+	::-webkit-scrollbar-corner {background:0 0;}
+	::-webkit-scrollbar {width:8px;height:8px;background:0 0;}
 
 
-    .searchTree{position:absolute;top:0;right:0;float:top;width:200px;background:#00ff00;padding:10px;margin:0;font-family:arial;}
-    .searchTree h1{font-size:16px;}
-    .searchHide{display:none}
