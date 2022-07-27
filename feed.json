@@ -28,8 +28,6 @@
 
  	["News 18 India", "news", "https://i.ytimg.com/vi/rNo9tuQMuCM/maxresdefault.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8"],
 
- 	["News 18 Lokmat", "news", "https://i.ytimg.com/vi/K58gphtBDmI/maxresdefault.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
-
  	["Republic Bharat", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-162/list/09162republicbharat.jpg", "https://www.youtube.com/embed/qfrocHBy6RQ?rel=0"],
 
  	["Republic World", "news", "https://bharat.republicworld.com/assets/images/r_logo_1024x1024.png", "https://weblive.republicworld.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-weblive-mobile-prod/a635f75d-e99f-420d-9b77-02af01fb9c33/4.m3u8"],
@@ -44,8 +42,6 @@
 
  	["India News", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-272/list/indianews1170236a9a331bb44314a4d62f435d2bd706.jpg", "https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8"],
 
- 	["News 36", "news", "https://news36live.com/app/images/22.png", "https://news36.livebox.co.in/news36livehls/live.m3u8"],
-
  	["Bharat Samachar", "news", "https://i.ytimg.com/vi/vp4psEzuTgs/maxresdefault.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
 
  	["Mirror Now", "news", "https://timesofindia.indiatimes.com/photo/57872133.cms", "https://dai.google.com/linear/hls/pb/event/DXkHhH2QSnma-HnE3QJqlA/stream/6d7b92e9-5309-4723-a782-2d50ae39c7a6:SIN/variant/9def3ef7ab61d68be9c09f463996ee38/bandwidth/1428000.m3u8"],
@@ -54,24 +50,56 @@
 
  	["Sudarshan News", "news", "https://media-exp1.licdn.com/dms/image/C511BAQGJC2RXsYVxgw/company-background_10000/0/1559202816158?e=2159024400&v=beta&t=yGSwFoZpnrcrGMt_CH-1aaQAWkGWsZ0-nkloBt8mXpc", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
 
- 	["Tribe TV", "news", "https://santalijagat.in.net/uploads/images/202108/image_750x415_6107d3db49da7.jpg", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
-
- 	["Hornbill TV", "news", "https://i.ytimg.com/vi/_SvlsUX_4OM/maxresdefault.jpg", "http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist_w1492888499.m3u8"],
-
-
-
  	["TV9 Bharatvarsh", "news", "https://cdn.myportfolio.com/822c501a1f7e2b70f9df29f21633dffc/ddbf52da-e9fb-4260-913b-ffd64540f402_rw_1920.jpg?h=275d8a9c54a202dcdfd06d7badc1fa8f", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8"],
-
 
  	["DD News", "news", "https://smartdigitalnews.com/wp-content/uploads/2020/04/DD.png", "https://playhls.media.nic.in/live/ddnews/index.m3u8"],
 
  	["Sansad TV", "news", "https://yt3.ggpht.com/ytc/AKedOLR2NCiHpGI_1wc4smCcL9LcKOpnluUoHzlhpZf_Kg=s900-c-k-c0x00ffffff-no-rj", "https://hls.media.nic.in/live/rstv-360p/index.m3u8"],
 
- 	["Northeast live", "regional", "https://northeastlivetv.com/wp-content/uploads/2018/11/NE-LIVE-Image.jpg", "https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8"],
+
+
+
+
+
+
+
+
+
+
+ 	["News 18 Lokmat", "news", "https://i.ytimg.com/vi/K58gphtBDmI/maxresdefault.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
+
+
+ 	["News 36", "news", "https://news36live.com/app/images/22.png", "https://news36.livebox.co.in/news36livehls/live.m3u8"],
+
+
+ 	["Tribe TV", "regional", "https://santalijagat.in.net/uploads/images/202108/image_750x415_6107d3db49da7.jpg", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
+
+ 	["Hornbill TV", "regional", "https://i.ytimg.com/vi/_SvlsUX_4OM/maxresdefault.jpg", "http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist_w1492888499.m3u8"],
+
+ 	["MH1 Prime", "regional", "https://i.ytimg.com/vi/kEQNr7X35Zg/maxresdefault.jpg", "http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8"],
+
+	["Northeast live", "regional", "https://northeastlivetv.com/wp-content/uploads/2018/11/NE-LIVE-Image.jpg", "https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8"],
 
  	["Kantipur Nepal", "regional", "https://static.vidgyor.com/live/midroll/assets/kantipur.png", "https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/playlist.m3u8"],
 
  	["Assam Talks", "regional", "https://live.staticflickr.com/8895/18126064071_7bf915b844_c.jpg", "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8"],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  	["Safari - Malayalam", "lifestyle", "https://i.ytimg.com/vi/ZXo4MkUDsZ4/sddefault_live.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
@@ -112,13 +140,13 @@
 
  	["Docubay India", "lifestyle", "https://www.cannesexpo.com/wp-content/uploads/2019/10/mipcom2019-8-1024x768.jpg", "https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8"],
 
- 	["A&E Reality", "lifestyle", "https://images.squarespace-cdn.com/content/v1/566c4efe5a5668242bae4c95/1559421870416-U9TO6JVUOO7M4R0EUKBQ/a%26e+logo.jpg", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
+ 	["A&E Reality", "lifestyle", "https://www.screenbinge.com/wp-content/uploads/2021/05/Watch-AE-Anywhere.jpg", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
 
  	["Smithsonian - US", "lifestyle", "https://media-exp1.licdn.com/dms/image/C561BAQFHNccUepxD3A/company-background_10000/0/1573141440659?e=2147483647&v=beta&t=H-wJhnOFqZz0CzbS26JavMloel9ivoGl2q3Ng2Vym54", "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"],
 
  	["Timeline - History", "lifestyle", "https://dynamiteevents.co.uk/wp-content/uploads/2020/03/DYNAMITE_TIMELINE-TV-CHRISTMAS-PARTY_Carousel.jpg", "https://lds-timeline-plex.amagi.tv/playlist.m3u8"],
 
- 	["FTV F-Men", "lifestyle", "https://www.logolynx.com/images/logolynx/27/27ecf4bed71f09d6ecbe9f7f39f95401.png", "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8"],
+ 	["FTV F-Men", "lifestyle", "https://media-exp1.licdn.com/dms/image/C4E1BAQEHPP7X4s15bA/company-background_10000/0/1574252092259?e=2147483647&v=beta&t=HzNReHjo53hNsDAttxx09z-d85IHXgCGZwgE_N_lM28", "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8"],
 
 
 
@@ -141,7 +169,7 @@
 
  	["Shemaroo TV", "movies", "https://www.thehindubusinessline.com/news/variety/xuqvxn/article31462919.ece/ALTERNATES/LANDSCAPE_1200/shemaroojpg", "http://14.199.164.20:4001/play/a0nh/index.m3u8"],
 
- 	["MH1 Prime", "movies", "https://i.ytimg.com/vi/kEQNr7X35Zg/maxresdefault.jpg", "http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8"],
+
 
  	["Hungama Artist Aloud", "movies", "https://media-exp1.licdn.com/dms/image/C4E1BAQEvITBGeFbF0w/company-background_10000/0/1556188756782?e=2159024400&v=beta&t=2T9AwdAXN_c4Z2XnMvx_1ovXlqdUnUYAY6wl9r6rlro", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
 
@@ -388,20 +416,20 @@
 
 
 
- 	["Gaana Live Radio", "radio", "https://res.feednews.com/assets/v2/cf49f21d52a59aba630381b2fdae4a80?width=1280&height=720&quality=hq&category=us_News_Entertainment", "https://stream.zeno.fm/szh14bya1feuv"],
+ 	["Gaana Live Radio", "internetradio", "https://res.feednews.com/assets/v2/cf49f21d52a59aba630381b2fdae4a80?width=1280&height=720&quality=hq&category=us_News_Entertainment", "https://stream.zeno.fm/szh14bya1feuv"],
 
- 	["FM 91.1 - Radio City", "radio", "https://i.ytimg.com/vi/hFEOhNsv7-4/maxresdefault.jpg", "https://prclive1.listenon.in/"],
+ 	["FM 91.1 - Radio City", "internetradio", "https://i.ytimg.com/vi/hFEOhNsv7-4/maxresdefault.jpg", "https://prclive1.listenon.in/"],
 
- 	["FM 92.7 - BIG FM", "radio", "https://media-exp1.licdn.com/dms/image/C511BAQHIwRLGcNK9TQ/company-background_10000/0/1547450907721?e=2147483647&v=beta&t=cnG-d3jLy6rCZhsKDsx1NE2NGzgp44a_MnW-_1_PIp0", "http://sc-bb.1.fm:8017/"],
+ 	["FM 92.7 - BIG FM", "internetradio", "https://media-exp1.licdn.com/dms/image/C511BAQHIwRLGcNK9TQ/company-background_10000/0/1547450907721?e=2147483647&v=beta&t=cnG-d3jLy6rCZhsKDsx1NE2NGzgp44a_MnW-_1_PIp0", "http://sc-bb.1.fm:8017/"],
 
 
- 	["FM 98.3 - Radio Mirchi", "radio", "https://images.jdmagicbox.com/comp/hubli/a8/0836px836.x836.190104162530.i2a8/catalogue/98-3-radio-mirchi-tb-road-hubli-radio-broadcasting-services-e3ftz9h331.jpg", "http://peridot.streamguys.com:7150/Mirchi"],
+ 	["FM 98.3 - Radio Mirchi", "internetradio", "https://images.jdmagicbox.com/comp/hubli/a8/0836px836.x836.190104162530.i2a8/catalogue/98-3-radio-mirchi-tb-road-hubli-radio-broadcasting-services-e3ftz9h331.jpg", "http://peridot.streamguys.com:7150/Mirchi"],
 
- 	["FM 100.1 - Vividh Bharti", "radio", "https://i.ytimg.com/vi/KabAZ-2QddU/maxresdefault.jpg", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
+ 	["FM 100.1 - Vividh Bharti", "internetradio", "https://i.ytimg.com/vi/KabAZ-2QddU/maxresdefault.jpg", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
 
- 	["FM 102.6 - AIR Rainbow", "radio", "https://scontent.fdel27-4.fna.fbcdn.net/v/t1.18169-9/15669_713439805359934_8643515448473030333_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hJ8ZsOximF0AX9gZVkN&_nc_oc=AQnttgbXgfSrvIzDibEY_qZWGK2r-fB8Z5nkyPsRQGPQUd4hOMZH8aHnMKnnXzExA4E&_nc_ht=scontent.fdel27-4.fna&oh=00_AT8efwuA6O1kEgusPmd-v9bqqTn43OKvPVB4TyMpfGCfaw&oe=6303D44B", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
+ 	["FM 102.6 - AIR Rainbow", "internetradio", "https://scontent.fdel27-4.fna.fbcdn.net/v/t1.18169-9/15669_713439805359934_8643515448473030333_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hJ8ZsOximF0AX9gZVkN&_nc_oc=AQnttgbXgfSrvIzDibEY_qZWGK2r-fB8Z5nkyPsRQGPQUd4hOMZH8aHnMKnnXzExA4E&_nc_ht=scontent.fdel27-4.fna&oh=00_AT8efwuA6O1kEgusPmd-v9bqqTn43OKvPVB4TyMpfGCfaw&oe=6303D44B", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
 
- 	["FM 106.4 - AIR Gold", "radio", "https://th-i.thgim.com/public/news/national/dmi2gg/article31359714.ece/alternates/LANDSCAPE_1200/TH17FM", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"],
+ 	["FM 106.4 - AIR Gold", "internetradio", "https://th-i.thgim.com/public/news/national/dmi2gg/article31359714.ece/alternates/LANDSCAPE_1200/TH17FM", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"],
 
  	["FM 107.2 - Radio Nasha", "radio notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"],
 
@@ -410,34 +438,34 @@
 
  	["Radio 90.5 FM", "radio mp3", "https://i.ytimg.com/vi/WHqwctiUTlU/maxresdefault.jpg", "https://ice42.securenetsystems.net/CR90?type=.mp3"],
 
- 	["Bollywood Now - UAE", "radio", "https://static2.mytuner.mobi/media/tvos_radios/PvpdDr9E4A.png", "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"],
+ 	["Bollywood Now - UAE", "internetradio", "https://static2.mytuner.mobi/media/tvos_radios/PvpdDr9E4A.png", "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"],
 
-  	["Kadak FM - Dubai", "radio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t39.30808-6/280666994_7507586672617306_6061754888400503823_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=83SRqBwRqHIAX9XaXpt&tn=ZO1mfzWPepMtTggW&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9I1shCE6a3umW5SxkrPwyqDjJ_xgchI9iKz3BBK9sZJw&oe=62E2402D", "https://admdn7ta.cdn.mangomolo.com/mirchirdo/mirchirdo.stream_aac/chunklist.m3u8"],
+  	["Kadak FM - Dubai", "internetradio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t39.30808-6/280666994_7507586672617306_6061754888400503823_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=83SRqBwRqHIAX9XaXpt&tn=ZO1mfzWPepMtTggW&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9I1shCE6a3umW5SxkrPwyqDjJ_xgchI9iKz3BBK9sZJw&oe=62E2402D", "https://admdn7ta.cdn.mangomolo.com/mirchirdo/mirchirdo.stream_aac/chunklist.m3u8"],
     
     
- 	["Instrumental Music Radio", "radio", "https://instrumentalhitsradio.com/images/IHR.jpg", "https://azuracast.vibesounds.in:8030/radio.mp3"],
+ 	["Instrumental Music Radio", "internetradio", "https://instrumentalhitsradio.com/images/IHR.jpg", "https://azuracast.vibesounds.in:8030/radio.mp3"],
  
     
-    ["Humm FM 1 - Dubai", "radio", "https://resources.stuff.co.nz/content/dam/images/1/8/p/9/a/c/image.related.StuffLandscapeThreeByTwo.1151x768.18p9jq.png/1450227647961.jpg", "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"],
+    ["Humm FM 1 - Dubai", "internetradio", "https://resources.stuff.co.nz/content/dam/images/1/8/p/9/a/c/image.related.StuffLandscapeThreeByTwo.1151x768.18p9jq.png/1450227647961.jpg", "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"],
 
- 	["Ujala Radio - Netherlands", "radio", "https://www.ujala.nl/wp-content/uploads/2017/02/Ujalas-Mela-On-Tour-85.jpg", "https://server4.ujala.nl/stream/2/listen.mp3"],
+ 	["Ujala Radio - Netherlands", "internetradio", "https://www.ujala.nl/wp-content/uploads/2017/02/Ujalas-Mela-On-Tour-85.jpg", "https://server4.ujala.nl/stream/2/listen.mp3"],
 
- 	["Tune India - Australia", "radio", "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b959db10982643.560eeeff957fe.jpg", "https://s2.radio.co/se5e166e2f/listen"],
+ 	["Tune India - Australia", "internetradio", "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b959db10982643.560eeeff957fe.jpg", "https://s2.radio.co/se5e166e2f/listen"],
 
-	["Tarana Radio - New Zealand", "radio", "https://i.ytimg.com/vi/5-puJseGmsM/maxresdefault.jpg", "https://peridot.streamguys1.com:7150/Tarana.aac"],
+	["Tarana Radio - New Zealand", "internetradio", "https://i.ytimg.com/vi/5-puJseGmsM/maxresdefault.jpg", "https://peridot.streamguys1.com:7150/Tarana.aac"],
 
 
- 	["Spice Radio - Bangladesh", "radio", "https://www.spicefmbd.com/assets/img/gallery/Celebrities/Armeen%20Musa%20with%20Rj%20Tazz.jpg", "http://162.254.149.187:9300/;"],
+ 	["Spice Radio - Bangladesh", "internetradio", "https://www.spicefmbd.com/assets/img/gallery/Celebrities/Armeen%20Musa%20with%20Rj%20Tazz.jpg", "http://162.254.149.187:9300/;"],
 
- 	["Bolly FM - West Bengal", "radio", "https://cdn-profiles.tunein.com/s121492/images/logod.png?t=162523", "https://stream.zeno.fm/zu59ykebs2zuv"],
+ 	["Bolly FM - West Bengal", "internetradio", "https://cdn-profiles.tunein.com/s121492/images/logod.png?t=162523", "https://stream.zeno.fm/zu59ykebs2zuv"],
 
- 	["Oye India", "radio", "https://liveonlineradio.net/wp-content/uploads/2020/10/oye-india-radio.jpg", "https://stream.zeno.fm/cgrwb1hd4v8uv"],
+ 	["Oye India", "internetradio", "https://liveonlineradio.net/wp-content/uploads/2020/10/oye-india-radio.jpg", "https://stream.zeno.fm/cgrwb1hd4v8uv"],
 
- 	["Hits Bollywood", "radio", "https://2.bp.blogspot.com/-ltN0hrcHuM4/V_CZoKX0c-I/AAAAAAAAEGQ/x20DuBqefXwPP2ETOobCEneoiIFVnpN-ACLcB/s1600/Hits%2BOf%2BBollywood%2BHindi%2BFM%2BLive%2BStreaming%2BOnline.jpg", "https://node-14.zeno.fm/rqqps6cbe3quv?rj-ttl=5&rj-tok=AAABccQyYG8AGJ3KW_903AafBw"],
+ 	["Hits Bollywood", "internetradio", "https://2.bp.blogspot.com/-ltN0hrcHuM4/V_CZoKX0c-I/AAAAAAAAEGQ/x20DuBqefXwPP2ETOobCEneoiIFVnpN-ACLcB/s1600/Hits%2BOf%2BBollywood%2BHindi%2BFM%2BLive%2BStreaming%2BOnline.jpg", "https://node-14.zeno.fm/rqqps6cbe3quv?rj-ttl=5&rj-tok=AAABccQyYG8AGJ3KW_903AafBw"],
 
  	["Desi World - CA, US", "radio mp3", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.18169-9/27657796_193899248025965_8175802572672028982_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7IatUNUrd3cAX_yHHgF&_nc_ht=scontent.fdel27-3.fna&oh=00_AT_G_jQngEBznm26EitYnBRi-ECMcOKRrG57lZiOld80fQ&oe=630595D2", "https://stream.zeno.fm/4mbfcn4mf24tv"],
 
- 	["Radio Antara", "radio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t1.6435-9/51620061_347359402774290_8749326351682502656_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=xDcgehxfQ5MAX_CEf1L&tn=QrWM4Mq--jECOhJ0&_nc_ht=scontent.fdel27-1.fna&oh=00_AT-YfWmXdlORgGoy_u-SE2BWgbDxRg6p89tkIx4bpZqgfg&oe=62F0595C", "https://stream.zenolive.com/x6ch94sse0quv"],
+ 	["Radio Antara", "internetradio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t1.6435-9/51620061_347359402774290_8749326351682502656_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=xDcgehxfQ5MAX_CEf1L&tn=QrWM4Mq--jECOhJ0&_nc_ht=scontent.fdel27-1.fna&oh=00_AT-YfWmXdlORgGoy_u-SE2BWgbDxRg6p89tkIx4bpZqgfg&oe=62F0595C", "https://stream.zenolive.com/x6ch94sse0quv"],
 
  	["Desi Maska - Chicago", "radio mp3", "http://www.desimaska.com/upload/slide/normal/5a973c7d905047.46547605.jpg", "https://ample.radiojar.com/q9rymqdbeyduv"],
 
@@ -445,41 +473,41 @@
 
  	["Asian Star - UK", "radio mp3", "https://asianstarradio.co.uk/wp-content/uploads/2021/12/Shabo-scaled.jpeg", "https://radio.canstream.co.uk:9067/live.mp3"],
 
- 	["Fever FM 107.3 UK", "radio", "https://www.radioasianfever.com/uploads/1607520176.png", "https://radio.canstream.co.uk:8115/live.mp3"],
+ 	["Fever FM 107.3 UK", "internetradio", "https://www.radioasianfever.com/uploads/1607520176.png", "https://radio.canstream.co.uk:8115/live.mp3"],
 
- 	["Lyca Radio 1458 AM", "radio", "https://www.bizasialive.com/wp-content/uploads/2016/11/lycaradio001.jpg", "https://ads-direct.sharp-stream.com/1458.mp3"], 
+ 	["Lyca Radio 1458 AM", "internetradio", "https://www.bizasialive.com/wp-content/uploads/2016/11/lycaradio001.jpg", "https://ads-direct.sharp-stream.com/1458.mp3"], 
     
     
     ["Spice - UK", "radio mp3", "https://scontent.fdel27-4.fna.fbcdn.net/v/t1.6435-9/158999367_3797976746946515_5062901983041735324_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a26aad&_nc_ohc=5fkkxDzt__YAX8Z7K0E&_nc_ht=scontent.fdel27-4.fna&oh=00_AT-QFH-dlqZFnN9cKam6tcqzpr1JvCmAneFugOkESrRCEQ&oe=62F093F5", "https://spice988fm.radioca.st/stream"],
 
- 	["Olive - Denmark", "radio", "https://www.aljazeera.com/wp-content/uploads/2018/12/d0c713ff81754523afd16f1fe76e7687_18.jpeg", "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"],
+ 	["Olive - Denmark", "internetradio", "https://www.aljazeera.com/wp-content/uploads/2018/12/d0c713ff81754523afd16f1fe76e7687_18.jpeg", "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"],
  	
     ["Mirchi - Fiji 2", "radio mp3", "https://play-lh.googleusercontent.com/F4UTE_uRdBPKD_NO9nCzvmUKLsUQCI8NRbthg_xMuZI23XafXzaDw3b64X6veGmTwXh_", "https://peridot.streamguys1.com:7150/RFTwo"],
 
 
 	
-	["Fun Asia - Los Angeles", "radio", "https://funasia.net/bigfantv.funasia.net/upload/radio/1/mainimage2736.png", "http://funasia.streamguys1.com/live11"],
+	["Fun Asia - Los Angeles", "internetradio", "https://funasia.net/bigfantv.funasia.net/upload/radio/1/mainimage2736.png", "http://funasia.streamguys1.com/live11"],
 
 	
-	["Big FM - Fun Asia", "radio", "https://funasia.net/bigfantv.funasia.net/upload/radio/23/mainimage3619.png", "https://funasia.streamguys1.com/live4"],
+	["Big FM - Fun Asia", "internetradio", "https://funasia.net/bigfantv.funasia.net/upload/radio/23/mainimage3619.png", "https://funasia.streamguys1.com/live4"],
 
-	["LUV DALLAS- 104.9 FM HD-4 - Fun Asia", "radio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.6435-9/177860922_167229545281248_2204035562629721282_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6ETwfD5bm6YAX_G4R-9&_nc_ht=scontent.fdel27-3.fna&oh=00_AT8RAz5DZilqumMha__PMlgEPuVZe1Q97xCkMgvbuFv-OQ&oe=63027E4C", "http://funasia.streamguys1.com/live10"],
+	["LUV DALLAS- 104.9 FM HD-4 - Fun Asia", "internetradio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.6435-9/177860922_167229545281248_2204035562629721282_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6ETwfD5bm6YAX_G4R-9&_nc_ht=scontent.fdel27-3.fna&oh=00_AT8RAz5DZilqumMha__PMlgEPuVZe1Q97xCkMgvbuFv-OQ&oe=63027E4C", "http://funasia.streamguys1.com/live10"],
 
 
-	["Bombay Beats - 1 FM", "radio", "https://www.1.fm/content/images/logo/04X560.png", "https://strmreg.1.fm/bombaybeats_mobile_mp3"],
+	["Bombay Beats - 1 FM", "internetradio", "https://www.1.fm/content/images/logo/04X560.png", "https://strmreg.1.fm/bombaybeats_mobile_mp3"],
 
-	["Classic Rock - 1 FM", "radio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t31.18172-8/1267304_363127043820362_1209842895_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=0Vsl12l8QuUAX82qEng&_nc_oc=AQniweDpIK4jwwE38RD_dMh9vX8SWTrQsBw-zgc6zftfOQkHO36DM9Guo5XfYFocmqc&tn=ZO1mfzWPepMtTggW&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9xCEQ0xpUNFe1b3KfynHdKqzZlGX9MFuYBd4iAfw26_w&oe=630546B0", "https://strm112.1.fm/crock_mobile_mp3"],
+	["Classic Rock - 1 FM", "internetradio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t31.18172-8/1267304_363127043820362_1209842895_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=0Vsl12l8QuUAX82qEng&_nc_oc=AQniweDpIK4jwwE38RD_dMh9vX8SWTrQsBw-zgc6zftfOQkHO36DM9Guo5XfYFocmqc&tn=ZO1mfzWPepMtTggW&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9xCEQ0xpUNFe1b3KfynHdKqzZlGX9MFuYBd4iAfw26_w&oe=630546B0", "https://strm112.1.fm/crock_mobile_mp3"],
    
 
-	["Party Zone 90s - 1 FM", "radio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t1.18169-9/11144079_691655140967549_6431582765767587653_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=cDNnV2JKeNoAX97jFeH&_nc_ht=scontent.fdel27-1.fna&oh=00_AT9uFvV3ZnAJNglAlphd9peycWz2NVOYu_8QMJfckjSGNA&oe=63046423", "https://strm112.1.fm/partyzone90s_mobile_mp3"],
+	["Party Zone 90s - 1 FM", "internetradio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t1.18169-9/11144079_691655140967549_6431582765767587653_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=cDNnV2JKeNoAX97jFeH&_nc_ht=scontent.fdel27-1.fna&oh=00_AT9uFvV3ZnAJNglAlphd9peycWz2NVOYu_8QMJfckjSGNA&oe=63046423", "https://strm112.1.fm/partyzone90s_mobile_mp3"],
 
 
-	["High Voltage - 1 FM", "radio", "https://www.sonicweb-radio.com/images/stations/128-1.fm-thechilloutlounge.png", "https://strm112.1.fm/highvoltage_mobile_mp3"],
+	["High Voltage - 1 FM", "internetradio", "https://www.sonicweb-radio.com/images/stations/128-1.fm-thechilloutlounge.png", "https://strm112.1.fm/highvoltage_mobile_mp3"],
    
-   ["Movie Sounttrack - 1 FM", "radio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.18169-9/10012570_450035401796192_1041615682_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=19026a&_nc_ohc=dy89qpS04BsAX8LE7Ss&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9TSBY7fFxmAssQoDh8jJGP9n-BA4yjDslWtTkHMgkucQ&oe=630545F5", "https://strm112.1.fm/moviesoundtracks_mobile_mp3"],
+   ["Movie Sounttrack - 1 FM", "internetradio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.18169-9/10012570_450035401796192_1041615682_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=19026a&_nc_ohc=dy89qpS04BsAX8LE7Ss&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9TSBY7fFxmAssQoDh8jJGP9n-BA4yjDslWtTkHMgkucQ&oe=630545F5", "https://strm112.1.fm/moviesoundtracks_mobile_mp3"],
 
-   ["Fusion Life Radio", "radio", "http://fusionliferadio.com/images/22jul-696x1024.jpeg", "https://c28.radioboss.fm:18046/stream"],
+   ["Fusion Life Radio", "internetradio", "http://fusionliferadio.com/images/22jul-696x1024.jpeg", "https://c28.radioboss.fm:18046/stream"],
     
-   ["VDesi", "radio", "https://scontent.fdel27-2.fna.fbcdn.net/v/t1.6435-9/138392988_451701219542798_4773615084829361087_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=t3ZhiuK3gvUAX9xHmAw&_nc_ht=scontent.fdel27-2.fna&oh=00_AT8jd6h9TYfHD_QLlOz11I9yRMHWynZr0lF8z0CYWuJFeQ&oe=62F10949", "https://stream.radio.co/s42e977b6c/listen"]
+   ["VDesi", "internetradio", "https://scontent.fdel27-2.fna.fbcdn.net/v/t1.6435-9/138392988_451701219542798_4773615084829361087_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=t3ZhiuK3gvUAX9xHmAw&_nc_ht=scontent.fdel27-2.fna&oh=00_AT8jd6h9TYfHD_QLlOz11I9yRMHWynZr0lF8z0CYWuJFeQ&oe=62F10949", "https://stream.radio.co/s42e977b6c/listen"]
 
  ]
