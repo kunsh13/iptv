@@ -164,7 +164,7 @@
 
 
 
- 	["Zee Biskop", "music", "https://dreamdth.com/wp-content/uploads/2019/11/Zee-Biskope.jpg", "http://210.210.155.35/qwr9ew/s/s32/index.m3u8"],
+ 	["Zee Biskop", "regional", "https://dreamdth.com/wp-content/uploads/2019/11/Zee-Biskope.jpg", "http://210.210.155.35/qwr9ew/s/s32/index.m3u8"],
 
 
  	["Shemaroo TV", "movies", "https://www.thehindubusinessline.com/news/variety/xuqvxn/article31462919.ece/ALTERNATES/LANDSCAPE_1200/shemaroojpg", "http://14.199.164.20:4001/play/a0nh/index.m3u8"],
@@ -323,25 +323,25 @@
 
  	["Red Bull", "international", "https://wallpaperaccess.com/full/563870.jpg", "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],
 
- 	["Alchimie Movies Central", "international", "https://ipohub.blob.core.windows.net/logos/bc082357-60ec-4c7e-9f4c-eec5d137d9b4.png", "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8"],
+ 	["Alchimie Movies Central", "movies", "https://ipohub.blob.core.windows.net/logos/bc082357-60ec-4c7e-9f4c-eec5d137d9b4.png", "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8"],
 
  	["Dust - Gunpowder & Sky", "international", "https://fpfqj8ac-sinclair.asset.cdn.remoco.tv/image/resource/5b351bd2e95b5a000ae0ce11/poster_16-9/OkquZT2O/original.jpg", "https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8"],
 
  	["Dust - Alter", "international", "https://i.ytimg.com/vi/BWY7EH9AFRM/maxresdefault.jpg", "https://dust.sinclair.wurl.com/manifest/playlist.m3u8"],
 
- 	["Stingray Greatest Hits", "international", "https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-greatest-hits/thumbh_20200717_232723.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"],
+ 	["Stingray Greatest Hits", "music", "https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-greatest-hits/thumbh_20200717_232723.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"],
 
- 	["Stingray Flashback", "international", "https://mediafile.galaxie.ca/data/000/123/662/000123662240", "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8"],
+ 	["Stingray Flashback", "music", "https://mediafile.galaxie.ca/data/000/123/662/000123662240", "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8"],
 
- 	["Stingray Karaoke", "international", "https://d1epjnee0y8w64.cloudfront.net/blog/s3fs-public/2018-04/1200x628_IOS_SK.jpg", "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8"],
+ 	["Stingray Karaoke", "music", "https://d1epjnee0y8w64.cloudfront.net/blog/s3fs-public/2018-04/1200x628_IOS_SK.jpg", "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8"],
 
- 	["Stingray Karaoke - Sweden", "international", "https://about.rogers.com/wp-content/uploads/2020/06/karaoke-scaled-e1591193993883.jpg", "https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8"],
+ 	["Stingray Karaoke - Sweden", "music", "https://about.rogers.com/wp-content/uploads/2020/06/karaoke-scaled-e1591193993883.jpg", "https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8"],
 
  	["VEVO", "international", "https://i.insider.com/5787e38688e4a78c148b815a?width=1000&format=jpeg&auto=webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
 
- 	["VH1", "international", "https://i.ytimg.com/vi/V7V-atgmeA4/maxresdefault.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
+ 	["VH1", "music", "https://i.ytimg.com/vi/V7V-atgmeA4/maxresdefault.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
 
- 	["1HD - Music", "international", "https://iks-online.net/wp-content/uploads/2018/12/Telekanal-1HD-muzykalnyj.jpg", "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8"],
+ 	["1HD - Music", "music", "https://iks-online.net/wp-content/uploads/2018/12/Telekanal-1HD-muzykalnyj.jpg", "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8"],
 
 
 
@@ -374,7 +374,7 @@
 
  	["PTC News IND", "music", "https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png", "https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8"],
 
- 	["PTC News US", "music", "https://i.ytimg.com/vi/N_YRHYQ6orQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcOtgnOTN3gdchUWGlDhJxajIipQ", "https://streaming.ptcplay.com/ptcnewsusONE/smil:Live.smil/playlist.m3u8"],
+ 	["PTC News US", "news", "https://i.ytimg.com/vi/N_YRHYQ6orQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcOtgnOTN3gdchUWGlDhJxajIipQ", "https://streaming.ptcplay.com/ptcnewsusONE/smil:Live.smil/playlist.m3u8"],
 
  	["9x Music", "music", "http://www.radioandmusic.com/sites/www.radioandmusic.com/files/images/biz/2017/12/29/9XM.png", "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"],
 
