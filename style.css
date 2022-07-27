@@ -60,29 +60,27 @@
 	}
 
 	.aside .searchbox input[type="text"] {
-	border: none;
-	color:#000;
-	width: 160px;
-	background: transparent;
-	margin: 0;
-	padding: 7px 8px;
-	font-size: 1.8em;
-	color: inherit;
-	border: 2px solid transparent;
-	border-radius: inherit;
+		border: none;
+		color:#000;
+		width: 160px;
+		background: transparent;
+		margin: 0;
+		padding: 7px 8px;
+		font-size: 1.8em;
+		color: inherit;
+		border: 2px solid transparent;
+		border-radius: inherit;
 	}
 	.aside .searchbox input[type="text"]::placeholder {
-	color: #ffff00;
+		color: #ffff00;
 	}
 
 	.aside .searchbox input[type="text"]:focus {
-	box-shadow: 0 0 3px 0 #ffff00;
-	border-color: #ffff00;
-	outline: none;
+		box-shadow: 0 0 3px 0 #ffff00;
+		border-color: #ffff00;
+		outline: none;
 	}
 	
-
-
 	.aside #filterList {	}
 	
 	.aside #filterList li {
@@ -94,7 +92,7 @@
 		border-radius: 5px;
 		background: rgba(229, 232, 114, .5)
 	}
-	.aside #filterList li:hover {background:yellow;font-size:1.2em}
+	.aside #filterList li:hover {background:yellow}
 
 	.aside #filterList .filterChannel {
 		background: yellow;
@@ -193,4 +191,5 @@
 	::-webkit-scrollbar-thumb {background-color:yellow;}
 	::-webkit-scrollbar-corner {background:0 0;}
 	::-webkit-scrollbar {width:8px;height:8px;background:0 0;}
+
 
