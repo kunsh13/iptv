@@ -1,5 +1,5 @@
 
-<h1 align='center'>✯ IPTV <a href="https://kunsh13.github.io/iptv/"><img src="/img/favicon_square.png" width="40" height="40"></a> Pʟᴀʏ 3.0 ✯</h1>
+<h1 align='center'>🌟 IPTV <a href="https://kunsh13.github.io/iptv/"><img src="/img/favicon_square.png" width="40" height="40"></a> 3.0🌟</h1>
 
 
 ###       Click image to open
