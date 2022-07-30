@@ -1,3 +1,14 @@
+/* Copyright 2022 Kunsh
+           
+[+] - Star 🌟 Before Copying this 😢  
+[+] - Follow me and get some new APIs and Repository 😅
+[+] - EveryOne can Use this Freely Here !!
+[+] - DO NOT sell anything or don't buy anyone like this its free 
+[+] - DO NOT remove Credit After Copying 😈
+ */
+
+
+
 
 	/* layout css */
 	html, body {background-color:#000;overflow:hidden;margin:0; padding:0;font-family:arial;height:100%}
@@ -6,17 +17,16 @@
 	main {box-sizing:border-box}
 	nav {overflow-y:scroll;scroll-behavior:smooth;background:#606060}
     
-	#menu li {padding:0;vertical-align:middle;line-height:1.8em;position: relative}
+	#menu li {padding:0;vertical-align:middle;line-height:1.8em;position:drelative}
 	.thumbimg {background:#242424}  
 	
 	@media only screen and (orientation: landscape) {
         main {width:calc(85%);height:calc(100%)}
         nav {width:calc(15%);height: calc(100%);position:absolute;top:0;right:0;}
 
-        #menu li {display:flex;flex-wrap:wrap}
-        .thumbimg {width:175px;height:100px}
-       .active img {width:164px;height:80px}    
-    
+		#menu li {display:flex;flex-wrap:wrap}
+		.thumbimg {width:95%;175px;height:100px}
+		.active img {width:164px!important;height:80px}
     }
 
     @media (orientation:portrait) {
@@ -28,6 +38,8 @@
        .active img {width:173px;height:130px}
     }
 
+
+	
 	/*aside*/
     .aside{position:absolute;top:0;right:calc(15%);float:top;width:50px;height:50px;padding:10px;margin:10px;font-family:arial;border-radius:50%}
     
@@ -39,7 +51,7 @@
 	/*https://nikitahl.com/search-icon-inside-input*/
 	.aside .searchbox  {
 		color: #000;
-		display: flex;
+		display: block;
 		padding: 2px;
 		border-radius: 5px;
 		margin: 0 0 30px;
@@ -99,7 +111,10 @@
 	}
 
 
-
+#currentInfo {position:absolute;top:10px;left:10px;
+				float:top;z-index:99;
+				font-size:3em;
+				color:yellow;}
 
 
 
@@ -119,7 +134,7 @@
 	#menu {background: #12c2e9;background: -webkit-linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);}
 
 	#menu li {margin:0;cursor:pointer; color:yellow;vertical-align:middle}
-	#menu li:hover {background:yellow;cursor:pointer}
+	#menu li:hover {background:#fff;cursor:pointer}
 	
 	.active img{background-color:yellow;border:10px solid yellow}
 
@@ -134,16 +149,10 @@
 
 	/*https://stackoverflow.com/questions/3899865/can-you-display-html5-video-as-a-full-screen-background*/
 	@media (min-aspect-ratio: 16/9) {
-		#vidZ{
-		  width: 100%;
-		  height: auto;
-		}
+		#vidZ{width: 100%;height: auto;	}
 	  }
 	  @media (max-aspect-ratio: 16/9) {
-		#vidZ{
-		  width: auto;
-		  height: 100%;
-		}
+				#vidZ{  width: auto; height: 100%; }
 	  }
 
 	/* VideoJS Player overrides */
