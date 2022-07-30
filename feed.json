@@ -115,6 +115,8 @@
 
  	["Comedy Hub - Just for Laugh", "lifestyle", "https://images.squarespace-cdn.com/content/v1/528b55afe4b04d10f50b4f75/1614163275147-RXUVNDG1Q4F4QAZ7Q8JR/comedyhub3.jpg", "https://uksono1-samsunguk.amagi.tv/playlist.m3u8"],
 
+ 	["Biznet Lifestyle", "lifestyle", "https://playboxneo.com/sites/default/files/styles/full_news_786x589/public/2019-06/Biznet_news.jpg", "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0"],
+
 
  	["Tastemade", "lifestyle", "https://www.tubefilter.com/wp-content/uploads/2015/12/Tastemade-40-Million-Series-D-Funding-1920x1131.jpg", "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8"],
 
@@ -171,9 +173,13 @@
 
 
 
- 	["Hungama Artist Aloud", "movies", "https://media-exp1.licdn.com/dms/image/C4E1BAQEvITBGeFbF0w/company-background_10000/0/1556188756782?e=2159024400&v=beta&t=2T9AwdAXN_c4Z2XnMvx_1ovXlqdUnUYAY6wl9r6rlro", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
+ 	["Hungama Artist Aloud", "movies", "https://www.hungama.com/IIMA1stEdition/images/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
 
  	["Hungama Dil Se", "movies", "https://i.pinimg.com/474x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
+
+
+ 	["Hungama Dhamaal", "music", "https://gamedva.com/wp-content/uploads/Hungama-Music.jpg", "https://live.hungama.com/linear/dhamaal/playlist.m3u8"],
+
 
  	["Hungama Kadak Hits", "movies", "https://yt3.ggpht.com/ytc/AKedOLTvZKT7taBUbd836SqrJpT7P-NTeeTCuZ4crCbcLw=s900-c-k-c0x00ffffff-no-rj", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
 
@@ -183,37 +189,52 @@
 
  	["AB Mastiii", "movies", "https://www.exchange4media.com/news-photo/101552-Untitleddesign5.jpg", "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8"],
 
+ 	["AMG TV", "movies", "https://backlighttv.com/wp-content/uploads/2014/11/AMGTV.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
+
+	["AMC East", "movies", "https://thestreamable.com/media/pages/news/amc-teases-new-amc-plus-distribution-partnerships-in-the-works/1903f0ba0c-1623941501/amc-plus-twd-splash.jpg", "https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8"],
+
+	["AMC Presents", "movies", "https://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg", "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
+
  	["AMC Rush", "movies", "https://provider-static.plex.tv/epg/images/ott_channels/arts/AMCThrillers_artwork_horizontal.jpg", "https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
 
- 	["Pop TV - Movies", "movies", "https://cdn.poptv.com/1804785680-29101_poptv_movie_banner.jpg", "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"],
+	 ["AMC+", "movies", "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/10/02/amcpluslogo-600_K6MwUsI.jpg", "https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8"],
+
+ 	["Pop TV - Movies", "movies", "https://www.multimediamouth.com/wp-content/uploads/2019/03/CorportePressMaterials_SPKeyArt.jpg", "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"],
 
  	["Filmstreams", "movies", "https://shareomaha.org/sites/default/files/media/223/DundeeTheaterbyHarrisonMartin.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
  	["Redbox", "movies", "https://www.reviewgeek.com/p/uploads/2020/08/a3d952a1.jpg?width=1200", "https://spotlight-vizio.amagi.tv/playlist.m3u8"],
 
- 	["Filmrise", "movies", "https://streamingstash.com/wp-content/uploads/2021/10/FilmRise-On-Samsung-Smart-TV-Android-TV-Firestick.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"],
+ 	["Redbox - Battery Pop", "movies", "https://geeksroom.com/wp-content/uploads/2020/12/redbox-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"],
 
- 	["Movie Sphere", "movies", "https://provider-static.plex.tv/epg/images/thumbnails/moviesphere_artwork_vertical.jpg", "https://moviesphere-plex.amagi.tv/playlist.m3u8"],
+ 	["Filmrise", "movies", "https://filmrise.com/uploads/images/Splash-Option-4.1HD.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"],
+
+ 	["Movie Sphere", "movies", "https://provider-static.plex.tv/epg/images/ott_channels/arts/moviesphere_artwork_horizontal.jpg", "https://moviesphere-plex.amagi.tv/playlist.m3u8"],
 
  	["My Time Movie", "movies", "https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png", "https://mytime-roku-ingest.cinedigm.com/playlist.m3u8"],
 
- 	["Discover Film", "movies", "https://media-exp3.licdn.com/dms/image/C561BAQEEsTdbC7Ua5w/company-background_10000/0/1564158436770?e=2159024400&v=beta&t=Piq6Fvo9AOxS5PInRmNgDs1cXupIiKrgc67iOCalTDo", "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8"],
+ 	["Dreamworks", "movies", "https://i.ytimg.com/vi/x1eUBmnpmO4/maxresdefault.jpg", "https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8"],	
+	
+	
+	["Discover Film", "movies", "https://media-exp3.licdn.com/dms/image/C561BAQEEsTdbC7Ua5w/company-background_10000/0/1564158436770?e=2159024400&v=beta&t=Piq6Fvo9AOxS5PInRmNgDs1cXupIiKrgc67iOCalTDo", "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8"],
 
  	["Rakuten Top", "movies", "https://img.kyodonews.net/english/public/images/posts/9a65a5b9f4dc6146f793d8f312193c66/photo_l.jpg", "https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"],
 
  	["Rakuten Family", "movies", "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imzItg7psqAw/v1/-1x-1.jpg", "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8"],
 
 
- 	["Rakuten Comedy", "movies", "https://global.rakuten.com/corp/innovation/assets/img/rnn/2017/0724_s/ogp.jpg", "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
+ 	["Rakuten Comedy", "movies", "https://s3-ap-northeast-1.amazonaws.com/psh-ex-ftnikkei-3937bb4/images/8/0/5/9/11259508-2-eng-GB/1214N_Rakuten.jpg", "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
 
  	["Rakuten Action", "movies", "https://www.lsa-conso.fr/mediatheque/3/6/8/000418863_5.jpg", "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
  	["AXN - Indonesia", "movies", "https://i.gadgets360cdn.com/large/axn_india_1590998944479.jpeg", "http://210.210.155.35/dr9445/h/h141/index.m3u8"],
 
- 	["HBO - Asia", "movies", "https://archello.s3.eu-central-1.amazonaws.com/images/2019/05/31/1HBO-Seattle-2016--7-.1559288571.1657.jpg", "https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8"],
+ 	["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
+	
+	["HBO - Asia", "movies", "https://archello.s3.eu-central-1.amazonaws.com/images/2019/05/31/1HBO-Seattle-2016--7-.1559288571.1657.jpg", "https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8"],
 
-
+ 	
  	["Cinemax", "movies", "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506916553_cinemax.jpg", "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8"],
 
 	["Star Movies HD", "movies", "https://content.osn.com/bob/745x419/STM.jpg", "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8"],
@@ -297,6 +318,26 @@
  	["Outdoor America", "international", "https://images-na.ssl-images-amazon.com/images/I/91+jfPQKEBL._RI_.jpg", "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8"],
 
  	["GoTraveler", "international", "https://images-eu.ssl-images-amazon.com/images/I/91bky0pmcGL.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8"],
+ 	
+	
+	
+	
+	["AKC TV", "international", "https://img5.schoolandcollegelistings.com/659/855/10159304396598558.jpg", "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8"],
+
+	
+	
+	["AKC TV - Meet the Breeds", "international", "https://cutewallpaper.org/21/afghan-hound-wallpapers/AKC.TV-Afghan-Hound.jpg", "https://broadcast.blivenyc.com/speed/broadcast/71/desktop-playlist.m3u8"],
+
+
+
+	
+	
+	["AKC TV - Puppies", "international", "http://web-cdn.blivenyc.com/generic/c90.1280x768.jpg", "https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8"],
+
+
+
+
+
 
  	["Fido Pet TV", "international", "https://www.digitaltveurope.com/files/2021/09/Fido-TV.png", "http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8"],
 
@@ -323,7 +364,10 @@
 
  	["Red Bull", "international", "https://wallpaperaccess.com/full/563870.jpg", "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],
 
- 	["Alchimie Movies Central", "movies", "https://ipohub.blob.core.windows.net/logos/bc082357-60ec-4c7e-9f4c-eec5d137d9b4.png", "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8"],
+ 	["Fish Tank TV", "international", "https://images-na.ssl-images-amazon.com/images/I/714iYXY7cOL._RI_.jpg", "https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8"],
+	
+	
+	["Alchimie Movies Central", "movies", "https://ipohub.blob.core.windows.net/logos/bc082357-60ec-4c7e-9f4c-eec5d137d9b4.png", "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8"],
 
  	["Dust - Gunpowder & Sky", "international", "https://fpfqj8ac-sinclair.asset.cdn.remoco.tv/image/resource/5b351bd2e95b5a000ae0ce11/poster_16-9/OkquZT2O/original.jpg", "https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8"],
 
