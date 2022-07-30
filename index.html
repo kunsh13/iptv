@@ -3,7 +3,7 @@
 <head>
 
     <meta charset=utf-8 />
-<title>Live TV and Radio 14</title>
+	<title>Live TV and Radio 14</title>
 
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -16,7 +16,7 @@
 	  gtag('config', 'G-QS1SK8MHZR');
 	</script>
 
-	<link rel="icon" href="img/favicon_round.png">
+	<link rel="icon" href="https://kunsh13.github.io/iptv/img/favicon_round.png">
     <link href="style.css" rel="stylesheet">
 
 	<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
@@ -28,10 +28,12 @@
 </head>
 <body>
     <section>
+		<div id="currentInfo"></div>
         <main>
             <div id="myvideo"></div>
         </main>
 		<div class="aside">
+	
 			<ul class="searchUl">
 				<li class="searchbutt"></li>
 				<!--li class="fav">Faviourites</li-->
@@ -41,7 +43,6 @@
 					<input type="text" id="inptbx" placeholder="Search...">
 					<!--button type="submit">Search</button-->
 				</span>
-
 				<ul id="filterList">
 					<li>Welcome</li>
 					<li>News</li>
@@ -90,4 +91,3 @@
 	const app = initializeApp(firebaseConfig);
 	const analytics = getAnalytics(app);
   </script>
-	  
