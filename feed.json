@@ -200,11 +200,15 @@
 
 	 ["AMC+", "movies", "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/10/02/amcpluslogo-600_K6MwUsI.jpg", "https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8"],
 
- 	["Pop TV - Movies", "movies", "https://www.multimediamouth.com/wp-content/uploads/2019/03/CorportePressMaterials_SPKeyArt.jpg", "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"],
+ 	["Pop TV - Movies", "movies", "https://www.multimediamouth.com/wp-content/uploads/2019/03/CorportePressMaterials_SPKeyArt.jpg", "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8"],
 
  	["Filmstreams", "movies", "https://shareomaha.org/sites/default/files/media/223/DundeeTheaterbyHarrisonMartin.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
- 	["Redbox", "movies", "https://www.reviewgeek.com/p/uploads/2020/08/a3d952a1.jpg?width=1200", "https://spotlight-vizio.amagi.tv/playlist.m3u8"],
+ 	["Redbox - Rush", "movies", "https://i.insider.com/6011e56d1d2df20018b713b6?width=700", "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8"],	
+	
+	["Redbox - Spotlight", "movies", "https://www.reviewgeek.com/p/uploads/2020/08/a3d952a1.jpg?width=1200", "https://spotlight-vizio.amagi.tv/playlist.m3u8"],
+	
+ 	["Redbox - Comedy", "movies", "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-1.57.09-PM.png", "https://comedy-redbox.amagi.tv/playlist.m3u8"],
 
  	["Redbox - Battery Pop", "movies", "https://geeksroom.com/wp-content/uploads/2020/12/redbox-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"],
 
@@ -413,6 +417,7 @@
  	["Stingray Karaoke - Sweden", "music", "https://about.rogers.com/wp-content/uploads/2020/06/karaoke-scaled-e1591193993883.jpg", "https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8"],
 
  	["VEVO", "international", "https://i.insider.com/5787e38688e4a78c148b815a?width=1000&format=jpeg&auto=webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
+	
 
  	["VH1", "music", "https://i.ytimg.com/vi/V7V-atgmeA4/maxresdefault.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
 
@@ -585,4 +590,4 @@
     
    ["VDesi", "internetradio", "https://scontent.fdel27-2.fna.fbcdn.net/v/t1.6435-9/138392988_451701219542798_4773615084829361087_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=t3ZhiuK3gvUAX9xHmAw&_nc_ht=scontent.fdel27-2.fna&oh=00_AT8jd6h9TYfHD_QLlOz11I9yRMHWynZr0lF8z0CYWuJFeQ&oe=62F10949", "https://stream.radio.co/s42e977b6c/listen"]
 
- ]
+]
