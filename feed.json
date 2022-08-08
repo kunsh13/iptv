@@ -98,8 +98,6 @@
 
  	["Animal Planet Hindi", "lifestyle", "https://dcom-prod.imgix.net/files/538428338FF64CE38F11D0F2535E1DB2.jpg", "https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8"],
 
- 	["Discovery HD Hindi", "lifestyle", "https://1.bp.blogspot.com/-IWzRnT0xWHA/Xo9MVXY2sdI/AAAAAAAABDM/ZSScvG6XvPIEe4KBsg643tAM-9e2sF3TQCLcBGAsYHQ/s1600/discovery-channel-Hindi.webp", "https://www.youtube.com/embed/jyIy4OGa-iQ?enablejsapi=1&amp=1&playsinline=1&iv_load_policy=3"],
-
  	["Clarity UHD 4K", "lifestyle", "https://i.ytimg.com/vi/RK1K2bCg4J8/maxresdefault.jpg", "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"],
 
  	["Love Nature UHD 4K", "lifestyle", "https://videos.thematv.com/love-nature-4k.jpg", "https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"],
@@ -163,16 +161,6 @@
 
 
 
-
-
-
-
-
- 	["Zee Biskop", "regional", "https://dreamdth.com/wp-content/uploads/2019/11/Zee-Biskope.jpg", "http://210.210.155.35/qwr9ew/s/s32/index.m3u8"],
-
- 	["Sony SAB", "regional", "https://s1.dmcdn.net/v/SMh8u1VFFyzBmxk97/x1080", "http://103.72.179.30:1935/GECHindi/ngrp:SONY_SAB.stream_all/Playlist.m3u8"],
-
-
  	["Shemaroo TV", "music", "https://www.thehindubusinessline.com/news/variety/xuqvxn/article31462919.ece/ALTERNATES/LANDSCAPE_1200/shemaroojpg", "http://14.199.164.20:4001/play/a0nh/index.m3u8"],
 
  	["Keralabhumi", "music", "https://i.ytimg.com/vi/s4Ba1XvoTts/mqdefault.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
@@ -181,17 +169,9 @@
 
  	["Hungama Dil Se", "music", "https://i.pinimg.com/474x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
 
-
- 	["Hungama Dhamaal", "music", "https://gamedva.com/wp-content/uploads/Hungama-Music.jpg", "https://live.hungama.com/linear/dhamaal/playlist.m3u8"],
-
-
  	["Hungama Kadak Hits", "music", "https://yt3.ggpht.com/ytc/AKedOLTvZKT7taBUbd836SqrJpT7P-NTeeTCuZ4crCbcLw=s900-c-k-c0x00ffffff-no-rj", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
 
  	["B4U Kadak", "movies", "https://dreamdth.com/wp-content/uploads/2020/06/B4U-Kadak-Logo-1024x853.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
-
- 	["AB Dabang", "movies", "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Dabangg_TV.jpg", "http://14.199.164.20:4001/play/a0nb/index.m3u8"],
-
- 	["AB Mastiii", "movies", "https://www.exchange4media.com/news-photo/101552-Untitleddesign5.jpg", "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8"],
 
  	["AMG TV", "movies", "https://backlighttv.com/wp-content/uploads/2014/11/AMGTV.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
 
@@ -354,20 +334,6 @@
  	
 	
 	
-	
-	["AKC TV", "international", "https://img5.schoolandcollegelistings.com/659/855/10159304396598558.jpg", "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8"],
-
-	
-	
-	["AKC TV - Meet the Breeds", "international", "https://cutewallpaper.org/21/afghan-hound-wallpapers/AKC.TV-Afghan-Hound.jpg", "https://broadcast.blivenyc.com/speed/broadcast/71/desktop-playlist.m3u8"],
-
-
-
-	
-	
-	["AKC TV - Puppies", "international", "http://web-cdn.blivenyc.com/generic/c90.1280x768.jpg", "https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8"],
-
-
 
 
 
