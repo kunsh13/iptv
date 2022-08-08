@@ -119,13 +119,18 @@
 	 
  	["Travel XP", "lifestyle", "https://www.traveldailymedia.com/assets/2018/04/Travelxp-4K.jpg", "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
- 	["Wonder - India", "lifestyle", "https://images.firstpost.com/wp-content/uploads/2021/04/samsung-tv-plus-min.jpg", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
+	["Gusto TV", "lifestyle", "https://www.videoageinternational.net/wp-content/uploads/2022/07/GustoTVLogo.jpg", "https://d3cajslujfq92p.cloudfront.net/playlist.m3u8"], 
+	
+	
+	["Wonder - India", "lifestyle", "https://images.firstpost.com/wp-content/uploads/2021/04/samsung-tv-plus-min.jpg", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
 
  	["Popstar! - India", "lifestyle", "https://programminginsider.com/wp-content/uploads/2022/05/popstar.jpeg", "https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8"],
 
  	["InSight - India", "lifestyle", "https://i.ytimg.com/vi/M0YcQUGQqaQ/maxresdefault.jpg", "https://insighttv-samsungindia.amagi.tv/playlist.m3u8"],
 
  	["InBites", "lifestyle", "https://advanced-television.com/wp-content/uploads/2020/12/InsightTV.jpg", "https://inshort-samsungindia.amagi.tv/playlist.m3u8"],
+
+ 	["InShort", "lifestyle", "https://advanced-television.com/wp-content/uploads/2020/12/InsightTV.jpg", "https://inshort-samsungindia.amagi.tv/playlist.m3u8"],
 
  	["InTrouble", "lifestyle", "https://yt3.ggpht.com/EQ6Slim2i8d3YgXWGgHNgOnHVhZB40iBFDmjrzliJJY8ddgS9UEAb1hImPIGIsEjhNo9Cg_K=s900-c-k-c0x00ffffff-no-rj", "https://introuble-samsungindia.amagi.tv/playlist.m3u8"],
 
@@ -163,26 +168,24 @@
 
 
 
-
-
  	["Zee Biskop", "regional", "https://dreamdth.com/wp-content/uploads/2019/11/Zee-Biskope.jpg", "http://210.210.155.35/qwr9ew/s/s32/index.m3u8"],
 
- 	["Sony SAB", "movies", "https://s1.dmcdn.net/v/SMh8u1VFFyzBmxk97/x1080", "http://103.72.179.30:1935/GECHindi/ngrp:SONY_SAB.stream_all/Playlist.m3u8"],
+ 	["Sony SAB", "regional", "https://s1.dmcdn.net/v/SMh8u1VFFyzBmxk97/x1080", "http://103.72.179.30:1935/GECHindi/ngrp:SONY_SAB.stream_all/Playlist.m3u8"],
 
 
- 	["Shemaroo TV", "movies", "https://www.thehindubusinessline.com/news/variety/xuqvxn/article31462919.ece/ALTERNATES/LANDSCAPE_1200/shemaroojpg", "http://14.199.164.20:4001/play/a0nh/index.m3u8"],
+ 	["Shemaroo TV", "music", "https://www.thehindubusinessline.com/news/variety/xuqvxn/article31462919.ece/ALTERNATES/LANDSCAPE_1200/shemaroojpg", "http://14.199.164.20:4001/play/a0nh/index.m3u8"],
 
+ 	["Keralabhumi", "music", "https://i.ytimg.com/vi/s4Ba1XvoTts/mqdefault.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
 
+ 	["Hungama Artist Aloud", "music", "https://www.hungama.com/IIMA1stEdition/images/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
 
- 	["Hungama Artist Aloud", "movies", "https://www.hungama.com/IIMA1stEdition/images/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
-
- 	["Hungama Dil Se", "movies", "https://i.pinimg.com/474x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
+ 	["Hungama Dil Se", "music", "https://i.pinimg.com/474x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
 
 
  	["Hungama Dhamaal", "music", "https://gamedva.com/wp-content/uploads/Hungama-Music.jpg", "https://live.hungama.com/linear/dhamaal/playlist.m3u8"],
 
 
- 	["Hungama Kadak Hits", "movies", "https://yt3.ggpht.com/ytc/AKedOLTvZKT7taBUbd836SqrJpT7P-NTeeTCuZ4crCbcLw=s900-c-k-c0x00ffffff-no-rj", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
+ 	["Hungama Kadak Hits", "music", "https://yt3.ggpht.com/ytc/AKedOLTvZKT7taBUbd836SqrJpT7P-NTeeTCuZ4crCbcLw=s900-c-k-c0x00ffffff-no-rj", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
 
  	["B4U Kadak", "movies", "https://dreamdth.com/wp-content/uploads/2020/06/B4U-Kadak-Logo-1024x853.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
 
@@ -212,7 +215,14 @@
 
  	["Redbox - Battery Pop", "movies", "https://geeksroom.com/wp-content/uploads/2020/12/redbox-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"],
 
- 	["Filmrise", "movies", "https://filmrise.com/uploads/images/Splash-Option-4.1HD.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"],
+ 	["Redbox - The Design Network", "lifestyle", "https://vhx.imgix.net/thedesignnetwork1/assets/243a1c37-2b4d-439f-84b9-8b051baf310b-674869d4.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8"], 
+	
+	["Filmrise", "movies", "https://filmrise.com/uploads/images/Splash-Option-4.1HD.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"],
+	
+	["Generations TV", "music", "https://s2.dmcdn.net/v/8pMxj1Lv8m92fuQBt/x1080", "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"],
+
+	["The Archive", "movies", "https://play-lh.googleusercontent.com/JCq-Wbve8mBOPM4ZjdUYwAVPXDoOkVbG7HcWq_OC6hULh6KoI6P0FqEfGb9RfElKXA", "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us"],
+
 
  	["Movie Sphere", "movies", "https://provider-static.plex.tv/epg/images/ott_channels/arts/moviesphere_artwork_horizontal.jpg", "https://moviesphere-plex.amagi.tv/playlist.m3u8"],
 
@@ -220,8 +230,10 @@
 
  	["Dreamworks", "movies", "https://i.ytimg.com/vi/x1eUBmnpmO4/maxresdefault.jpg", "https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8"],	
 	
+ 	["Distro - Movie Kingdom", "movies", "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffd2c437e102a3d7092a1c03c96fc3663505326458cdac7396dcfa31d1377e49e.jpg", "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"],
 
- 	["Cine Life", "movies", "https://a.jsrdn.com/hls/22933/cinelife/poster_20220718_171145.jpg", "https://magselect-stirr.amagi.tv/playlist1080p.m3u8"],	
+
+ 	["Cine Life", "movies", "https://a.jsrdn.com/hls/22933/cinelife/cinelife_thumbh_20210226_001038.jpg", "https://magselect-stirr.amagi.tv/playlist1080p.m3u8"],	
 	
  	["Ion Plus", "movies", "https://ionplustv.com/static/global/IONPlusDefault.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
 	
@@ -389,6 +401,7 @@
 	
 	["Relaxing Rain TV", "international", "https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/relaxing-rain_thumbh_20200718_001031.jpg", "https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8"],
 
+	["Stingray - Naturescape", "international", "https://d1epjnee0y8w64.cloudfront.net/blog/s3fs-public/2022-02/Stingray%20Naturescape%20-%20Romantic%20Valentines%20Day%20Ideas%20At%20Home.jpg", "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812bd9f249444e05d09cc4e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=692&terminate=false&userId="],
 
 	["Alchimie Movies Central", "movies", "https://ipohub.blob.core.windows.net/logos/bc082357-60ec-4c7e-9f4c-eec5d137d9b4.png", "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8"],
 
@@ -420,6 +433,8 @@
 	
 
  	["VH1", "music", "https://i.ytimg.com/vi/V7V-atgmeA4/maxresdefault.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
+
+	["MTV - Biggest Pop", "music", "https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg", "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"],
 
  	["The first music - Belarus UHD 4K", "music", "https://scontent.fdel27-5.fna.fbcdn.net/v/t1.18169-9/11110575_1036841726345307_7390953774007867122_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AFa9U_VRRh8AX-ZiK6o&_nc_ht=scontent.fdel27-5.fna&oh=00_AT_6gTwf0swAozOlTCmJ1yxGays-I8wJdgisrd-1i5yw9w&oe=630901F2", "http://rtmp.one.by:1499"],
 
@@ -588,6 +603,7 @@
 
    ["Fusion Life Radio", "internetradio", "http://fusionliferadio.com/images/22jul-696x1024.jpeg", "https://c28.radioboss.fm:18046/stream"],
     
-   ["VDesi", "internetradio", "https://scontent.fdel27-2.fna.fbcdn.net/v/t1.6435-9/138392988_451701219542798_4773615084829361087_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=t3ZhiuK3gvUAX9xHmAw&_nc_ht=scontent.fdel27-2.fna&oh=00_AT8jd6h9TYfHD_QLlOz11I9yRMHWynZr0lF8z0CYWuJFeQ&oe=62F10949", "https://stream.radio.co/s42e977b6c/listen"]
+
+      ["VDesi", "internetradio", "https://scontent.fdel27-2.fna.fbcdn.net/v/t1.6435-9/138392988_451701219542798_4773615084829361087_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=t3ZhiuK3gvUAX9xHmAw&_nc_ht=scontent.fdel27-2.fna&oh=00_AT8jd6h9TYfHD_QLlOz11I9yRMHWynZr0lF8z0CYWuJFeQ&oe=62F10949", "https://stream.radio.co/s42e977b6c/listen"]
 
 ]
