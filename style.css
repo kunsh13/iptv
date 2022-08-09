@@ -1,4 +1,3 @@
-
 /* Copyright 2022 Kunsh
            
 [+] - Star 🌟 Before Copying this 😢  
@@ -46,8 +45,12 @@
     
 	ul {padding:0;margin:0;list-style:none;}
     .aside ul li{margin:0;vertical-align:middle}
+
 	.aside .searchUl li {width:50px;height:50px;padding:0;margin:0;border:1px solid yellow;background: rgba(196, 113, 237, .2);border-radius:50%}
+	
 	.aside .searchUl li:hover,.aside .searchUl li:active{cursor:pointer;border:1px solid yellow;background:yellow}
+
+	
 
 	/*https://nikitahl.com/search-icon-inside-input*/
 	.aside .searchbox  {
@@ -147,6 +150,7 @@
 	
 	.active:befo//re {content:"Active Channel";position:absolute;left:10px;padding:10px}
 	.active img{background-color:yellow;border:10px solid yellow}
+	.active img:hover {border-right:10px solid #fff}
 
 	.hide {display:none!important}
 	.notavailable {text-decoration:line-through}
