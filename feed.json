@@ -486,7 +486,7 @@
 
 ["FM 100.1 - Vividh Bharti", "internetradio", "https://i.ytimg.com/vi/KabAZ-2QddU/maxresdefault.jpg", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
 
-["FM 102.6 - AIR Rainbow", "internetradio", "https://scontent.fdel27-4.fna.fbcdn.net/v/t1.18169-9/15669_713439805359934_8643515448473030333_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hJ8ZsOximF0AX9gZVkN&_nc_oc=AQnttgbXgfSrvIzDibEY_qZWGK2r-fB8Z5nkyPsRQGPQUd4hOMZH8aHnMKnnXzExA4E&_nc_ht=scontent.fdel27-4.fna&oh=00_AT8efwuA6O1kEgusPmd-v9bqqTn43OKvPVB4TyMpfGCfaw&oe=6303D44B", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
+["FM 102.6 - AIR Rainbow", "internetradio", "img/fm_airgold.jpg", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
 
 ["FM 106.4 - AIR Gold", "internetradio", "https://th-i.thgim.com/public/news/national/dmi2gg/article31359714.ece/alternates/LANDSCAPE_1200/TH17FM", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"],
 
@@ -507,7 +507,7 @@
 
 ["Humm FM 1 - Dubai", "internetradio", "https://resources.stuff.co.nz/content/dam/images/1/8/p/9/a/c/image.related.StuffLandscapeThreeByTwo.1151x768.18p9jq.png/1450227647961.jpg", "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"],
 
-["Ujala Radio - Netherlands", "internetradio", "https://www.ujala.nl/wp-content/uploads/2017/02/Ujalas-Mela-On-Tour-85.jpg", "https://server4.ujala.nl/stream/2/listen.mp3"],
+["Ujala Radio - Netherlands", "internetradio", "img/fm_Ujalas-Mela-On-Tour-85.jpg", "https://server4.ujala.nl/stream/2/listen.mp3"],
 
 ["Tune India - Australia", "internetradio", "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b959db10982643.560eeeff957fe.jpg", "https://s2.radio.co/se5e166e2f/listen"],
 
@@ -522,7 +522,7 @@
 
 ["Hits Bollywood", "internetradio", "https://2.bp.blogspot.com/-ltN0hrcHuM4/V_CZoKX0c-I/AAAAAAAAEGQ/x20DuBqefXwPP2ETOobCEneoiIFVnpN-ACLcB/s1600/Hits%2BOf%2BBollywood%2BHindi%2BFM%2BLive%2BStreaming%2BOnline.jpg", "https://node-14.zeno.fm/rqqps6cbe3quv?rj-ttl=5&rj-tok=AAABccQyYG8AGJ3KW_903AafBw"],
 
-["Desi World - CA, US", "radio mp3", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.18169-9/27657796_193899248025965_8175802572672028982_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7IatUNUrd3cAX_yHHgF&_nc_ht=scontent.fdel27-3.fna&oh=00_AT_G_jQngEBznm26EitYnBRi-ECMcOKRrG57lZiOld80fQ&oe=630595D2", "https://stream.zeno.fm/4mbfcn4mf24tv"],
+["Desi World - CA, US", "radio mp3", "img/fm_desiworld.jpg", "https://stream.zeno.fm/4mbfcn4mf24tv"],
 
 ["Radio Antara", "internetradio", "https://liveradios.in/wp-content/uploads/Antara-Logo.jpg", "https://stream.zenolive.com/x6ch94sse0quv"],
 
@@ -537,11 +537,11 @@
 ["Lyca Radio 1458 AM", "internetradio", "https://www.bizasialive.com/wp-content/uploads/2016/11/lycaradio001.jpg", "https://ads-direct.sharp-stream.com/1458.mp3"], 
 
 
-["Spice - UK", "radio mp3", "https://lh5.googleusercontent.com/p/AF1QipMupM-YRqD_X6q7Kk1Mn9egKBcyo0loxqLCLogK=w810-h878-p-k-no", "https://spice988fm.radioca.st/stream"],
+["Spice - UK", "radio mp3", "img/fm_spiceUK.jpg", "https://spice988fm.radioca.st/stream"],
 
-["Olive - Denmark", "internetradio", "https://www.aljazeera.com/wp-content/uploads/2018/12/d0c713ff81754523afd16f1fe76e7687_18.jpeg", "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"],
+["Olive - Denmark", "internetradio", "img/fm_olive.webp", "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"],
 
-["Mirchi - Fiji 2", "radio mp3", "https://play-lh.googleusercontent.com/F4UTE_uRdBPKD_NO9nCzvmUKLsUQCI8NRbthg_xMuZI23XafXzaDw3b64X6veGmTwXh_", "https://peridot.streamguys1.com:7150/RFTwo"],
+["Mirchi - Fiji 2", "radio mp3", "img/fm_fiji2.png", "https://peridot.streamguys1.com:7150/RFTwo"],
 
 
 
@@ -550,24 +550,24 @@
 
 ["Big FM - Fun Asia", "internetradio", "https://funasia.net/bigfantv.funasia.net/upload/radio/23/mainimage3619.png", "https://funasia.streamguys1.com/live4"],
 
-["LUV DALLAS- 104.9 FM HD-4 - Fun Asia", "internetradio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.6435-9/177860922_167229545281248_2204035562629721282_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6ETwfD5bm6YAX_G4R-9&_nc_ht=scontent.fdel27-3.fna&oh=00_AT8RAz5DZilqumMha__PMlgEPuVZe1Q97xCkMgvbuFv-OQ&oe=63027E4C", "http://funasia.streamguys1.com/live10"],
+["LUV DALLAS- 104.9 FM HD-4 - Fun Asia", "internetradio", "img/fm_luv_dallas.png", "http://funasia.streamguys1.com/live10"],
 
 
 ["Bombay Beats - 1 FM", "internetradio", "https://www.1.fm/content/images/logo/04X560.png", "https://strmreg.1.fm/bombaybeats_mobile_mp3"],
 
-["Classic Rock - 1 FM", "internetradio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t31.18172-8/1267304_363127043820362_1209842895_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=0Vsl12l8QuUAX82qEng&_nc_oc=AQniweDpIK4jwwE38RD_dMh9vX8SWTrQsBw-zgc6zftfOQkHO36DM9Guo5XfYFocmqc&tn=ZO1mfzWPepMtTggW&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9xCEQ0xpUNFe1b3KfynHdKqzZlGX9MFuYBd4iAfw26_w&oe=630546B0", "https://strm112.1.fm/crock_mobile_mp3"],
+["Classic Rock - 1 FM", "internetradio", "img/fm_1.fm-classic.png", "https://strm112.1.fm/crock_mobile_mp3"],
 
 
-["Party Zone 90s - 1 FM", "internetradio", "https://scontent.fdel27-1.fna.fbcdn.net/v/t1.18169-9/11144079_691655140967549_6431582765767587653_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=cDNnV2JKeNoAX97jFeH&_nc_ht=scontent.fdel27-1.fna&oh=00_AT9uFvV3ZnAJNglAlphd9peycWz2NVOYu_8QMJfckjSGNA&oe=63046423", "https://strm112.1.fm/partyzone90s_mobile_mp3"],
+["Party Zone 90s - 1 FM", "internetradio", "img/fm_1.fm-clubRadio.png", "https://strm112.1.fm/partyzone90s_mobile_mp3"],
 
 
-["High Voltage - 1 FM", "internetradio", "https://www.sonicweb-radio.com/images/stations/128-1.fm-thechilloutlounge.png", "https://strm112.1.fm/highvoltage_mobile_mp3"],
+["High Voltage - 1 FM", "internetradio", "img/fm_1.fm-thechilloutlounge.png", "https://strm112.1.fm/highvoltage_mobile_mp3"],
 
-["Movie Sounttrack - 1 FM", "internetradio", "https://scontent.fdel27-3.fna.fbcdn.net/v/t1.18169-9/10012570_450035401796192_1041615682_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=19026a&_nc_ohc=dy89qpS04BsAX8LE7Ss&_nc_ht=scontent.fdel27-3.fna&oh=00_AT9TSBY7fFxmAssQoDh8jJGP9n-BA4yjDslWtTkHMgkucQ&oe=630545F5", "https://strm112.1.fm/moviesoundtracks_mobile_mp3"],
+["Movie Sounttrack - 1 FM", "internetradio", "img/fm_OneClub.jpg", "https://strm112.1.fm/moviesoundtracks_mobile_mp3"],
 
 ["Fusion Life Radio", "internetradio", "http://fusionliferadio.com/images/22jul-696x1024.jpeg", "https://c28.radioboss.fm:18046/stream"],
 
 
-["VDesi", "internetradio", "img/fm_vdesi2.jpg", "https://stream.radio.co/s42e977b6c/listen"]
+["VDesi", "internetradio", "img/fm_vdesi1.jpg", "https://stream.radio.co/s42e977b6c/listen"]
 
 ]
