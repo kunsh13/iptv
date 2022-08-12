@@ -521,12 +521,12 @@
 
 ["FM 106.4 - AIR Gold", "internetradio", "https://th-i.thgim.com/public/news/national/dmi2gg/article31359714.ece/alternates/LANDSCAPE_1200/TH17FM", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"],
 
-["FM 107.2 - Radio Nasha", "radio notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"],
+["FM 107.2 - Radio Nasha", "internetradio notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"],
 
-["Sound Asia - Nairobi", "radio mp3", "img/fm_soundasia1.jpg", "https://cors.bitwize.com.lb/http://41.72.210.222:88/stream"],
+["Sound Asia - Nairobi", "internetradio mp3", "img/fm_soundasia1.jpg", "https://cors.bitwize.com.lb/http://41.72.210.222:88/stream"],
 
 
-["Radio 90.5 FM", "radio mp3", "https://i.ytimg.com/vi/WHqwctiUTlU/maxresdefault.jpg", "https://ice42.securenetsystems.net/CR90?type=.mp3"],
+["Radio 90.5 FM", "internetradio mp3", "https://i.ytimg.com/vi/WHqwctiUTlU/maxresdefault.jpg", "https://ice42.securenetsystems.net/CR90?type=.mp3"],
 
 ["Bollywood Now - UAE", "internetradio", "https://static2.mytuner.mobi/media/tvos_radios/PvpdDr9E4A.png", "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"],
 
