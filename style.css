@@ -72,7 +72,7 @@
 		padding: 2px;
 		border-radius: 5px;
 		margin:0;
-		background: rgba(229, 232, 114, .5)
+		background: rgba(229, 232, 114, .8)
 	}
 
 	.aside .searchbox input[type="text"] {
@@ -106,7 +106,7 @@
 		padding:10px;
 		margin:1px;
 		border-radius: 5px;
-		background: rgba(229, 232, 114, .5)
+		background: rgba(229, 232, 114, .8)
 	}
 	.aside #filterList li:hover {background:yellow}
 
@@ -194,6 +194,8 @@
 		.video-js:not(.vjs-live) .vjs-seek-to-live-control {display:inline-block}
 		
 		.vjs-paused.vjs-has-started .vjs-big-play-button {display:block!important}
+
+		.vjs-playback-rate .vjs-playback-rate-value {line-height: 3.6!important}
 		
 		.video-js .vjs-big-play-button {
 			font-size: 5em!important;
