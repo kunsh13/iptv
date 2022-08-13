@@ -197,7 +197,6 @@
 
 ["Filmrise", "movies", "https://filmrise.com/uploads/images/Splash-Option-4.1HD.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"],
 
-["Generations TV", "music", "https://s2.dmcdn.net/v/8pMxj1Lv8m92fuQBt/x1080", "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"],
 
 ["The Archive", "movies", "https://play-lh.googleusercontent.com/JCq-Wbve8mBOPM4ZjdUYwAVPXDoOkVbG7HcWq_OC6hULh6KoI6P0FqEfGb9RfElKXA", "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us"],
 
@@ -206,21 +205,54 @@
 
 ["My Time Movie", "movies", "https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png", "https://mytime-roku-ingest.cinedigm.com/playlist.m3u8"],
 
-["Dreamworks", "movies", "https://i.ytimg.com/vi/x1eUBmnpmO4/maxresdefault.jpg", "https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8"],	
 
 ["Distro - Movie Kingdom", "movies", "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffd2c437e102a3d7092a1c03c96fc3663505326458cdac7396dcfa31d1377e49e.jpg", "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"],
 
 
 ["Cine Life", "movies", "https://a.jsrdn.com/hls/22933/cinelife/cinelife_thumbh_20210226_001038.jpg", "https://magselect-stirr.amagi.tv/playlist1080p.m3u8"],	
 
+["Cinema Heaven - South Korea", "movies", "img/cinemaheavenKorea2.jpg", "https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8"],	
+
+
+["Dubai One", "movies", "img/dubaiOne1.jpg", "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8"],
+
+
+["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
+
+
 ["Ion Plus", "movies", "https://ionplustv.com/static/global/IONPlusDefault.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
 
 
-["Cinema Heaven", "movies", "https://a.jsrdn.com/hls/22933/cinelife/poster_20220718_171145.jpg", "https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8"],	
+
+
+
+
+
+
+
+
+
+
+["Dreamworks", "movies", "https://www.towson.edu/news/images/moses-koo-m.jpg", "https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8"],	
+
+["Rakuten Family", "movies", "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imzItg7psqAw/v1/-1x-1.jpg", "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8"],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ["Rakuten Top", "movies", "https://img.kyodonews.net/english/public/images/posts/9a65a5b9f4dc6146f793d8f312193c66/photo_l.jpg", "https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"],
 
-["Rakuten Family", "movies", "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imzItg7psqAw/v1/-1x-1.jpg", "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8"],
 
 
 ["Rakuten Comedy", "movies", "https://s3-ap-northeast-1.amazonaws.com/psh-ex-ftnikkei-3937bb4/images/8/0/5/9/11259508-2-eng-GB/1214N_Rakuten.jpg", "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
@@ -240,7 +272,6 @@
 
 ["AXN - Indonesia", "movies", "https://i.gadgets360cdn.com/large/axn_india_1590998944479.jpeg", "http://210.210.155.35/dr9445/h/h141/index.m3u8"],
 
-["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
 
 ["HBO - Asia", "movies", "https://archello.s3.eu-central-1.amazonaws.com/images/2019/05/31/1HBO-Seattle-2016--7-.1559288571.1657.jpg", "https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8"],
 
@@ -249,7 +280,7 @@
 
 ["Star Movies HD", "movies", "https://content.osn.com/bob/745x419/STM.jpg", "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8"],
 
-["Dubai One", "movies", "https://x-architects.com/uploads/news/original/87884Y9PC0SK9P3Y8MSI775775665910700.jpg", "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8"],
+
 
 ["Local Now Elevation", "movies", "https://f9q4g5j6.ssl.hwcdn.net/60afed8edf73655e020c6f75/900", "https://linear-210.frequency.stream/dist/localnow/210/hls/master/playlist.m3u8"],
 
@@ -380,20 +411,34 @@
 
 
 
-["Iskcon Vrindavan - Live Darshan ", "livecam", "https://iskconvrindavan.com/images/slider/slide2.jpg", "https://5f1e336f6be67.streamlock.net/live-iscon/smil:iscon.smil/chunklist_w1172064669_b720000.m3u8"],
 
 
 
 
-["Aurora Borealis, Lapland, Sweden - Live cam", "livecam", "https://i.ytimg.com/vi/929RSTT_N0c/maxresdefault.jpg", "https://d3s417coyr0vjf.cloudfront.net/streams/193238877898293729462172.m3u8"],
 
 
 
-["Shinjuku Station, Japan - Live cam", "livecam", "https://i0.wp.com/railwaytraveller.com/wp-content/uploads/2020/08/shinjuku-station-outside-featured.jpg?fit=1002%2C675&ssl=1", "https://www.youtube.com/embed/KP56AHqrMn8"],
 
 
-["Verbier - Switzerland Live cam", "livecam", "https://i.ytimg.com/vi/4roIOlatYmQ/maxresdefault.jpg", "https://www.youtube.com/embed/yDKJMdZTEXQ"],
 
+
+
+
+
+
+
+
+["Iskcon Vrindavan - Live Darshan ", "camera", "https://iskconvrindavan.com/images/slider/slide2.jpg", "https://5f1e336f6be67.streamlock.net/live-iscon/smil:iscon.smil/chunklist_w1172064669_b720000.m3u8"],
+
+["Aurora Borealis, Lapland, Sweden - Live cam", "camera", "https://i.ytimg.com/vi/929RSTT_N0c/maxresdefault.jpg", "https://d3s417coyr0vjf.cloudfront.net/streams/193238877898293729462172.m3u8"],
+
+["Shinjuku Station, Japan - Live cam", "camera", "https://i0.wp.com/railwaytraveller.com/wp-content/uploads/2020/08/shinjuku-station-outside-featured.jpg?fit=1002%2C675&ssl=1", "https://www.youtube.com/embed/KP56AHqrMn8"],
+
+["Tokyo night walk from Shimbashi to Tamachi・4K HDR - Rambalac", "camera", "https://i.ytimg.com/vi/Lomi9pORVqk/maxresdefault.jpg", "https://www.youtube.com/embed/Lomi9pORVqk"],
+
+["Verbier - Switzerland Live cam", "camera", "https://i.ytimg.com/vi/4roIOlatYmQ/maxresdefault.jpg", "https://www.youtube.com/embed/yDKJMdZTEXQ"],
+
+["Fly over Italy", "camera", "https://i.ytimg.com/vi/p0AejVoKT78/maxresdefault.jpg", "https://www.youtube.com/embed/k81tUKk_A9c"],
 
 
 
@@ -420,7 +465,10 @@
 
 ["Stingray Karaoke - Sweden", "music", "https://about.rogers.com/wp-content/uploads/2020/06/karaoke-scaled-e1591193993883.jpg", "https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8"],
 
-["VEVO", "international", "https://i.insider.com/5787e38688e4a78c148b815a?width=1000&format=jpeg&auto=webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
+
+["Generations TV", "music", "https://s2.dmcdn.net/v/8pMxj1Lv8m92fuQBt/x1080", "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"],
+
+["VEVO", "music", "https://i.insider.com/5787e38688e4a78c148b815a?width=1000&format=jpeg&auto=webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
 
 
 ["VH1", "music", "https://i.ytimg.com/vi/V7V-atgmeA4/maxresdefault.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
@@ -506,7 +554,7 @@
 
 
 
-["Gaana Live Radio", "internetradio", "img/fm_gaana.png", "https://stream.zeno.fm/szh14bya1feuv"],
+["Gaana Plus", "internetradio", "img/fm_gaana.png", "https://stream.zeno.fm/szh14bya1feuv"],
 
 ["FM 91.1 - Radio City", "internetradio", "https://www.financialexpress.com/wp-content/uploads/2021/11/Mr.-Ashit-Kukian-CEO-Radio-City-.jpg", "https://prclive1.listenon.in/"],
 
@@ -515,13 +563,12 @@
 
 ["FM 98.3 - Radio Mirchi", "internetradio", "https://i.ytimg.com/vi/nhO6cINEDs4/maxresdefault.jpg", "http://peridot.streamguys.com:7150/Mirchi"],
 
-["FM 100.1 - Vividh Bharti", "internetradio", "https://i.ytimg.com/vi/KabAZ-2QddU/maxresdefault.jpg", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
+["FM 100.1 - Vividh Bharti", "internetradio", "https://i.ytimg.com/vi/KabAZ-2QddU/maxresdefault.jpg", "https://air.pc.cdn.boyeitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
 
 ["FM 102.6 - AIR Rainbow", "internetradio", "img/fm_airgold.jpg", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
 
 ["FM 106.4 - AIR Gold", "internetradio", "https://th-i.thgim.com/public/news/national/dmi2gg/article31359714.ece/alternates/LANDSCAPE_1200/TH17FM", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"],
 
-["FM 107.2 - Radio Nasha", "internetradio notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"],
 
 ["Sound Asia - Nairobi", "internetradio mp3", "img/fm_soundasia1.jpg", "https://cors.bitwize.com.lb/http://41.72.210.222:88/stream"],
 
@@ -549,7 +596,7 @@
 
 ["Bolly FM - West Bengal", "internetradio", "img/fm_radiobolly.png", "https://stream.zeno.fm/zu59ykebs2zuv"],
 
-["Oye India", "internetradio", "https://liveonlineradio.net/wp-content/uploads/2020/10/oye-india-radio.jpg", "https://stream.zeno.fm/cgrwb1hd4v8uv"],
+["Oye India", "internetradio", "https://www.rajasthandirect.com/wp-content/uploads/2013/07/Oye-104.8-FM.jpg", "https://stream.zeno.fm/cgrwb1hd4v8uv"],
 
 ["Hits Bollywood", "internetradio", "https://2.bp.blogspot.com/-ltN0hrcHuM4/V_CZoKX0c-I/AAAAAAAAEGQ/x20DuBqefXwPP2ETOobCEneoiIFVnpN-ACLcB/s1600/Hits%2BOf%2BBollywood%2BHindi%2BFM%2BLive%2BStreaming%2BOnline.jpg", "https://node-14.zeno.fm/rqqps6cbe3quv?rj-ttl=5&rj-tok=AAABccQyYG8AGJ3KW_903AafBw"],
 
@@ -572,7 +619,7 @@
 
 ["Olive - Denmark", "internetradio", "img/fm_olive.webp", "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"],
 
-["Mirchi - Fiji 2", "radio mp3", "img/fm_fiji2.png", "https://peridot.streamguys1.com:7150/RFTwo"],
+["Radio Fiji Two", "radio mp3", "img/fm_fijitwo.jpg", "https://peridot.streamguys1.com:7150/RFTwo"],
 
 
 
@@ -599,6 +646,8 @@
 ["Fusion Life Radio", "internetradio", "http://fusionliferadio.com/images/22jul-696x1024.jpeg", "https://c28.radioboss.fm:18046/stream"],
 
 
-["VDesi", "internetradio", "img/fm_vdesi1.jpg", "https://stream.radio.co/s42e977b6c/listen"]
+["VDesi", "internetradio", "img/fm_vdesi1.jpg", "https://stream.radio.co/s42e977b6c/listen"],
+
+["The End", "welcome notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"]
 
 ]
