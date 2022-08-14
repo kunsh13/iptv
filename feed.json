@@ -185,7 +185,7 @@
 
 ["Filmstreams", "movies", "https://shareomaha.org/sites/default/files/media/223/DundeeTheaterbyHarrisonMartin.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
-["Redbox - Rush", "movies", "https://i.insider.com/6011e56d1d2df20018b713b6?width=700", "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8"],	
+["Redbox - Rush", "movies", "https://www.hedex.tv/uploads/images/clip_5318_1644151638_poster.jpg", "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8"],	
 
 ["Redbox - Spotlight", "movies", "https://www.reviewgeek.com/p/uploads/2020/08/a3d952a1.jpg?width=1200", "https://spotlight-vizio.amagi.tv/playlist.m3u8"],
 
@@ -193,7 +193,7 @@
 
 ["Redbox - Battery Pop", "movies", "https://geeksroom.com/wp-content/uploads/2020/12/redbox-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"],
 
-["Redbox - The Design Network", "lifestyle", "https://vhx.imgix.net/thedesignnetwork1/assets/243a1c37-2b4d-439f-84b9-8b051baf310b-674869d4.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8"], 
+["Redbox - The Design Network", "lifestyle", "https://i.ytimg.com/vi/HelMnhq_a-M/maxresdefault.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8"], 
 
 ["Filmrise", "movies", "https://filmrise.com/uploads/images/Splash-Option-4.1HD.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"],
 
@@ -213,6 +213,8 @@
 
 ["Cinema Heaven - South Korea", "movies", "img/cinemaheavenKorea2.jpg", "https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8"],	
 
+
+["Gravitas Movies", "movies", "https://www.corrientelatina.com/wp-content/uploads/2019/03/gravitas-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"],
 
 ["Dubai One", "movies", "img/dubaiOne1.jpg", "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8"],
 
@@ -390,15 +392,14 @@
 
 ["WeatherSpy - US", "international", "https://discover.jukinmedia.com/hubfs/WS-2.png", "https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8"],
 
-["Red Bull", "international", "https://wallpaperaccess.com/full/563870.jpg", "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],
+["Red Bull", "international", "https://vinepair.com/wp-content/uploads/2015/09/redd-bull-header.jpg", "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],
 
-["Fish Tank TV", "international", "https://images-na.ssl-images-amazon.com/images/I/714iYXY7cOL._RI_.jpg", "https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8"],
+["Fish Tank TV", "international", "https://images-na.ssl-images-amazon.com/images/I/A1bMMO2wCcL.png", "https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8"],
 
 ["Relaxing Rain TV", "international", "https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/relaxing-rain_thumbh_20200718_001031.jpg", "https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8"],
 
 ["Stingray - Naturescape", "international", "https://d1epjnee0y8w64.cloudfront.net/blog/s3fs-public/2022-02/Stingray%20Naturescape%20-%20Romantic%20Valentines%20Day%20Ideas%20At%20Home.jpg", "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812bd9f249444e05d09cc4e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=692&terminate=false&userId="],
 
-["Alchimie Movies Central", "movies", "https://ipohub.blob.core.windows.net/logos/bc082357-60ec-4c7e-9f4c-eec5d137d9b4.png", "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8"],
 
 ["Dust - Gunpowder & Sky", "international", "https://fpfqj8ac-sinclair.asset.cdn.remoco.tv/image/resource/5b351bd2e95b5a000ae0ce11/poster_16-9/OkquZT2O/original.jpg", "https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8"],
 
