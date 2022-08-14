@@ -98,19 +98,16 @@
 
 ["Animal Planet Hindi", "lifestyle", "https://dcom-prod.imgix.net/files/538428338FF64CE38F11D0F2535E1DB2.jpg", "https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8"],
 
+
+
+
 ["Clarity UHD 4K", "lifestyle", "img/clarity.png", "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"],
 
 ["Love Nature UHD 4K", "lifestyle", "https://videos.thematv.com/love-nature-4k.jpg", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
 
-
-
 ["Love Nature 1080", "lifestyle", "https://cdn6.aptoide.com/imgs/7/e/b/7eb24f6def607f1323307eeafef5e4df_fgraphic.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
 
 
-
-["Crafty Panda", "lifestyle", "https://speakrj.nyc3.cdn.digitaloceanspaces.com/youtube/craftypanda.jpg", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"],
-
-["Comedy Hub - Just for Laugh", "lifestyle", "https://images.squarespace-cdn.com/content/v1/528b55afe4b04d10f50b4f75/1614163275147-RXUVNDG1Q4F4QAZ7Q8JR/comedyhub3.jpg", "https://uksono1-samsunguk.amagi.tv/playlist.m3u8"],
 
 ["Biznet Lifestyle", "lifestyle", "https://playboxneo.com/sites/default/files/styles/full_news_786x589/public/2019-06/Biznet_news.jpg", "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0"],
 
@@ -375,7 +372,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+["Crafty Panda", "international", "https://speakrj.nyc3.cdn.digitaloceanspaces.com/youtube/craftypanda.jpg", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"],
+
+["Just for Laugh", "international", "https://i.ytimg.com/vi/hddJx31IzJE/maxresdefault.jpg", "https://uksono1-samsunguk.amagi.tv/playlist.m3u8"],
+
+
+["Just for Laugh Gags", "international", "https://images-na.ssl-images-amazon.com/images/I/7190YUv0w4L._RI_.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8"],
+
 ["Fido Pet TV", "international", "https://www.digitaltveurope.com/files/2021/09/Fido-TV.png", "http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8"],
+
 
 ["The Pet Collective - US", "international", "https://i.ytimg.com/vi/RT_uu27llLY/maxresdefault.jpg", "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ad55268cae539bcedb08&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=637&terminate=false&userId="],
 
