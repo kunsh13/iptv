@@ -197,6 +197,8 @@
 
 		.vjs-playback-rate .vjs-playback-rate-value {line-height: 3.6!important}
 		.vjs-icon-cog:before {font-size: 1.8em!important}
+		.video-js .vjs-volume-panel .vjs-volume-control {opacity:1!important}
+
 		
 		.video-js .vjs-big-play-button {
 			font-size: 5em!important;
