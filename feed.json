@@ -141,7 +141,7 @@
 
 ["A&E Reality", "lifestyle", "https://www.screenbinge.com/wp-content/uploads/2021/05/Watch-AE-Anywhere.jpg", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
 
-["Smithsonian - US", "lifestyle", "https://media-exp1.licdn.com/dms/image/C561BAQFHNccUepxD3A/company-background_10000/0/1573141440659?e=2147483647&v=beta&t=H-wJhnOFqZz0CzbS26JavMloel9ivoGl2q3Ng2Vym54", "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"],
+["Smithsonian - US", "lifestyle", "https://wwwimage-us.pplusstatic.com/base/files/seo/og-brand-smithsonian_5.jpg", "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"],
 
 ["Timeline - History", "lifestyle", "https://dynamiteevents.co.uk/wp-content/uploads/2020/03/DYNAMITE_TIMELINE-TV-CHRISTMAS-PARTY_Carousel.jpg", "https://lds-timeline-plex.amagi.tv/playlist.m3u8"],
 
@@ -174,13 +174,12 @@
 
 ["B4U Kadak", "movies", "https://dreamdth.com/wp-content/uploads/2020/06/B4U-Kadak-Logo-1024x853.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
 
-["AMG TV", "movies", "https://backlighttv.com/wp-content/uploads/2014/11/AMGTV.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
 
 ["AMC East", "movies", "https://thestreamable.com/media/pages/news/amc-teases-new-amc-plus-distribution-partnerships-in-the-works/1903f0ba0c-1623941501/amc-plus-twd-splash.jpg", "https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8"],
 
 ["AMC Presents", "movies", "https://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg", "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
 
-["AMC Rush", "movies", "https://provider-static.plex.tv/epg/images/ott_channels/arts/AMCThrillers_artwork_horizontal.jpg", "https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
+["AMC Thriller - Rush ", "movies", "https://provider-static.plex.tv/epg/images/ott_channels/arts/AMCThrillers_artwork_horizontal.jpg", "https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
 
 ["AMC+", "movies", "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/10/02/amcpluslogo-600_K6MwUsI.jpg", "https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8"],
 
@@ -223,6 +222,9 @@
 
 
 ["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
+
+
+["AMG TV", "movies", "https://backlighttv.com/wp-content/uploads/2014/11/AMGTV.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
 
 
 ["Ion Plus", "movies", "https://ionplustv.com/static/global/IONPlusDefault.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
@@ -624,7 +626,6 @@
 
 ["Desi World - CA, US", "radio mp3", "img/fm_desiworld.jpg", "https://stream.zeno.fm/4mbfcn4mf24tv"],
 
-["Radio Antara", "internetradio", "https://liveradios.in/wp-content/uploads/Antara-Logo.jpg", "https://stream.zenolive.com/x6ch94sse0quv"],
 
 ["Desi Maska - Chicago", "radio mp3", "http://www.desimaska.com/upload/slide/normal/5a973c7d905047.46547605.jpg", "https://ample.radiojar.com/q9rymqdbeyduv"],
 
