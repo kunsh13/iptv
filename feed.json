@@ -34,7 +34,6 @@
 
 ["NewsX", "news", "https://i.ytimg.com/vi/XSPkzOhZ7LU/maxresdefault.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
 
-["News nation", "news", "https://i.ytimg.com/vi/sQGtubX_BF4/maxresdefault.jpg", "https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfYvycunjs_RwmJCxXWQ3j6FBLCVWeOfu-looX5GHJVr)/dm/3/x7t0g3i/s/live-3.m3u8"],
 
 ["India TV", "news", "https://www.livelaw.in/h-upload/2019/02/05/358091-india-tv.jpg", "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8"],
 
@@ -112,9 +111,9 @@
 
 ["Clarity UHD 4K", "lifestyle", "img/clarity.png", "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"],
 
-["Love Nature UHD 4K", "lifestyle", "http://www.widemedia.tv/wp-content/uploads/2020/07/ln-logo_peacock_4k-1536x903.png", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
+["Love Nature UHD 4K", "lifestyle", "img/ln-logo_peacock_4k.png", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
 
-["Love Nature 1080", "lifestyle", "https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
+["Love Nature 1080", "lifestyle", "img/love-nature-logo_peacock.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
 
 
 ["Animal Planet", "lifestyle", "https://images.squarespace-cdn.com/content/v1/518d16afe4b0d7a2a549a9b0/1513783364343-0RO0ZFFRF4FHA6HCP4ZK/APL_2018_cover.png", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
