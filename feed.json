@@ -124,22 +124,25 @@
 
 ["Love Nature 1080", "lifestyle", "https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
 
+["Animal Planet", "lifestyle", "https://images.squarespace-cdn.com/content/v1/518d16afe4b0d7a2a549a9b0/1513783364343-0RO0ZFFRF4FHA6HCP4ZK/APL_2018_cover.png", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
+
+
 ["Wild Earth", "international", "https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg", "https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&channelId=60d4edddb2fdec002c141135/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/768x432_1425600/index.m3u8"],
 
 ["Outdoor America", "international", "https://image.xumo.com/v1/channels/channel/99991374/600x337.jpg?type=channelTile", "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8"],
 
-["GoTraveler", "international", "https://www.gonomad.com/wp-content/uploads/2018/02/gotr.jpg?_t=1518834719", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8"],
+["GoTraveler", "international", "https://www.gonomad.com/wp-content/uploads/2020/09/GoTraveler_Cover-General.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8"],
 
 
 
 
-["Tastemade", "lifestyle", "https://www.tubefilter.com/wp-content/uploads/2015/12/Tastemade-40-Million-Series-D-Funding-1920x1131.jpg", "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8"],
+["Tastemade", "lifestyle", "https://media.bizj.us/view/img/11926697/tastemade-general*1200xx4200-2363-0-192.jpg", "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8"],
 
 ["Tastemade Travel", "lifestyle", "https://i.ytimg.com/vi/aO4miDfiZ1I/maxresdefault.jpg", "https://tastemadetravel-vizio.amagi.tv/playlist.m3u8"],
 
 ["Travel XP", "lifestyle", "https://www.traveldailymedia.com/assets/2018/04/Travelxp-4K.jpg", "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"],
 
-["Wonder - India", "lifestyle", "https://images.firstpost.com/wp-content/uploads/2021/04/samsung-tv-plus-min.jpg", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
+["Wonder", "lifestyle", "https://images.firstpost.com/wp-content/uploads/2021/04/samsung-tv-plus-min.jpg", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
 
 ["Popstar! - India", "lifestyle", "https://programminginsider.com/wp-content/uploads/2022/05/popstar.jpeg", "https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8"],
 
@@ -153,9 +156,9 @@
 
 ["InWonder", "lifestyle", "https://www.digitalstudiome.com/public/styles/full_img/public/images/2020/01/20/Insight-TV-taps-Amagi-for-OTT-distribution.JPG?itok=ah-eB0jN", "https://inwonder-samsungindia.amagi.tv/playlist.m3u8"],
 
-["Docubay India", "lifestyle", "https://www.cannesexpo.com/wp-content/uploads/2019/10/mipcom2019-8-1024x768.jpg", "https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8"],
+["Docubay India", "lifestyle", "https://cdn.soft112.com/docubay-streaming-documentaries/00/00/0H/GB/00000HGBQM/pad_screenshot.png", "https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8"],
 
-["A&E Reality", "lifestyle", "https://www.screenbinge.com/wp-content/uploads/2021/05/Watch-AE-Anywhere.jpg", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
+
 
 ["Smithsonian - US", "lifestyle", "https://wwwimage-us.pplusstatic.com/base/files/seo/og-brand-smithsonian_5.jpg", "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"],
 
@@ -326,7 +329,7 @@
 
 ["RT - Russia Today", "international", "https://im-media.voltron.voanews.com/Drupal/01live-166/2019-04/8556B79F-5B44-4B45-8795-92A2C69FEA9D.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
 
-["RT - Russia Today", "international", "https://cdni.russiatoday.com/files/2022.02/xxl/61f908d32030270f205ec5e3.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
+["RT Documentary - Russia Today", "international", "https://www.techgh24.com/wp-content/uploads/2022/03/RT.jpg", "http://uiptv.do.am/1ufc/300663722/playlist.m3u8"],
 
 ["ABC - Australia", "international", "https://images.theconversation.com/files/468606/original/file-20220613-14-7uiw35.jpg", "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"],
 
@@ -336,7 +339,10 @@
 
 ["Rai News 24", "international", "https://i.ytimg.com/vi/YyxUFkt48mU/maxresdefault.jpg", "http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"],
 
-["SKY News - UK", "international", "https://deadline.com/wp-content/uploads/2018/09/rexfeatures_5267476a-e1556204009728.jpg", "https://youtu.be/9Auq9mYxFEE"],
+["SKY News - UK", "international", "https://deadline.com/wp-content/uploads/2018/09/rexfeatures_5267476a-e1556204009728.jpg", "https://www.youtube.com/embed/9Auq9mYxFEE"],
+
+
+
 
 ["Al Jazeera", "international", "https://insidearabia.com/wp-content/uploads/2019/11/Al-Jazeera-headquarters-Doha-Qatar.jpeg", "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],
 
