@@ -92,6 +92,23 @@
 
 
 
+["Shemaroo TV", "music", "https://www.thehindubusinessline.com/news/variety/xuqvxn/article31462919.ece/ALTERNATES/LANDSCAPE_1200/shemaroojpg", "https://cdn.live.shemaroome.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1660273703%7Eexp%3D1660284503%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D6ac3d54647d5188bc136b40e5aa1c61275e5fffca51fa568a316e54d6b03b3ae"],
+
+["Keralabhumi", "music", "https://i.ytimg.com/vi/s4Ba1XvoTts/mqdefault.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
+
+["Hungama Artist Aloud", "music", "https://www.hungama.com/IIMA1stEdition/images/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
+
+["Hungama Dil Se", "music", "https://i.pinimg.com/474x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
+
+["Hungama Kadak Hits", "music", "https://yt3.ggpht.com/ytc/AKedOLTvZKT7taBUbd836SqrJpT7P-NTeeTCuZ4crCbcLw=s900-c-k-c0x00ffffff-no-rj", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
+
+["B4U Kadak", "movies", "https://dreamdth.com/wp-content/uploads/2020/06/B4U-Kadak-Logo-1024x853.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
+
+
+
+
+
+
 
 
 ["Safari - Malayalam", "lifestyle", "https://i.ytimg.com/vi/ZXo4MkUDsZ4/sddefault_live.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
@@ -103,25 +120,24 @@
 
 ["Clarity UHD 4K", "lifestyle", "img/clarity.png", "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"],
 
-["Love Nature UHD 4K", "lifestyle", "https://videos.thematv.com/love-nature-4k.jpg", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
+["Love Nature UHD 4K", "lifestyle", "http://www.widemedia.tv/wp-content/uploads/2020/07/ln-logo_peacock_4k-1536x903.png", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
 
-["Love Nature 1080", "lifestyle", "https://cdn6.aptoide.com/imgs/7/e/b/7eb24f6def607f1323307eeafef5e4df_fgraphic.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
+["Love Nature 1080", "lifestyle", "https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
+
+["Wild Earth", "international", "https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg", "https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&channelId=60d4edddb2fdec002c141135/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/768x432_1425600/index.m3u8"],
+
+["Outdoor America", "international", "https://image.xumo.com/v1/channels/channel/99991374/600x337.jpg?type=channelTile", "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8"],
+
+["GoTraveler", "international", "https://www.gonomad.com/wp-content/uploads/2018/02/gotr.jpg?_t=1518834719", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8"],
 
 
-
-["Biznet Lifestyle", "lifestyle", "https://playboxneo.com/sites/default/files/styles/full_news_786x589/public/2019-06/Biznet_news.jpg", "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0"],
 
 
 ["Tastemade", "lifestyle", "https://www.tubefilter.com/wp-content/uploads/2015/12/Tastemade-40-Million-Series-D-Funding-1920x1131.jpg", "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8"],
 
 ["Tastemade Travel", "lifestyle", "https://i.ytimg.com/vi/aO4miDfiZ1I/maxresdefault.jpg", "https://tastemadetravel-vizio.amagi.tv/playlist.m3u8"],
 
-["Food Food", "lifestyle", "https://i.ytimg.com/vi/dx2sCxmpY8I/maxresdefault.jpg", "http://14.199.164.20:4001/play/a0qx/index.m3u8"],
-
 ["Travel XP", "lifestyle", "https://www.traveldailymedia.com/assets/2018/04/Travelxp-4K.jpg", "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"],
-
-["Gusto TV", "lifestyle", "https://www.videoageinternational.net/wp-content/uploads/2022/07/GustoTVLogo.jpg", "https://d3cajslujfq92p.cloudfront.net/playlist.m3u8"], 
-
 
 ["Wonder - India", "lifestyle", "https://images.firstpost.com/wp-content/uploads/2021/04/samsung-tv-plus-min.jpg", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
 
@@ -157,23 +173,16 @@
 ["Young Hollywood", "lifestyle", "https://i.insider.com/52091675ecad04ca62000001?width=1000&format=jpeg&auto=webp", "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8"],
 
 
+["Dubai One", "movies", "img/dubaiOne1.jpg", "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8"],
 
 
+["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
 
 
+["AMG TV", "movies", "https://backlighttv.com/wp-content/uploads/2014/11/AMGTV.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
 
-["Shemaroo TV", "music", "https://www.thehindubusinessline.com/news/variety/xuqvxn/article31462919.ece/ALTERNATES/LANDSCAPE_1200/shemaroojpg", "https://cdn.live.shemaroome.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1660273703%7Eexp%3D1660284503%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D6ac3d54647d5188bc136b40e5aa1c61275e5fffca51fa568a316e54d6b03b3ae"],
 
-["Keralabhumi", "music", "https://i.ytimg.com/vi/s4Ba1XvoTts/mqdefault.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
-
-["Hungama Artist Aloud", "music", "https://www.hungama.com/IIMA1stEdition/images/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
-
-["Hungama Dil Se", "music", "https://i.pinimg.com/474x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
-
-["Hungama Kadak Hits", "music", "https://yt3.ggpht.com/ytc/AKedOLTvZKT7taBUbd836SqrJpT7P-NTeeTCuZ4crCbcLw=s900-c-k-c0x00ffffff-no-rj", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
-
-["B4U Kadak", "movies", "https://dreamdth.com/wp-content/uploads/2020/06/B4U-Kadak-Logo-1024x853.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
-
+["Ion Plus", "movies", "https://ionplustv.com/static/global/IONPlusDefault.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
 
 ["AMC East", "movies", "https://thestreamable.com/media/pages/news/amc-teases-new-amc-plus-distribution-partnerships-in-the-works/1903f0ba0c-1623941501/amc-plus-twd-splash.jpg", "https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8"],
 
@@ -218,16 +227,6 @@
 
 ["Gravitas Movies", "movies", "https://www.corrientelatina.com/wp-content/uploads/2019/03/gravitas-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"],
 
-["Dubai One", "movies", "img/dubaiOne1.jpg", "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8"],
-
-
-["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
-
-
-["AMG TV", "movies", "https://backlighttv.com/wp-content/uploads/2014/11/AMGTV.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
-
-
-["Ion Plus", "movies", "https://ionplustv.com/static/global/IONPlusDefault.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
 
 
 
@@ -238,7 +237,7 @@
 
 
 
-
+["Kid Central", "movies", "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F770722490-2c635c6519683dd100a425247770239e9dd62a30506ddecb0a45cd2c24c13b0d-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png", "https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8"],
 
 ["Dreamworks", "movies", "https://www.towson.edu/news/images/moses-koo-m.jpg", "https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8"],	
 
@@ -353,7 +352,7 @@
 
 ["Reuters Now", "international", "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TDM2WP7ZJNMIRGGVQ4VEDJY2WU.jpg", "https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8"],
 
-["Kid Central", "international", "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F770722490-2c635c6519683dd100a425247770239e9dd62a30506ddecb0a45cd2c24c13b0d-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png", "https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8"],
+
 
 ["IGN One", "international", "https://images.squarespace-cdn.com/content/v1/54922ad6e4b06822d6dbd334/1434325781658-3U08GQQTMHOBTO0BHC8C/IMG_7172.jpeg?format=1000w", "https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8"],
 
@@ -362,11 +361,6 @@
 
 ["Revry", "international", "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1160438696001/b0176ec9-9f88-4ef2-9318-5ff2e9861389/8bae6b1c-80f9-4474-860b-3dbefcf6d88b/1280x720/match/image.jpg", "https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8"],
 
-["Wild Earth", "international", "https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg", "https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&channelId=60d4edddb2fdec002c141135/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/768x432_1425600/index.m3u8"],
-
-["Outdoor America", "international", "https://images-na.ssl-images-amazon.com/images/I/91+jfPQKEBL._RI_.jpg", "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8"],
-
-["GoTraveler", "international", "https://images-eu.ssl-images-amazon.com/images/I/91bky0pmcGL.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8"],
 
 
 
