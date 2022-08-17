@@ -179,6 +179,10 @@
 
 ["Ion Plus", "movies", "https://ionplustv.com/static/global/IONPlusDefault.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
 
+
+["Electric Now", "movies", "https://image.roku.com/developer_channels/prod/1e79d14d30afacd1c45b11dbca36d8baa30bb8cbb5fbb927fda9e7f24781df38.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8"],
+
+
 ["AMC East", "movies", "https://thestreamable.com/media/pages/news/amc-teases-new-amc-plus-distribution-partnerships-in-the-works/1903f0ba0c-1623941501/amc-plus-twd-splash.jpg", "https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8"],
 
 ["AMC Presents", "movies", "https://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg", "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
@@ -187,9 +191,12 @@
 
 ["AMC+", "movies", "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/10/02/amcpluslogo-600_K6MwUsI.jpg", "https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8"],
 
-["Pop TV - Movies", "movies", "https://www.multimediamouth.com/wp-content/uploads/2019/03/CorportePressMaterials_SPKeyArt.jpg", "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8"],
+
+["Now This", "movies", "img/now-this.avif", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8"],
 
 ["Filmstreams", "movies", "https://shareomaha.org/sites/default/files/media/223/DundeeTheaterbyHarrisonMartin.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
+
+["Pop TV - Movies", "movies", "img/pop4.jpg", "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8"],
 
 ["Redbox - Rush", "movies", "https://www.hedex.tv/uploads/images/clip_5318_1644151638_poster.jpg", "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8"],	
 
@@ -305,9 +312,12 @@
 
 ["CNN", "news", "https://www.wspa.com/wp-content/uploads/sites/53/2020/06/AP18297639328586.jpg?w=2560&h=1440&crop=1", "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8"],
 
-["Fox Now", "news", "https://www.flexiform.co.uk/wp-content/uploads/2021/11/fox-media-office-design-and-installation-700x394.jpg", "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"],
+["NBC", "news", "img/nbc.webp", "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"],
+
 
 ["CBS News", "news", "https://media1.s-nbcnews.com/i/rockcms/2021-04/911/210409-cbs-news-nyc-se-1024a-959002_65b20002fd6dbaaa90a68272d4ccf3d2db6e3a34.jpg", "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"],
+
+["Fox Now", "news", "https://www.flexiform.co.uk/wp-content/uploads/2021/11/fox-media-office-design-and-installation-700x394.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8"],
 
 ["LFM - Switzerland", "news", "https://photos.live-tv-channels.org/tv-logo/ch-lfm-tv-8957.jpg", "https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8"],
 
