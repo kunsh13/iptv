@@ -3,6 +3,10 @@
 
 ["Welcome", "welcome", "img/mango1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
 
+
+
+
+
 ["Aaj Tak", "news", "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201906/aajtak.jpeg?Nq9I..DGOTZdCekaix7UWi1irdM5EM56&size=1200:675", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8"],
 
 ["Aaj Tak HD", "news", "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67f1076555179.5c6d4e838c624.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8"],
@@ -67,11 +71,9 @@
 
 ["News 18 Lokmat", "news", "https://i.ytimg.com/vi/K58gphtBDmI/maxresdefault.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
 
-
 ["News 36", "news", "https://news36live.com/app/images/22.png", "https://news36.livebox.co.in/news36livehls/live.m3u8"],
 
-
-["Tribe TV", "regional", "https://santalijagat.in.net/uploads/images/202108/image_750x415_6107d3db49da7.jpg", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
+["Tribe TV", "regional", "img/tribeTV.png", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
 
 ["Hornbill TV", "regional", "https://i.ytimg.com/vi/_SvlsUX_4OM/maxresdefault.jpg", "http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist_w1492888499.m3u8"],
 
@@ -113,10 +115,9 @@
 
 ["Love Nature UHD 4K", "lifestyle", "img/ln-logo_peacock_4k.png", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
 
-["Love Nature 1080", "lifestyle", "img/love-nature-logo_peacock.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
+["Love Nature HD 1080", "lifestyle", "img/love-nature-logo_peacock.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
 
 
-["Animal Planet", "lifestyle", "https://images.squarespace-cdn.com/content/v1/518d16afe4b0d7a2a549a9b0/1513783364343-0RO0ZFFRF4FHA6HCP4ZK/APL_2018_cover.png", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
 
 
 ["Wild Earth", "lifestyle", "https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg", "https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&channelId=60d4edddb2fdec002c141135/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/768x432_1425600/index.m3u8"],
@@ -178,6 +179,9 @@
 
 
 ["Ion Plus", "movies", "https://ionplustv.com/static/global/IONPlusDefault.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
+
+
+["A&E - Cable Hits", "lifestyle", "https://www.screenbinge.com/wp-content/uploads/2021/05/Watch-AE-Anywhere.jpg", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
 
 
 ["Electric Now", "movies", "https://image.roku.com/developer_channels/prod/1e79d14d30afacd1c45b11dbca36d8baa30bb8cbb5fbb927fda9e7f24781df38.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8"],
@@ -275,8 +279,6 @@
 
 
 
-
-["Local Now Elevation", "movies", "https://f9q4g5j6.ssl.hwcdn.net/60afed8edf73655e020c6f75/900", "https://linear-210.frequency.stream/dist/localnow/210/hls/master/playlist.m3u8"],
 
 ["Local Now Zen", "movies", "https://f9q4g5j6.ssl.hwcdn.net/5fd9322332850459227a39b8/900", "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8"],
 
