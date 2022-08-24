@@ -5,9 +5,9 @@
 
 
 
-["Aaj Tak", "news", "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201906/aajtak.jpeg?Nq9I..DGOTZdCekaix7UWi1irdM5EM56&size=1200:675", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8"],
+["Aaj Tak", "news", "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201906/aajtak.jpeg?Nq9I..DGOTZdCekaix7UWi1irdM5EM56&size=1200:675", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
 
-["Aaj Tak HD", "news", "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67f1076555179.5c6d4e838c624.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8"],
+["Aaj Tak HD", "news", "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67f1076555179.5c6d4e838c624.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],
 
 ["ABP Hindi", "news", "https://i.ytimg.com/vi/3JFY7-yGKKU/maxresdefault.jpg", "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8"],
 
@@ -26,7 +26,7 @@
 
 ["News24", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-206/list_clean/e24newslogob11700c746fee89b44c46be80867f8da05949.png", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
 
-["Good News Today", "news", "https://i.ytimg.com/vi/OVan-oeJH_c/maxresdefault.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8"],
+["Good News Today", "news", "https://i.ytimg.com/vi/OVan-oeJH_c/maxresdefault.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"],
 
 ["News 18 India", "news", "https://i.ytimg.com/vi/rNo9tuQMuCM/maxresdefault.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8"],
 
@@ -39,7 +39,7 @@
 
 ["India TV", "news", "https://www.livelaw.in/h-upload/2019/02/05/358091-india-tv.jpg", "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8"],
 
-["India Today", "news", "https://i.ytimg.com/vi/QjKHPL_6B9s/maxresdefault.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8"],
+["India Today", "news", "https://i.ytimg.com/vi/QjKHPL_6B9s/maxresdefault.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
 
 ["India News", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-272/list/indianews1170236a9a331bb44314a4d62f435d2bd706.jpg", "https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8"],
 
