@@ -5,53 +5,53 @@
 
 
 
-["Aaj Tak", "news", "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201906/aajtak.jpeg?Nq9I..DGOTZdCekaix7UWi1irdM5EM56&size=1200:675", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
+["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
 
-["Aaj Tak HD", "news", "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67f1076555179.5c6d4e838c624.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],
+["Aaj Tak HD", "news", "img/aajtakhd.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],
 
-["ABP Hindi", "news", "https://i.ytimg.com/vi/3JFY7-yGKKU/maxresdefault.jpg", "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8"],
+["ABP Hindi", "news", "img/abp.jpg", "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8"],
 
-["Zee News", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeenews/list/09zeenewszeenews_484035579.jpg", "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8"],
+["Zee News", "news", "img/zeenews.jpg", "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8"],
 
-["Zee Business", "news", "https://i.ytimg.com/vi/scqqV1rTzAE/maxresdefault.jpg", "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8"],
+["Zee Business", "news", "img/zeebusiness.jpg", "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8"],
 
-["Zee Uttar Pradesh Uttarakhand", "news", "https://www.dishtracking.com/media/2017/12/Zee-Uttar-Pradesh-Uttarakhand-News-Channel-1200x675.jpg", "https://derxvsp9jqjuq.cloudfront.net/out/v1/268b5323e33b4d6d833cfd1f59366329/index_4.m3u8"],
-
-
-["Khabrain Abhi Tak", "news", "https://i.ytimg.com/vi/dGf-PKk3YwU/maxresdefault.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"],
-
-["NDTV India", "news", "https://nationalviews.com/wp-content/uploads/2019/08/ndtv-india.jpg", "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"],
-
-["NDTV 24x7", "news", "https://i.ytimg.com/vi/WB-y7_ymPJ4/maxresdefault.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
-
-["News24", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-206/list_clean/e24newslogob11700c746fee89b44c46be80867f8da05949.png", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
-
-["Good News Today", "news", "https://i.ytimg.com/vi/OVan-oeJH_c/maxresdefault.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"],
-
-["News 18 India", "news", "https://i.ytimg.com/vi/rNo9tuQMuCM/maxresdefault.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8"],
-
-["Republic Bharat", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-162/list/09162republicbharat.jpg", "https://www.youtube.com/embed/qfrocHBy6RQ?rel=0"],
-
-["Republic World", "news", "https://bharat.republicworld.com/assets/images/r_logo_1024x1024.png", "https://weblive.republicworld.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-weblive-mobile-prod/a635f75d-e99f-420d-9b77-02af01fb9c33/4.m3u8"],
-
-["NewsX", "news", "https://i.ytimg.com/vi/XSPkzOhZ7LU/maxresdefault.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
+["Zee Uttar Pradesh Uttarakhand", "news", "img/zeeuttrakhand.jpg", "https://derxvsp9jqjuq.cloudfront.net/out/v1/268b5323e33b4d6d833cfd1f59366329/index_4.m3u8"],
 
 
-["India TV", "news", "https://www.livelaw.in/h-upload/2019/02/05/358091-india-tv.jpg", "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8"],
+["Khabrain Abhi Tak", "news", "img/khabrenabhitak.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"],
 
-["India Today", "news", "https://i.ytimg.com/vi/QjKHPL_6B9s/maxresdefault.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
+["NDTV India", "news", "img/ndtvindia.jpg", "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"],
 
-["India News", "news", "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-272/list/indianews1170236a9a331bb44314a4d62f435d2bd706.jpg", "https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8"],
+["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
 
-["Bharat Samachar", "news", "https://i.ytimg.com/vi/vp4psEzuTgs/maxresdefault.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
+["News24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
 
-["Mirror Now", "news", "https://timesofindia.indiatimes.com/photo/57872133.cms", "https://dai.google.com/linear/hls/pb/event/DXkHhH2QSnma-HnE3QJqlA/stream/6d7b92e9-5309-4723-a782-2d50ae39c7a6:SIN/variant/9def3ef7ab61d68be9c09f463996ee38/bandwidth/1428000.m3u8"],
+["Good News Today", "news", "img/gnt.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"],
 
-["Times Now", "news", "https://image.airtel.tv/MWTV/MWTV_EPISODE_1016_30000000550329192_1616653800000/LANDSCAPE_169/53067135FA15145972183BFCEAB6855AFA11E05DT.jpg", "https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/23324311-cb4d-457c-b882-945fde0e46c4:SIN2/variant/065ba5be8ed1741803d63d7bfb72f592/bandwidth/1693000.m3u8"],
+["News 18 India", "news", "img/news18india.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8"],
 
-["Sudarshan News", "news", "https://media-exp1.licdn.com/dms/image/C511BAQGJC2RXsYVxgw/company-background_10000/0/1559202816158?e=2159024400&v=beta&t=yGSwFoZpnrcrGMt_CH-1aaQAWkGWsZ0-nkloBt8mXpc", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
+["Republic Bharat", "news", "img/republicbharat.jpg", "https://www.youtube.com/embed/qfrocHBy6RQ?rel=0"],
 
-["TV9 Bharatvarsh", "news", "https://cdn.myportfolio.com/822c501a1f7e2b70f9df29f21633dffc/ddbf52da-e9fb-4260-913b-ffd64540f402_rw_1920.jpg?h=275d8a9c54a202dcdfd06d7badc1fa8f", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8"],
+["Republic World", "news", "img/republiclive.png", "https://weblive.republicworld.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-weblive-mobile-prod/a635f75d-e99f-420d-9b77-02af01fb9c33/4.m3u8"],
+
+["NewsX", "news", "img/newsx.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
+
+
+["India TV", "news", "img/indiatv.jpg", "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8"],
+
+["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
+
+["India News", "news", "img/indianews.webp", "https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8"],
+
+["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
+
+["Mirror Now", "news", "img/mirrornow.cms", "https://dai.google.com/linear/hls/pb/event/DXkHhH2QSnma-HnE3QJqlA/stream/0044be76-bd71-4d43-871e-28e0744de274:SIN2/variant/9def3ef7ab61d68be9c09f463996ee38/bandwidth/1428000.m3u8"],
+
+["Times Now", "news", "img/timesnow.jpg", "https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/85a3c4d1-f8ef-4ec3-8816-8f26218a2a6f:SIN/variant/065ba5be8ed1741803d63d7bfb72f592/bandwidth/1693000.m3u8"],
+
+["Sudarshan News", "news", "img/sudarshan.jfif", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
+
+["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8"],
 
 
 ["DD News", "news", "img/DDnews.png", "https://playhls.media.nic.in/live/ddnews/index.m3u8"],
@@ -74,9 +74,9 @@
 
 
 
-["News 18 Lokmat", "news", "https://i.ytimg.com/vi/K58gphtBDmI/maxresdefault.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
+["News 18 Lokmat", "news", "img/news18lokmat.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
 
-["News 36", "news", "https://news36live.com/app/images/22.png", "https://news36.livebox.co.in/news36livehls/live.m3u8"],
+["News 36", "news", "img/news36.png", "https://news36.livebox.co.in/news36livehls/live.m3u8"],
 
 
 
@@ -85,43 +85,45 @@
 
 ["Tribe TV", "regional", "img/tribeTV.png", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
 
-["Hornbill TV", "regional", "https://i.ytimg.com/vi/_SvlsUX_4OM/maxresdefault.jpg", "http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist_w1492888499.m3u8"],
+["Hornbill TV", "regional", "img/hornbill.jpg", "http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist_w1492888499.m3u8"],
 
-["MH1 Prime", "regional", "https://i.ytimg.com/vi/kEQNr7X35Zg/maxresdefault.jpg", "http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8"],
+["MH1 Prime", "regional", "img/mh1news.jpg", "http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8"],
 
-["Northeast live", "regional", "https://northeastlivetv.com/wp-content/uploads/2018/11/NE-LIVE-Image.jpg", "https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8"],
+["Northeast live", "regional", "img/northeastlive.jpg", "https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8"],
 
-["Kantipur Nepal", "regional", "https://static.vidgyor.com/live/midroll/assets/kantipur.png", "https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8"],
-
-
-["Assam Talks", "regional", "https://live.staticflickr.com/8895/18126064071_7bf915b844_c.jpg", "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8"],
+["Kantipur Nepal", "regional", "img/kantipur.png", "https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8"],
 
 
-
-
-
-["Keralabhumi", "music", "https://i.ytimg.com/vi/s4Ba1XvoTts/mqdefault.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
-
-["Hungama Artist Aloud", "music", "https://www.hungama.com/IIMA1stEdition/images/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
-
-["Hungama Dil Se", "music", "https://i.pinimg.com/474x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
-
-["Hungama Kadak Hits", "music", "https://yt3.ggpht.com/ytc/AKedOLTvZKT7taBUbd836SqrJpT7P-NTeeTCuZ4crCbcLw=s900-c-k-c0x00ffffff-no-rj", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
-
-["B4U Kadak - Hindi", "movies", "https://dreamdth.com/wp-content/uploads/2020/06/B4U-Kadak-Logo-1024x853.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
-
-
-
-["Anjan - Hindi", "movies", "https://f3.vstream.online/anjansec/banner.jpg", "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"],
+["Assam Talks", "regional", "img/assamtalks.jpg", "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8"],
 
 
 
 
 
+["Keralabhumi", "music", "img/keralabhumi.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
 
-["Safari - Malayalam", "lifestyle", "https://i.ytimg.com/vi/ZXo4MkUDsZ4/sddefault_live.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
+
+["Hungama Artist Aloud", "music", "img/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
+
+["Hungama Dil Se", "music", "img/dilse.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
+
+["Hungama Kadak Hits", "music", "img/kadakhits.jpg", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
+
+["B4U Kadak - Hindi", "movies", "img/b4ukadak.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
 
 
+
+["Anjan - Hindi", "movies", "img/anjan.jpg", "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"],
+
+
+
+
+
+
+["Safari - Malayalam", "lifestyle", "img/safari.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
+
+
+["Travel 4K", "lifestyle", "img/4ktravel.jpg", "https://dai.google.com/linear/hls/pb/event/X7PSBN9YTJqljphRGhOndw/stream/1e79a61a-4e1f-4e39-9dca-94260f3ac5b8:SIN/variant/a6b65e1eae207eb38586dc0390cae1b9/bandwidth/3022199.m3u8"],
 
 
 ["Clarity UHD 4K", "lifestyle", "img/clarity.png", "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"],
@@ -349,7 +351,7 @@
 
 ["DW - Deutsche Welle News", "news", "https://www.ndr.de/deutschewelle166_v-contentxl.jpg", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],
 
-["BBC World News", "news", "https://www.egypttoday.com/siteimages/Larg/42546.jpg", "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"],
+["BBC World News", "news", "https://www.egypttoday.com/siteimages/Larg/42546.jpg", "https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8"],
 
 ["RT - Russia Today", "news", "https://im-media.voltron.voanews.com/Drupal/01live-166/2019-04/8556B79F-5B44-4B45-8795-92A2C69FEA9D.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
 
