@@ -564,7 +564,7 @@
 
 ["PTC News US", "news", "https://i.ytimg.com/vi/N_YRHYQ6orQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcOtgnOTN3gdchUWGlDhJxajIipQ", "https://streaming.ptcplay.com/ptcnewsusONE/smil:Live.smil/playlist.m3u8"],
 
-["9x Music", "music", "http://www.radioandmusic.com/sites/www.radioandmusic.com/files/images/biz/2017/12/29/9XM.png", "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"],
+["9x Music", "music", "img/9xm.webp", "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"],
 
 
 ["Wah Punjabi", "music", "https://static.wikia.nocookie.net/logopedia/images/2/2c/Wah_Punjabi.jpeg", "http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/chunks.m3u8"],
@@ -672,7 +672,7 @@
 
 ["Radio 90.5 FM", "internetradio mp3", "https://i.ytimg.com/vi/WHqwctiUTlU/maxresdefault.jpg", "https://ice42.securenetsystems.net/CR90?type=.mp3"],
 
-["Bollywood Now - UAE", "internetradio", "https://static2.mytuner.mobi/media/tvos_radios/PvpdDr9E4A.png", "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"],
+["Bollywood Now - UAE", "internetradio", "img/bollywoodnow.jpg", "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"],
 
 
 
