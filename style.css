@@ -193,13 +193,25 @@
 		.video-js .vjs-volume-panel.vjs-volume-panel-horizontal {width:10em!important}	
 		.video-js .vjs-volume-panel .vjs-volume-control {opacity:1;width:100%!important}
 	
+
+		.video-js .vjs-modal-dialog {border: 10px solid red}
+		.vjs-error .vjs-error-display .vjs-modal-dialog-content {
+			font-size: 3em!important;
+			margin: 0 4em;
+			color: yellow!important;
+			width:80%;
+			font-family: 'Jockey One'!important;
+			/*Jockey One''Dosis','Berkshire Swash','Bungee Shade'*/
+		}
+		.vjs-error .vjs-error-display:before {
+			/* color: #fff; */
+			cont/ent: "X";
+			fon/t-family: 'Arial'!important;
+			font-size: 6em!important;
+		}
 		.vjs-live .vjs-progress-control {display: flex!important}
 		.video-js .vjs-live-control {border: 1px solid red;display:none!important}
 		
-		.vjs-modal-dialog{display:none!important}
-		.vjs-live .vjs-progress-control{di//splay:flex}
-		
-		.vjs-live-display {displ//ay: none}
 		.video-js.vjs-live:not(.vjs-liveui) .vjs-seek-to-live-control,
 		.video-js:not(.vjs-live) .vjs-seek-to-live-control {display:inline-block}
 		
