@@ -1,7 +1,7 @@
 [
-["Welcome", "welcome", "img/mango1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
+["Welcome", "welcome", "img/welcome.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
 
-["Welcome", "welcome", "img/mango1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
+["Welcome", "welcome", "img/welcome.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
 
 
 ["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
@@ -31,7 +31,7 @@
 
 ["Republic Bharat", "news", "img/republicbharat.jpg", "https://www.youtube.com/embed/qfrocHBy6RQ?rel=0"],
 
-["Republic World", "news", "img/republiclive.png", "https://weblive.republicworld.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-weblive-mobile-prod/a635f75d-e99f-420d-9b77-02af01fb9c33/4.m3u8"],
+["Republic World", "news", "img/republiclive.png", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Republic_Bharat.smil/chunklist_w517910201_b1044100_sleng.m3u8"],
 
 ["NewsX", "news", "img/newsx.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
 
@@ -111,6 +111,11 @@
 ["Hungama Dil Se", "music", "img/dilse.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
 
 ["Hungama Kadak Hits", "music", "img/kadakhits.jpg", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
+
+["B4U Kadak - Hindi", "music", "img/b4ukadak.jpg", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/chunklist_w1389032312_b1044100_sleng.m3u8"],
+
+
+["AB Mastiii", "movies", "img/mastiii.jpg", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Mastiii.smil/chunklist_w134870481_b1044100_sleng.m3u8"],
 
 ["B4U Kadak - Hindi", "movies", "img/b4ukadak.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
 
@@ -412,7 +417,7 @@
 
 
 
-
+ 
 
 ["Crafty Panda", "fun", "https://speakrj.nyc3.cdn.digitaloceanspaces.com/youtube/craftypanda.jpg", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"],
 
@@ -487,15 +492,6 @@
 
 ["Aurora Borealis, Lapland, Sweden - Live cam", "camera", "https://i.ytimg.com/vi/929RSTT_N0c/maxresdefault.jpg", "https://d3s417coyr0vjf.cloudfront.net/streams/193238877898293729462172.m3u8"],
 
-["Shinjuku Station, Japan - Live cam", "camera", "https://i0.wp.com/railwaytraveller.com/wp-content/uploads/2020/08/shinjuku-station-outside-featured.jpg?fit=1002%2C675&ssl=1", "https://www.youtube.com/embed/KP56AHqrMn8"],
-
-
-["Fly over Italy", "camera", "https://i.ytimg.com/vi/p0AejVoKT78/maxresdefault.jpg", "https://www.youtube.com/embed/k81tUKk_A9c"],
-
-
-
-
-
 
 
 
@@ -532,6 +528,12 @@
 
 
 
+["Brit Asia", "music", "https://gray-w", "https://dai.google.com/linear/hls/pb/event/zDm9igsqRDi-4_BEpAQzHQ/stream/1399ce0a-bc91-4251-a3aa-ff3c06d89fb1:SIN/variant/656c711eac8fc92f7af30a64547dca5c/bandwidth/2528000.m3u8"],	
+
+
+
+
+["The Grid", "music", "https://gray-w", "https://dai.google.com/linear/hls/pb/event/PZ4CB1RLRc2P5h6KMJlvlQ/stream/7deed564-1a6b-4fd7-8aa2-d249cfac1ba4:SIN2/variant/622724f9f61427c12788981338c496ef/bandwidth/1024000.m3u8"],	
 
 
 
@@ -708,6 +710,10 @@
 
 
 ["VDesi", "internetradio", "img/fm_vdesi1.jpg", "https://stream.radio.co/s42e977b6c/listen"],
+
+
+["Raspberry Pi TV - Kunsh13 - https://www.youtube.com/watch?v=r5ADG2JfqE8", "welcome", "img/YT-android-thumb.jpg", "https://www.youtube.com/embed/r5ADG2JfqE8"],
+
 
 ["The End", "welcome notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"]
 
