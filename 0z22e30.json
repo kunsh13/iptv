@@ -354,73 +354,61 @@
 
 ["RFO - Germany", "news", "https://upload.wikimedia.org/wikipedia/commons/f/f8/RFO_Senderlogo.svg", "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"],
 
-["Tagesschau - Germany", "news", "https://www.horizont.net/news/media/38/Penelope-Khnis-Moderatorin-Tagesschau-2022-377955.jpeg", "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8"],
+["Tagesschau - Germany", "news", "img/tagesschau.jpeg", "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8"],
 
-["DW - Deutsche Welle News", "news", "https://www.ndr.de/deutschewelle166_v-contentxl.jpg", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],
+["DW - Deutsche Welle News", "news", "img/dw1.jpg", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],
 
-["BBC World News", "news", "https://www.egypttoday.com/siteimages/Larg/42546.jpg", "https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8"],
+["BBC World News", "news", "img/bbc.jpg", "https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8"],
 
-["RT - Russia Today", "news", "https://im-media.voltron.voanews.com/Drupal/01live-166/2019-04/8556B79F-5B44-4B45-8795-92A2C69FEA9D.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
+["RT - Russia Today", "news", "img/rt1.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
 
-["RT Documentary - Russia Today", "news", "https://www.techgh24.com/wp-content/uploads/2022/03/RT.jpg", "http://uiptv.do.am/1ufc/300663722/playlist.m3u8"],
+["RT Documentary - Russia Today", "news", "img/rt2.jpg", "http://uiptv.do.am/1ufc/300663722/playlist.m3u8"],
 
-["ABC - Australia", "news", "https://images.theconversation.com/files/468606/original/file-20220613-14-7uiw35.jpg", "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"],
+["ABC - Australia", "news", "img/abc.jpg", "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"],
 
-["Euro News - France", "news", "https://static.euronews.com/articles/stories/04/02/10/68/1440x810_cmsv2_0da2be17-012f-5974-8da0-335c816629d1-4021068.jpg", "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8"],
+["Euro News - France", "news", "img/euronews.webp", "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8"],
 
-["TV5 Mongolia", "news", "https://i1.sndcdn.com/avatars-000152089818-6ge2jh-t500x500.jpg", "https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8"],
+["TV5 Mongolia", "news", "img/tv5.jpg", "https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8"],
 
-["Rai News 24", "news", "https://i.ytimg.com/vi/YyxUFkt48mU/maxresdefault.jpg", "http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"],
+["Rai News 24", "news", "img/rai.jpg", "http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"],
 
-["SKY News - UK", "news", "https://deadline.com/wp-content/uploads/2018/09/rexfeatures_5267476a-e1556204009728.jpg", "https://www.youtube.com/embed/9Auq9mYxFEE"],
-
-
+["SKY News - UK", "news", "img/sky.webp", "https://www.youtube.com/embed/9Auq9mYxFEE"],
 
 
-["Al Jazeera", "news", "https://insidearabia.com/wp-content/uploads/2019/11/Al-Jazeera-headquarters-Doha-Qatar.jpeg", "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],
 
-["TRT World - Turkey", "news", "https://s.wsj.net/public/resources/images/BN-PJ118_TURKTV_P_20160811155616.jpg", "https://tv-trtworld.live.trt.com.tr/master.m3u8"],
 
-["CNA - Singapore", "news", "https://i.ytimg.com/vi/UidT9twuiDI/maxresdefault.jpg", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"],
+["Al Jazeera", "news", "img/aijazeera.jpeg", "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],
 
-["NHK - Japan", "news", "https://www.tsunagulocal.com/wp-content/uploads/2020/09/nhk-red-logo-s1527689987-1.jpg", "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"],
+["TRT World - Turkey", "news", "img/trt.jpg", "https://tv-trtworld.live.trt.com.tr/master.m3u8"],
 
-["Arirang - Korea", "news", "https://i.ytimg.com/vi/APlvA2wtdKk/maxresdefault.jpg", "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"],
+["CNA - Singapore", "news", "img/nhk.jpg", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"],
 
-["USA Today", "news", "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_32/2960356/190805-usa-today-ew-355p.jpg", "https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8"],
+["NHK - Japan", "news", "img/nhk.jpg", "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"],
+
+["Arirang - Korea", "news", "img/arirang.jpg", "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"],
+
+["USA Today", "news", "img/usatoday.jpg", "https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8"],
 
 ["Reuters Now", "news", "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TDM2WP7ZJNMIRGGVQ4VEDJY2WU.jpg", "https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8"],
 
 
 
-["IGN One", "lifestyle", "https://images.squarespace-cdn.com/content/v1/54922ad6e4b06822d6dbd334/1434325781658-3U08GQQTMHOBTO0BHC8C/IMG_7172.jpeg?format=1000w", "https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8"],
+["IGN One", "lifestyle", "img/ignone.jpeg", "https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8"],
 
 ["SCTV - Indonesia", "lifestyle", "https://newline-interactive.com/wp-content/uploads/2019/08/SCTV-banner.jpeg", "http://210.210.155.35/qwr9ew/s/s03/index.m3u8"],
 
 
-["Revry", "lifestyle", "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1160438696001/b0176ec9-9f88-4ef2-9318-5ff2e9861389/8bae6b1c-80f9-4474-860b-3dbefcf6d88b/1280x720/match/image.jpg", "https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8"],
-
-
-
-
-
-
-
-
-
-
-
-
+["Revry", "lifestyle", "img/revry.jpg", "https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8"],
 
 
 
 
  
 
-["Crafty Panda", "fun", "https://speakrj.nyc3.cdn.digitaloceanspaces.com/youtube/craftypanda.jpg", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"],
+["Crafty Panda", "fun", "img/craftypanda.jpg", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"],
 
 
-["Just for Laugh", "fun", "https://i.ytimg.com/vi/hddJx31IzJE/maxresdefault.jpg", "https://uksono1-samsunguk.amagi.tv/playlist.m3u8"],
+["Just for Laugh", "fun", "img/comedyhub.jpg", "https://uksono1-samsunguk.amagi.tv/playlist.m3u8"],
 
 
 ["Just for Laugh Gags", "fun", "https://images-na.ssl-images-amazon.com/images/I/7190YUv0w4L._RI_.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8"],
