@@ -4,6 +4,7 @@
 ["Welcome", "welcome", "img/mango1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
 
 
+
 ["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
 
 ["Aaj Tak HD", "news", "img/aajtakhd.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],
@@ -31,11 +32,10 @@
 
 ["Republic Bharat", "news", "img/republicbharat.jpg", "https://www.youtube.com/embed/qfrocHBy6RQ?rel=0"],
 
-["Republic World", "news", "img/republiclive.png", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Republic_Bharat.smil/chunklist_w517910201_b1044100_sleng.m3u8"],
+["Republic World", "news", "img/republiclive.png", "https://weblive.republicworld.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/republictv-weblive-mobile-prod/a635f75d-e99f-420d-9b77-02af01fb9c33/4.m3u8"],
 
 ["NewsX", "news", "img/newsx.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
 
-["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
 
 ["India TV", "news", "img/indiatv.jpg", "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8"],
 
@@ -89,9 +89,6 @@
 
 ["MH1 Prime", "regional", "img/mh1news.jpg", "http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8"],
 
-["Fastway - Canada", "regional", "img/fastway.png", "http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8"],
-
-
 ["Northeast live", "regional", "img/northeastlive.jpg", "https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8"],
 
 ["Kantipur Nepal", "regional", "img/kantipur.png", "https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8"],
@@ -112,11 +109,6 @@
 
 ["Hungama Kadak Hits", "music", "img/kadakhits.jpg", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
 
-["B4U Kadak - Hindi", "music", "img/b4ukadak.jpg", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/chunklist_w1389032312_b1044100_sleng.m3u8"],
-
-
-["AB Mastiii", "movies", "img/mastiii.jpg", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Mastiii.smil/chunklist_w134870481_b1044100_sleng.m3u8"],
-
 ["B4U Kadak - Hindi", "movies", "img/b4ukadak.jpg", "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"],
 
 
@@ -129,6 +121,9 @@
 
 
 ["Safari - Malayalam", "lifestyle", "img/safari.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
+
+
+["Travel 4K", "lifestyle", "img/4ktravel.jpg", "https://dai.google.com/linear/hls/pb/event/X7PSBN9YTJqljphRGhOndw/stream/1e79a61a-4e1f-4e39-9dca-94260f3ac5b8:SIN/variant/a6b65e1eae207eb38586dc0390cae1b9/bandwidth/3022199.m3u8"],
 
 
 ["Clarity UHD 4K", "lifestyle", "img/clarity.png", "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"],
@@ -266,10 +261,6 @@
 
 
 ["Gravitas Movies", "movies", "img/gravitas-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"],
-
-
-
-["American Horrors", "movies", "img/amricanhorror.jpg", "http://170.178.189.66:1935/live/Stream1/playlist.m3u8"],
 
 
 
@@ -417,10 +408,9 @@
 
 
 
- 
+
 
 ["Crafty Panda", "fun", "https://speakrj.nyc3.cdn.digitaloceanspaces.com/youtube/craftypanda.jpg", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8"],
-
 
 ["Just for Laugh", "fun", "https://i.ytimg.com/vi/hddJx31IzJE/maxresdefault.jpg", "https://uksono1-samsunguk.amagi.tv/playlist.m3u8"],
 
@@ -492,6 +482,18 @@
 
 ["Aurora Borealis, Lapland, Sweden - Live cam", "camera", "https://i.ytimg.com/vi/929RSTT_N0c/maxresdefault.jpg", "https://d3s417coyr0vjf.cloudfront.net/streams/193238877898293729462172.m3u8"],
 
+["Shinjuku Station, Japan - Live cam", "camera", "https://i0.wp.com/railwaytraveller.com/wp-content/uploads/2020/08/shinjuku-station-outside-featured.jpg?fit=1002%2C675&ssl=1", "https://www.youtube.com/embed/KP56AHqrMn8"],
+
+["Tokyo night walk from Shimbashi to Tamachi・4K HDR - Rambalac", "camera", "https://i.ytimg.com/vi/Lomi9pORVqk/maxresdefault.jpg", "https://www.youtube.com/embed/Lomi9pORVqk"],
+
+["Verbier - Switzerland Live cam", "camera", "https://i.ytimg.com/vi/4roIOlatYmQ/maxresdefault.jpg", "https://www.youtube.com/embed/yDKJMdZTEXQ"],
+
+["Fly over Italy", "camera", "https://i.ytimg.com/vi/p0AejVoKT78/maxresdefault.jpg", "https://www.youtube.com/embed/k81tUKk_A9c"],
+
+
+
+
+
 
 
 
@@ -523,8 +525,15 @@
 
 ["MTV - Biggest Pop", "music", "https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg", "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"],
 
+["The first music - Belarus UHD 4K", "music", "https://scontent.fdel27-5.fna.fbcdn.net/v/t1.18169-9/11110575_1036841726345307_7390953774007867122_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AFa9U_VRRh8AX-ZiK6o&_nc_ht=scontent.fdel27-5.fna&oh=00_AT_6gTwf0swAozOlTCmJ1yxGays-I8wJdgisrd-1i5yw9w&oe=630901F2", "http://rtmp.one.by:1499"],
+
 
 ["Circle", "music", "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/cQvNHHu1d-MDCCahg8qp9GS6sKM=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/2X7YZGAHONFDRIIUR45YZ4U6QM.png", "https://circle-roku.amagi.tv/playlist.m3u8"],	
+
+
+
+
+
 
 
 
@@ -658,7 +667,7 @@
 ["Desi World - CA, US", "radio mp3", "img/fm_desiworld.jpg", "https://stream.zeno.fm/4mbfcn4mf24tv"],
 
 
-["Desi Maska - Chicago", "radio mp3", "http://www.desimaska.com/upload/slide/normal/5a973c7d905047.46547605.jpg", "https://ample.radiojar.com/q9rymqdbeyduv"],
+["Desi Maska - Chicago", "radio mp3", "*img/fm_desimaska.jpg", "https://ample.radiojar.com/q9rymqdbeyduv"],
 
 
 ["Radio 90.5 FM", "internetradio mp3", "https://i.ytimg.com/vi/WHqwctiUTlU/maxresdefault.jpg", "https://ice42.securenetsystems.net/CR90?type=.mp3"],
@@ -695,11 +704,10 @@
 
 ["Movie Sounttrack - 1 FM", "internetradio", "img/fm_OneClub.jpg", "https://strm112.1.fm/moviesoundtracks_mobile_mp3"],
 
-["Fusion Life Radio", "internetradio", "http://fusionliferadio.com/images/22jul-696x1024.jpeg", "https://c28.radioboss.fm:18046/stream"],
+["Fusion Life Radio", "internetradio", "img/fm_fusion.jpeg", "https://c28.radioboss.fm:18046/stream"],
 
 
 ["VDesi", "internetradio", "img/fm_vdesi1.jpg", "https://stream.radio.co/s42e977b6c/listen"],
-
 
 ["The End", "welcome notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"]
 
