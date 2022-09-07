@@ -525,8 +525,6 @@
 
 ["MTV - Biggest Pop", "music", "https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg", "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"],
 
-["The first music - Belarus UHD 4K", "music", "https://scontent.fdel27-5.fna.fbcdn.net/v/t1.18169-9/11110575_1036841726345307_7390953774007867122_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AFa9U_VRRh8AX-ZiK6o&_nc_ht=scontent.fdel27-5.fna&oh=00_AT_6gTwf0swAozOlTCmJ1yxGays-I8wJdgisrd-1i5yw9w&oe=630901F2", "http://rtmp.one.by:1499"],
-
 
 ["Circle", "music", "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/cQvNHHu1d-MDCCahg8qp9GS6sKM=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/2X7YZGAHONFDRIIUR45YZ4U6QM.png", "https://circle-roku.amagi.tv/playlist.m3u8"],	
 
@@ -667,7 +665,7 @@
 ["Desi World - CA, US", "radio mp3", "img/fm_desiworld.jpg", "https://stream.zeno.fm/4mbfcn4mf24tv"],
 
 
-["Desi Maska - Chicago", "radio mp3", "*img/fm_desimaska.jpg", "https://ample.radiojar.com/q9rymqdbeyduv"],
+["Desi Maska - Chicago", "radio mp3", "img/fm_desimaska.jpg", "https://ample.radiojar.com/q9rymqdbeyduv"],
 
 
 ["Radio 90.5 FM", "internetradio mp3", "https://i.ytimg.com/vi/WHqwctiUTlU/maxresdefault.jpg", "https://ice42.securenetsystems.net/CR90?type=.mp3"],
