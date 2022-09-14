@@ -1,5 +1,5 @@
 
-<h1 align='center'>🌟 IPTV <a href="https://kunsh13.github.io/iptv/"><img src="/img/favicon_round.png" width="40" height="40"></a> 3.0🌟</h1>
+<h1 align='center'>🌟 IPTV <a href="https://kunsh13.github.io/iptv/"><img src="/img/favicon_round.png" width="40" height="40"></a> 2.0🌟</h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b649cddc-2888-4ee6-9391-fa6be667a902/deploy-status)](https://app.netlify.com/sites/kunsh13/deploys)
 
