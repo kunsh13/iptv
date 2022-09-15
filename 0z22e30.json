@@ -60,6 +60,8 @@
 
 ["DD National", "news", "img/DD-national.webp", "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"],
 
+["DD Bharti", "news", "https://i.ytimg.com/vi/yr7pYdyEnH8/maxresdefault.jpg", "https://livetv-channels.b-cdn.net/8008/chunklist0.m3u8"],
+
 
 
 ["Sansad TV", "news", "img/sansad.jpg", "https://hls.media.nic.in/live/rstv-360p/index.m3u8"],
@@ -115,7 +117,20 @@
 ["B4U Kadak - Hindi", "music", "img/b4ukadak.jpg", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/chunklist_w1389032312_b1044100_sleng.m3u8"],
 
 
+["Goldmines - Hindi", "music", "https://static.wikia.nocookie.net/youtube/images/4/42/GoldminesTelefilms.jpg", "https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8"],
+
+
+["Movie Plus", "music", "https://yt3.ggpht.com/cWUSBLY_w8f_WgDWG-2RemMqiVoQCcE9b-FromFiH_vTede5LVBJ7R1wOvxgG8GlwXX9z1eecYw=s900-c-k-c0x00ffffff-no-rj", "https://livetv-channels.b-cdn.net/8099/chunklist0.m3u8"],
+
+
+["ABZY Movies", "music", "https://abzy.com/wp-content/uploads/2021/07/Abzy-Movies.png", "https://livetv-channels.b-cdn.net/8056/chunklist0.m3u8"],
+
+
 ["AB Mastiii", "movies", "img/mastiii.jpg", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Mastiii.smil/chunklist_w134870481_b1044100_sleng.m3u8"],
+
+
+
+["Shemaroo", "movies", "https://i.gadgets360cdn.com/large/shemaroome-logo_1545397866714.jpg", "https://livetv-channels.b-cdn.net/8094/chunklist0.m3u8"],
 
 
 
@@ -311,7 +326,11 @@
 
 ["Local Now Zen", "movies", "img/local0.png", "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8"],
 
+["Local Now Rush", "movies", "img/local1.png", "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1024x576_m.m3u8"],
+
 ["Local Now Discover", "movies", "img/local1.png", "https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1024x576.m3u8"],
+
+
 
 ["Local Now Drama", "movies", "img/local7.png", "https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8"],
 
