@@ -1,7 +1,7 @@
 [
-["Welcome", "welcome", "img/welcome1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
+["Welcome", "welcome", "img/welcome1.jpg", "img/1-ambience_bar_small_busy_r&b_music.mp3"],
 
-["Welcome", "welcome", "img/welcome1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
+["Welcome", "welcome", "img/welcome1.jpg", "img/1-airport-uk.mp3"],
 
 
 ["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
@@ -17,62 +17,57 @@
 ["Zee Uttar Pradesh Uttarakhand", "news", "img/zeeuttrakhand.jpg", "https://derxvsp9jqjuq.cloudfront.net/out/v1/268b5323e33b4d6d833cfd1f59366329/index_4.m3u8"],
 
 
-["Khabrain Abhi Tak", "news", "img/khabrenabhitak.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"],
-
-["NDTV India", "news", "img/ndtvindia.jpg", "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"],
-
-["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
-
-["News24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
-
 ["Good News Today", "news", "img/gnt.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"],
+
+["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
+
+["News Nation", "news", "img/newsnation.jpg", "https://livetv-channels.b-cdn.net/8017/chunklist0.m3u8"],
+
+["Khabrain Abhi Tak", "news", "img/khabrenabhitak.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"],
 
 ["News 18 India", "news", "img/news18india.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8"],
 
-["Republic Bharat", "news", "img/republicbharat.jpg", "https://livetv-channels.b-cdn.net/8018/chunklist0.m3u8"],
+["News 24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
 
-["Republic Live", "news", "img/republiclive.png", "https://livetv-channels.b-cdn.net/8034/chunklist0.m3u8"],
-
-["NewsX", "news", "img/newsx.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
+["News 24 MP", "news", "img/News24-mp.jpg", "https://livetv-channels.b-cdn.net/8090/chunklist0.m3u8"],
 
 ["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
 
-["India TV", "news", "img/indiatv.jpg", "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8"],
+["Ind 24", "news", "img/Ind24.png", "https://livetv-channels.b-cdn.net/8095/chunklist0.m3u8"],
 
-["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
+
+["NewsX", "news", "img/newsx.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
+
+["India TV", "news", "img/indiatv.jpg", "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8"],
 
 ["India News", "news", "img/indianews.webp", "https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8"],
 
 ["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
 
-["Mirror Now", "news", "img/mirrornow.cms", "https://dai.google.com/linear/hls/pb/event/DXkHhH2QSnma-HnE3QJqlA/stream/0044be76-bd71-4d43-871e-28e0744de274:SIN2/variant/9def3ef7ab61d68be9c09f463996ee38/bandwidth/1428000.m3u8"],
-
-["Times Now", "news", "img/timesnow.jpg", "https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/85a3c4d1-f8ef-4ec3-8816-8f26218a2a6f:SIN/variant/065ba5be8ed1741803d63d7bfb72f592/bandwidth/1693000.m3u8"],
-
-["News 24 MP", "news", "img/News24-mp.jpg", "https://livetv-channels.b-cdn.net/8090/chunklist0.m3u8"],
-
 ["News 1 India", "news", "img/NEWS-1-INDIA.png", "https://livetv-channels.b-cdn.net/8089/chunklist0.m3u8"],
 
 ["Prime News", "news", "img/PrimeNews.png", "https://livetv-channels.b-cdn.net/8088/chunklist0.m3u8"],
-
-
-["Ind 24", "news", "img/Ind24.png", "https://livetv-channels.b-cdn.net/8095/chunklist0.m3u8"],
-
-
 
 ["News State", "news", "img/news_state_9.jpg", "https://livetv-channels.b-cdn.net/8087/chunklist0.m3u8"],
 
 ["Sudarshan News", "news", "img/sudarshan.jfif", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
 
-["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://livetv-channels.b-cdn.net/8053/chunklist0.m3u8"],
+["Surdshan News", "news", "img/sudarshan1.png", "https://livetv-channels.b-cdn.net/8044/chunklist0.m3u8"],
 
+["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://livetv-channels.b-cdn.net/8053/chunklist0.m3u8"],
 
 ["TV 100", "news", "img/TV100_News_old.webp", "https://livetv-channels.b-cdn.net/8023/chunklist0.m3u8"],
 
-["News Nation", "news", "img/newsnation.jpg", "https://livetv-channels.b-cdn.net/8017/chunklist0.m3u8"],
-
 ["News India 24x7", "news", "img/News-India-Channel.jpg", "https://livetv-channels.b-cdn.net/8067/chunklist0.m3u8"],
 
+
+["NDTV India", "news", "img/ndtvindia.jpg", "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"],
+
+["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
+
+["Republic Bharat", "news", "img/republicbharat.jpg", "https://livetv-channels.b-cdn.net/8018/chunklist0.m3u8"],
+
+["Republic Live", "news", "img/republiclive.png", "https://livetv-channels.b-cdn.net/8034/chunklist0.m3u8"],
 
 ["DD News", "news", "img/DDnews.png", "https://playhls.media.nic.in/live/ddnews/index.m3u8"],
 
@@ -99,9 +94,6 @@
 ["News 18 Lokmat", "news", "img/news18lokmat.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
 
 ["News 36", "news", "img/news36.png", "https://news36.livebox.co.in/news36livehls/live.m3u8"],
-
-
-["Surdshan News", "news", "img/sudarshan1.png", "https://livetv-channels.b-cdn.net/8044/chunklist0.m3u8"],
 
 
 
@@ -152,19 +144,14 @@
 
 
 
-["Balle Balle", "music", "img/BalleBalle.jpg", "https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8"],
-
 ["E24", "music", "img/e24.webp", "https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8"],
 
 ["Sangeet Bhojpuri", "music", "img/Sangeet_bhojpuri.webp", "https://livetv-channels.b-cdn.net/8074/chunklist0.m3u8"],
 
 
-["9x Jalwa", "music", "img/9x-media.jpg", "https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8"],
-
-["9x Tashan", "music", "img/9xTashan.png", "https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8"],
 
 
-["Fakth Marathi", "regional", "img/fakth.jpg", "https://livetv-channels.b-cdn.net/8092/chunklist0.m3u8"],
+["Fakth Marathi", "regional", "img/fakth.png", "https://livetv-channels.b-cdn.net/8092/chunklist0.m3u8"],
 
 
 
@@ -187,9 +174,9 @@
 
 
 
-["Hungama Kadak Hits", "movies", "img/kadakhits.jpg", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
+["Hungama Kadak Hits", "movies", "img/kadakhits.png", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
 
-["B4U Kadak - Hindi", "movies", "img/b4ukadak.jpg", "https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8"],
+["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8"],
 
 
 
@@ -208,10 +195,10 @@
 ["Dhinchak 2", "movies", "img/Dhinchak2.jpg", "https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8"],
 
 
-["AB Mastiii", "movies", "img/mastiii.jpg", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Mastiii.smil/chunklist_w134870481_b1044100_sleng.m3u8"],
+["AB Mastiii", "movies", "img/Mastiii_2016.webp", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Mastiii.smil/chunklist_w134870481_b1044100_sleng.m3u8"],
 
 
-["Shemaroo", "movies", "img/shemaroome.jpg", "https://livetv-channels.b-cdn.net/8094/chunklist0.m3u8"],
+["Shemaroo", "movies", "img/shemaroome.png", "https://livetv-channels.b-cdn.net/8094/chunklist0.m3u8"],
 
 ["Shemaroo Marathibana", "music", "img/Shemaroo_marathibana.webp", "https://livetv-channels.b-cdn.net/8076/chunklist0.m3u8"],
 
@@ -219,23 +206,10 @@
 
 ["Wow Cinema", "movies", "img/WOW-Cinema_One.png", "https://livetv-channels.b-cdn.net/8097/chunklist0.m3u8"],
 
-["AB Dhamaal", "movies", "img/Dhamaal.webp", "https://livetv-channels.b-cdn.net/8096/chunklist0.m3u8"],
+["AB Dhamaal", "movies", "img/Dhamaal_Gujarat_Sabgroup.webp", "https://livetv-channels.b-cdn.net/8096/chunklist0.m3u8"],
 
 
-["Movie Plus", "music", "img/movieplus.jpg", "https://livetv-channels.b-cdn.net/8099/chunklist0.m3u8"],
-
-["ABZY Movies", "music", "img/Abzy-Movies.png", "https://livetv-channels.b-cdn.net/8056/chunklist0.m3u8"],
-
-["ABZY Dhakad", "movies", "img/Abzy_dhakad.webp", "https://livetv-channels.b-cdn.net/8060/chunklist0.m3u8"],
-
-["ABZY Cool", "movies", "img/Abzy-Cool.png", "https://livetv-channels.b-cdn.net/8059/chunklist0.m3u8"],
-
-["Maha Movies", "movies", "img/mahamovies.png", "https://livetv-channels.b-cdn.net/8055/chunklist0.m3u8"],
-
-
-
-["Oscar Movies", "music", "img/oscarmovies.png", "https://livetv-channels.b-cdn.net/8068/chunklist0.m3u8"],
-
+["Movie Plus", "music", "img/movieplus.png", "https://livetv-channels.b-cdn.net/8099/chunklist0.m3u8"],
 
 
 
@@ -701,8 +675,16 @@
 
 ["PTC News US", "news", "https://i.ytimg.com/vi/N_YRHYQ6orQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcOtgnOTN3gdchUWGlDhJxajIipQ", "https://streaming.ptcplay.com/ptcnewsusONE/smil:Live.smil/playlist.m3u8"],
 
+
+
+["Balle Balle", "music", "img/BalleBalle.jpg", "https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8"],
+
 ["9x Music", "music", "img/9xm.webp", "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"],
 
+
+["9x Jalwa", "music", "img/9x-media.png", "https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8"],
+
+["9x Tashan", "music", "img/9xTashan.png", "https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8"],
 
 ["Wah Punjabi", "music", "https://static.wikia.nocookie.net/logopedia/images/2/2c/Wah_Punjabi.jpeg", "http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/chunks.m3u8"],
 
