@@ -515,7 +515,7 @@
 
 ["TRT World - Turkey", "news", "img/trt.jpg", "https://tv-trtworld.live.trt.com.tr/master.m3u8"],
 
-["CNA - Singapore", "news", "img/nhk.jpg", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"],
+["CNA - Singapore", "news", "img/cna.jpg", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"],
 
 ["NHK - Japan", "news", "img/nhk.jpg", "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"],
 
@@ -600,15 +600,6 @@
 
 
 
-
-
-
-
-
-
-
-
-["Iskcon Vrindavan - Live Darshan ", "camera", "https://iskconvrindavan.com/images/slider/slide2.jpg", "https://5f1e336f6be67.streamlock.net/live-iscon/smil:iscon.smil/chunklist_w1172064669_b720000.m3u8"],
 
 ["Aurora Borealis, Lapland, Sweden - Live cam", "camera", "https://i.ytimg.com/vi/929RSTT_N0c/maxresdefault.jpg", "https://d3s417coyr0vjf.cloudfront.net/streams/193238877898293729462172.m3u8"],
 
