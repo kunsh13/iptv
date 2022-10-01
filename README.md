@@ -3,9 +3,11 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b649cddc-2888-4ee6-9391-fa6be667a902/deploy-status)](https://app.netlify.com/sites/kunsh13/deploys)
 
+
+- [Submit Feedback!](https://forms.gle/XACScoR7myNHnVCh8)
 - [Github Site](https://kunsh13.github.io/iptv/)
 - [Netlify Site](https://kunsh13.netlify.app/)
-- [Submit Feedback!](https://forms.gle/XACScoR7myNHnVCh8)
+
 
 ```       Click image to open```
 
