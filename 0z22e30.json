@@ -281,7 +281,7 @@
     
     ["Food Food", "lifestyle", "img/foodfood.jpg", "https://livetv-channels.b-cdn.net/8041/chunklist0.m3u8"],
     
-    
+    ["ALTV Thai", "lifestyle", "img/altv4.jpg", "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"],    
     
     ["Tastemade", "lifestyle", "https://media.bizj.us/view/img/11926697/tastemade-general*1200xx4200-2363-0-192.jpg", "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8"],
     
@@ -351,8 +351,10 @@
     
     ["Electric Now", "movies", "img/electric-now2.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8"],
     
-    ["AMC IFC", "movies", "img/ifc.webp", "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8"],
+
+    ["Are We There Yet", "movies", "img/are-we-there-yet.png", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"],
     
+    ["AMC IFC", "movies", "img/ifc.webp", "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8"],
     
     ["AMC", "movies", "img/amc1.webp", "https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8"],
     
@@ -446,7 +448,7 @@
     
     ["Local Now Zen", "movies", "img/local0.png", "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8"],
     
-    ["Local Now Rush", "movies", "img/local1.png", "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1024x576_m.m3u8"],
+    ["Local Now Rush", "movies", "img/LocalNow_Adrenaline_Rush.png", "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1024x576_m.m3u8"],
     
     ["Local Now Discover", "movies", "img/local1.png", "https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1024x576.m3u8"],
     
@@ -639,6 +641,12 @@
     
     ["MTV - Biggest Pop", "music", "https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg", "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"],
     
+    ["Box Hits", "music", "img/box-hits.webp", "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8"],
+
+    
+    ["Kerrang", "music", "img/box-hits.webp", "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8"],
+
+
     
     ["Circle", "music", "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/cQvNHHu1d-MDCCahg8qp9GS6sKM=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/2X7YZGAHONFDRIIUR45YZ4U6QM.png", "https://circle-roku.amagi.tv/playlist.m3u8"],	
     
