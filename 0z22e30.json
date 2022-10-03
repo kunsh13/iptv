@@ -640,12 +640,6 @@
     ["VH1", "music", "https://i.ytimg.com/vi/V7V-atgmeA4/maxresdefault.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
     
     ["MTV - Biggest Pop", "music", "https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg", "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"],
-    
-    ["Box Hits", "music", "img/box-hits.webp", "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8"],
-
-    
-    ["Kerrang", "music", "img/box-hits.webp", "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8"],
-
 
     
     ["Circle", "music", "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/cQvNHHu1d-MDCCahg8qp9GS6sKM=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/2X7YZGAHONFDRIIUR45YZ4U6QM.png", "https://circle-roku.amagi.tv/playlist.m3u8"],	
