@@ -135,12 +135,12 @@
     ["Keralabhumi", "music", "img/keralabhumi.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
     
     
-    ["I Love", "music", "img/ilove.jpg", "https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8"],
+    ["I Love", "music", "img/ilove.png", "https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8"],
     
     
     ["Hungama Artist Aloud", "music", "img/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
     
-    ["Hungama Dil Se", "music", "img/dilse.jpg", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
+    ["Hungama Dil Se", "music", "img/dilse.png", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
     
     
     
