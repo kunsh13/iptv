@@ -1,8 +1,7 @@
 [
-    ["Welcome", "welcome", "img/welcome1.jpg", "img/1-ambience_bar_small_busy_r&b_music.mp3"],
+    ["name", "category", "image", "url"],
     
     ["Welcome", "welcome", "img/welcome1.jpg", "img/1-airport-uk.mp3"],
-    
     
     ["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
     
@@ -21,7 +20,7 @@
     
     ["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
     
-    ["News Nation", "news", "img/newsnation.jpg", "https://livetv-channels.b-cdn.net/8017/chunklist0.m3u8"],
+
     
     ["Khabrain Abhi Tak", "news", "img/khabrenabhitak.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"],
     
@@ -29,11 +28,11 @@
     
     ["News 24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
     
-    ["News 24 MP", "news", "img/News24-mp.jpg", "https://livetv-channels.b-cdn.net/8090/chunklist0.m3u8"],
+
     
     ["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
     
-    ["Ind 24", "news", "img/Ind24.png", "https://livetv-channels.b-cdn.net/8095/chunklist0.m3u8"],
+
     
     
     ["NewsX", "news", "img/newsx.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
@@ -43,25 +42,13 @@
     ["India News", "news", "img/indianews.webp", "https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8"],
     
     ["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
-    
-    ["News 1 India", "news", "img/NEWS-1-INDIA.png", "https://livetv-channels.b-cdn.net/8089/chunklist0.m3u8"],
-    
-    ["Prime News", "news", "img/PrimeNews.png", "https://livetv-channels.b-cdn.net/8088/chunklist0.m3u8"],
-    
-    ["News State", "news", "img/news_state_9.jpg", "https://livetv-channels.b-cdn.net/8087/chunklist0.m3u8"],
+
     
 
 
     
     ["Sudarshan News", "news", "img/sudarshan.jfif", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
     
-    ["Surdshan News", "news", "img/sudarshan1.png", "https://livetv-channels.b-cdn.net/8044/chunklist0.m3u8"],
-    
-    ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://livetv-channels.b-cdn.net/8053/chunklist0.m3u8"],
-    
-    ["TV 100", "news", "img/TV100_News_old.webp", "https://livetv-channels.b-cdn.net/8023/chunklist0.m3u8"],
-    
-    ["News India 24x7", "news", "img/News-India-Channel.jpg", "https://livetv-channels.b-cdn.net/8067/chunklist0.m3u8"],
     
     ["First India News", "news", "img/First-india-news-rajasthan_1-in.webp", "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8"],
     
@@ -69,9 +56,6 @@
     
     ["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
     
-    ["Republic Bharat", "news", "img/republicbharat.jpg", "https://livetv-channels.b-cdn.net/8018/chunklist0.m3u8"],
-    
-    ["Republic Live", "news", "img/republiclive.png", "https://livetv-channels.b-cdn.net/8034/chunklist0.m3u8"],
     
     ["DD News", "news", "img/DDnews.png", "https://playhls.media.nic.in/live/ddnews/index.m3u8"],
     
@@ -79,9 +63,6 @@
     
     ["DD National", "news", "img/DD-national.webp", "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"],
     
-    ["DD Bharti", "news", "https://i.ytimg.com/vi/yr7pYdyEnH8/maxresdefault.jpg", "https://livetv-channels.b-cdn.net/8008/chunklist0.m3u8"],
-    
-    ["DD Urdu", "hindi", "img/ddurdu.jpg", "https://livetv-channels.b-cdn.net/8010/chunklist0.m3u8"],
     
     
     ["Sansad TV", "news", "img/sansad.jpg", "https://hls.media.nic.in/live/rstv-360p/index.m3u8"],
@@ -123,137 +104,55 @@
     ["MH1 Prime", "regional", "img/mh1news.jpg", "http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8"],
     
     ["Fastway - Canada", "regional", "img/fastway.png", "http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8"],
-    ["TV9 - Marathi", "regional", "img/tv9marathi.jpg", "https://livetv-channels.b-cdn.net/8052/chunklist0.m3u8"],
+
     
-    ["TV9 Gujrati", "regional", "img/TV9Gujrati.jpg", "https://livetv-channels.b-cdn.net/8048/chunklist0.m3u8"],
+
+    ["Shemaroo - Bhakti", "music", "img/shemaroobhakti.png", "https://bhaktiapp.shemaroo.com/pratishirdi/smil:pratishirdisel.smil/chunklist_b1128000_sleng.m3u8"],   
+
+
+    ["Hungama - I Love", "music", "img/ilove.png", "https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8"],
     
+   
     
-    ["TV9 Bangla", "news", "img/TV9Bangla.jpg", "https://livetv-channels.b-cdn.net/8042/chunklist0.m3u8"],
+    ["Hungama - Artist Aloud", "music", "img/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
     
-    
-    
-    ["Keralabhumi", "music", "img/keralabhumi.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
-    
-    
-    ["I Love", "music", "img/ilove.png", "https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8"],
-    
-    
-    ["Hungama Artist Aloud", "music", "img/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
-    
-    ["Hungama Dil Se", "music", "img/dilse.png", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
+    ["Hungama - Dil Se", "music", "img/dilse.png", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
     
     
     
-    ["Sangeet - Bengali", "regional", "img/sangeet.png", "https://livetv-channels.b-cdn.net/8050/chunklist0.m3u8"],
+    ["MH1 Music", "music", "img/mh1music.png", "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8"],
     
-    
-    
-    
-    ["E24", "music", "img/e24.webp", "https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8"],
-    
-    ["Sangeet Bhojpuri", "music", "img/Sangeet_bhojpuri.webp", "https://livetv-channels.b-cdn.net/8074/chunklist0.m3u8"],
-    
-    
-    
-    
-    ["Fakth Marathi", "regional", "img/fakth.png", "https://livetv-channels.b-cdn.net/8092/chunklist0.m3u8"],
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
     
     ["Hungama Kadak Hits", "movies", "img/kadakhits.png", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
     
-    ["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8"],
+    ["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://pull-3187.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/playlist.m3u8"],
     
-    
-    
-    ["B4U Bhojpuri", "movies", "img/B4UBhojpuri.jpg", "https://livetv-channels.b-cdn.net/8019/chunklist0.m3u8"],
-    
-    
-    
+
     
     ["Anjan - Hindi", "movies", "img/anjan.jpg", "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"],
-    
-    ["Goldmines - Bhojpuri", "movies", "img/goldmineBhojpuri.jpg", "https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8"],
-    
-    ["Goldmines - Hindi", "movies", "img/GoldminesTelefilms.webp", "https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8"],
-    
-    
-    ["Dhinchak 2", "movies", "img/Dhinchak2.jpg", "https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8"],
     
     
     ["AB Mastiii", "movies", "img/Mastiii_2016.webp", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Mastiii.smil/chunklist_w134870481_b1044100_sleng.m3u8"],
     
     
-    ["Shemaroo", "movies", "img/shemaroome.png", "https://livetv-channels.b-cdn.net/8094/chunklist0.m3u8"],
-    
-    ["Shemaroo Marathibana", "music", "img/Shemaroo_marathibana.webp", "https://livetv-channels.b-cdn.net/8076/chunklist0.m3u8"],
-    
-    ["MH1 Dil Se", "movies", "img/MH1DilSe.jpg", "https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8"],
-    
-    ["Wow Cinema", "movies", "img/WOW-Cinema_One.png", "https://livetv-channels.b-cdn.net/8097/chunklist0.m3u8"],
-    
-    ["AB Dhamaal", "movies", "img/Dhamaal_Gujarat_Sabgroup.webp", "https://livetv-channels.b-cdn.net/8096/chunklist0.m3u8"],
+    ["AB Dhamaal", "movies", "img/Dhamaal_Gujarat_Sabgroup.webp", "https://live.hungama.com/linear/dhamaal/playlist.m3u8"],
     
     
-    ["Movie Plus", "music", "img/movieplus.png", "https://livetv-channels.b-cdn.net/8099/chunklist0.m3u8"],
+     
+    ["Dreamz HD", "movies", "img/dreamz.png", "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8"],
+       
+
     
     
+    ["Keralabhumi", "music", "img/keralabhumi.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
     
+    ["Santhora - Short Film", "movies", "img/santhora.jpg", "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8"],
+
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    ["Santhora - Estonia", "movies", "img/Santhoratv.jpg", "http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8"],
+
     
     ["Safari - Malayalam", "lifestyle", "img/safari.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
     
@@ -278,8 +177,7 @@
     
     
     
-    
-    ["Food Food", "lifestyle", "img/foodfood.jpg", "https://livetv-channels.b-cdn.net/8041/chunklist0.m3u8"],
+    ["Telemax", "music", "img/telemax.png", "http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8"],
     
     ["ALTV Thai", "lifestyle", "img/altv4.jpg", "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"],    
     
@@ -312,6 +210,7 @@
     
     ["Docubay India", "lifestyle", "https://cdn.soft112.com/docubay-streaming-documentaries/00/00/0H/GB/00000HGBQM/pad_screenshot.png", "https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8"],
     
+  ["Real Stories", "lifestyle", "img/realstories.jpg", "https://lds-realstories-samsungau.amagi.tv/playlist720-p.m3u8"],
     
     
     ["Smithsonian - US", "lifestyle", "https://wwwimage-us.pplusstatic.com/base/files/seo/og-brand-smithsonian_5.jpg", "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"],
@@ -344,8 +243,6 @@
     ["Ion Plus", "movies", "img/ionplus.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
     
     
-    ["Goodnews TV", "movies", "img/Goodnews.png", "https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8"],
-    
     ["A&E - Cable Hits", "lifestyle", "img/AE-Anywhere.jpg", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
     
     
@@ -353,8 +250,6 @@
     
 
     ["Are We There Yet", "movies", "img/are-we-there-yet.png", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"],
-    
-    ["AMC IFC", "movies", "img/ifc.webp", "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8"],
     
     ["AMC", "movies", "img/amc1.webp", "https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8"],
     
@@ -398,6 +293,13 @@
     ["Cine Life", "movies", "img/cinelife.jpg", "https://magselect-stirr.amagi.tv/playlist1080p.m3u8"],	
     
     ["Cinema Heaven - South Korea", "movies", "img/cinemaheavenKorea2.jpg", "https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8"],	
+    
+    ["Cinema World", "movies", "img/cimenaworld.jpg", "http://210.210.155.37/dr9445/h/h04/index.m3u8"],	
+    
+    ["Cine Pride", "movies", "img/cinepride.jpg", "https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8"],	
+        
+    ["Cine View", "movies", "img/Cineview_1000px_new-round.png", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8"],
+    
     
     
     ["Gravitas Movies", "movies", "img/gravitas-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"],
@@ -443,7 +345,9 @@
     ["Rakuten Action", "movies", "img/rakuten4.jpg", "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
     
     
-    
+       
+    ["Local now Music", "music", "img/localnowmusic.png", "https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8"],
+
     
     
     ["Local Now Zen", "movies", "img/local0.png", "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8"],
@@ -613,9 +517,10 @@
     
     
     
+        
+    ["City Music", "music", "img/citymusic.png", "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8"],
     
-    
-    
+
     
     ["Stingray Rock Alternative", "music", "https://mediafile.galaxie.ca/data/000/136/191/000136191874", "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8"],
     
@@ -631,11 +536,26 @@
     
     ["Stingray Karaoke - Sweden", "music", "https://about.rogers.com/wp-content/uploads/2020/06/karaoke-scaled-e1591193993883.jpg", "https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8"],
     
-    
+    ["Nago - Haiti", "music", "img/nago.jfif", "http://haititivi.com:8088/haititv/tele6NY/index.m3u8"],
+
     ["Generations TV", "music", "https://s2.dmcdn.net/v/8pMxj1Lv8m92fuQBt/x1080", "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"],
     
-    ["VEVO", "music", "https://i.insider.com/5787e38688e4a78c148b815a?width=1000&format=jpeg&auto=webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
+    ["Muzzik OKK Serbia", "music", "img/muzzik.png", "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8"],
     
+    ["KroneHit", "music", "img/Kronehit.png", "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8"],
+
+
+
+
+
+    ["Muzzik Worldwide Serbia", "music", "img/wwm.png", "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8"],
+
+
+
+    ["VEVO Pop", "music", "https://i.insider.com/5787e38688e4a78c148b815a?width=1000&format=jpeg&auto=webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
+    
+           
+    ["Local now Music", "music", "img/localnowmusic.png", "https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8"],
     
     ["VH1", "music", "https://i.ytimg.com/vi/V7V-atgmeA4/maxresdefault.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
     
@@ -673,20 +593,17 @@
     
     ["PTC News US", "news", "https://i.ytimg.com/vi/N_YRHYQ6orQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcOtgnOTN3gdchUWGlDhJxajIipQ", "https://streaming.ptcplay.com/ptcnewsusONE/smil:Live.smil/playlist.m3u8"],
     
-    
-    
-    ["Balle Balle", "music", "img/BalleBalle.jpg", "https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8"],
+
     
     ["9x Music", "music", "img/9xm.webp", "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"],
     
     
-    ["9x Jalwa", "music", "img/9x-media.png", "https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8"],
-    
-    ["9x Tashan", "music", "img/9xTashan.png", "https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8"],
-    
     ["Wah Punjabi", "music", "https://static.wikia.nocookie.net/logopedia/images/2/2c/Wah_Punjabi.jpeg", "http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/chunks.m3u8"],
     
-    
+        
+    ["Steelbird  - Punjabi", "music", "img/steelbird.jpg", "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8"],
+
+   
     
     
     ["Radio Caravan US", "internetradio", "https://jointhecaravan.com/wp-content/uploads/2021/05/radio-caravan-show.jpg", "https://stream.voxx.pro/radio/8260/radio.mp3"],
@@ -767,7 +684,7 @@
     ["Instrumental Music Radio", "internetradio", "https://instrumentalhitsradio.com/images/IHR.jpg", "https://azuracast.vibesounds.in:8030/radio.mp3"],
     
     
-    ["FM 100.1 - Vividh Bharti", "internetradio", "https://i.ytimg.com/vi/KabAZ-2QddU/maxresdefault.jpg", "https://air.pc.cdn.boyeitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
+    ["FM 100.1 - Vividh Bharti", "internetradio", "https://i.ytimg.com/vi/KabAZ-2QddU/maxresdefault.jpg", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"],
     
     ["FM 102.6 - AIR Rainbow", "internetradio", "img/fm_airgold.jpg", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"],
     
