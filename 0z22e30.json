@@ -1,6 +1,6 @@
 [
     ["name", "category", "image", "url"],
-    
+
     ["Welcome", "welcome", "img/welcome1.jpg", "img/1-airport-uk.mp3"],
     
     ["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
@@ -425,8 +425,6 @@
     
     ["Tagesschau - Germany", "news", "img/tagesschau.jpeg", "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8"],
 
-   ["TVRI3 World - Indonesia", "news", "img/TV3_Malaysia.png", "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8"],
-    
     
     ["DW - Deutsche Welle News", "news", "img/dw1.jpg", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],
     
@@ -550,23 +548,22 @@
     
     ["Stingray Karaoke", "music", "img/stingraykaraoke1.jpg", "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8"],
     
-    ["Stingray Karaoke 2", "music", "img/StingrayKaraoke2.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"],    
+    ["Stingray Karaoke 2", "music", "img/StingrayKaraoke2.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"],
     
-
-    ["Generations TV", "music", "https://s2.dmcdn.net/v/8pMxj1Lv8m92fuQBt/x1080", "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"],
+    ["Generations TV - France", "music", "https://s2.dmcdn.net/v/8pMxj1Lv8m92fuQBt/x1080", "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"],
     
-    ["Muzzik OKK Serbia", "music", "img/muzzik.png", "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8"],
+    ["Muzzik OKK - Serbia", "music", "img/muzzik.png", "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8"],
     
-    ["KroneHit", "music", "img/Kronehit.png", "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8"],
+    ["KroneHit - Austria", "music", "img/Kronehit.png", "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8"],
 
     ["Pop Media", "music", "img/popmedia.jpg", "https://v4.tustreaming.cl/poptv/playlist.m3u8"],
 
 
     ["TNT - Russia", "music", "img/tnt.webp", "http://83.222.205.65:8080/tntmusic/index.m3u8"],
 
-    ["Zerouno", "music", "img/Zerouno.jpg", "http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8"],
+    ["Zerouno - Italy", "music", "img/Zerouno.jpg", "http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8"],
 
-    ["Muzzik Worldwide Serbia", "music", "img/wwm.png", "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8"],
+    ["Worldwide Muzzik - Serbia", "music", "img/wwm.png", "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8"],
 
     ["VEVO 80s", "music", "img/vevo-channel.webp", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8"],
     
@@ -673,7 +670,7 @@
     ["Tarana Radio - New Zealand", "internetradio", "https://i.ytimg.com/vi/5-puJseGmsM/maxresdefault.jpg", "https://peridot.streamguys1.com:7150/Tarana.aac"],
     
     
-    ["Spice Radio - Bangladesh", "internetradio", "https://www.spicefmbd.com/assets/img/gallery/Celebrities/Armeen%20Musa%20with%20Rj%20Tazz.jpg", "http://162.254.149.187:9300/;"],
+    ["Radio Amber, Bangladesh", "internetradio", "img/RadioAmber.png", "https://radio.jagobd.com:444/radio/radioamber.stream/icecast.audio"],
     
     
     
