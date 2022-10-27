@@ -39,12 +39,6 @@
     
    ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8"],
     
-        
-    ["NewsX", "news", "img/newsx.jpg", "https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8"],
-    
-    ["India TV", "news", "img/indiatv.jpg", "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8"],
-    
-    ["India News", "news", "img/indianews.webp", "https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8"],
     
     ["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
 
@@ -64,9 +58,9 @@
     
     ["DD News", "news", "img/DDnews.png", "https://playhls.media.nic.in/live/ddnews/index.m3u8"],
     
-    ["DD Sports", "news", "img/DD-Sports.webp", "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"],
+    ["DD Sports", "news", "img/DD-Sports.webp", "https://livetv-channels.b-cdn.net/8011/chunklist0.m3u8"],
     
-    ["DD National", "news", "img/DD-national.webp", "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"],
+    ["DD National", "news", "img/DD-national.webp", "https://livetv-channels.b-cdn.net/8006/chunklist0.m3u8"],
     
     
     
@@ -84,8 +78,6 @@
     
     ["News 18 Lokmat", "news", "img/news18lokmat.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
     
-    ["News 36", "news", "img/news36.png", "https://news36.livebox.co.in/news36livehls/live.m3u8"],
-    
     
     
     ["Tribe TV", "regional", "img/tribeTV.png", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
@@ -97,11 +89,10 @@
     
     ["Northeast live", "regional", "img/northeastlive.jpg", "https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8"],
     
-    ["Assam Talks", "regional", "img/assamtalks.jpg", "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8"],
     
     ["News Daily 24", "regional", "img/dailynews24.jpg", "https://legitpro.co.in/hls28/nd24/index.m3u8"],
     
-    ["Pratidin Time", "regional", "img/PratidinTime.jpg", "https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist_w1668404264.m3u88"],
+    ["Pratidin Time", "regional", "img/PratidinTime.jpg", "https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist_w1668404264.m3u8"],
     
     ["Kantipur Nepal", "regional", "img/kantipur.png", "https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8"],
     
@@ -147,18 +138,13 @@
     
     
      
-    ["Dreamz HD", "movies", "img/dreamz.png", "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8"],
+    ["Dreamz HD", "movies", "img/dreamz.png", "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR"],
        
 
-    
     
     ["Keralabhumi", "music", "img/keralabhumi.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
     
     ["Santhora - Short Film", "movies", "img/santhora.jpg", "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8"],
-
-    
-    ["Santhora - Estonia", "movies", "img/Santhoratv.jpg", "http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8"],
-
     
     ["Safari - Malayalam", "lifestyle", "img/safari.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
     
@@ -350,8 +336,14 @@
     
     
     
+    ["Action Hollywood", "movies", "img/actionHollywood.avif", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"],	
+    
+     
     
     
+    ["Dark Matter", "movies", "img/drkmatter1280x720.webp", "https://dmtv-plex.amagi.tv/playlist.m3u8"],	
+    
+         
     
     
     
@@ -558,6 +550,7 @@
 
     ["Pop Media", "music", "img/popmedia.jpg", "https://v4.tustreaming.cl/poptv/playlist.m3u8"],
 
+    ["1hd - Russia", "music", "img/1hd-logo.jpg", "https://sc.id-tv.kz/1hd.m3u8"],
 
     ["TNT - Russia", "music", "img/tnt.webp", "http://83.222.205.65:8080/tntmusic/index.m3u8"],
 
@@ -570,8 +563,8 @@
 
     ["VEVO Pop", "music", "https://i.insider.com/5787e38688e4a78c148b815a?width=1000&format=jpeg&auto=webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
     
-           
-    ["Local now Music", "music", "img/localnowmusic.png", "https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8"],
+
+
     
     ["VH1", "music", "https://i.ytimg.com/vi/V7V-atgmeA4/maxresdefault.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
     
