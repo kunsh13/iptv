@@ -227,6 +227,9 @@
 		
 		.video-js.vjs-live:not(.vjs-liveui) .vjs-seek-to-live-control,
 		.video-js:not(.vjs-live) .vjs-seek-to-live-control {display:inline-block}
+
+
+		.video-js .vjs-seek-to-live-control {display: inline-block!important}
 		
 		.vjs-paused.vjs-has-started .vjs-big-play-button {display:block!important}
 
