@@ -25,8 +25,8 @@
         nav {width:calc(15%);height: calc(100%);position:absolute;top:0;right:0;}
 
 		nav ul li {display:flex;flex-wrap:wrap}
-		.thumbimg {width:95%;175px;height:100px}
-		.active img {width:164px!important;height:80px}
+		.thumbimg {width:95%;height:100px}
+		.active img {width:calc(100% - 10px)!important;height:80px}
     }
 
     @media (orientation:portrait) {
