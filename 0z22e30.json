@@ -55,7 +55,7 @@
     
     ["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
     
-    
+
     ["DD News", "news", "img/DDnews.png", "https://playhls.media.nic.in/live/ddnews/index.m3u8"],
     
     ["DD Sports", "news", "img/DD-Sports.webp", "https://livetv-channels.b-cdn.net/8011/chunklist0.m3u8"],
@@ -65,12 +65,6 @@
     
     
     ["Sansad TV", "news", "img/sansad.jpg", "https://hls.media.nic.in/live/rstv-360p/index.m3u8"],
-    
-    
-    
-    
-    
-    ["Live Today", "news", "img/livetoday.png", "https://livetodaystream.in/hls/livetoday/index.m3u8"],
     
     
     
@@ -97,8 +91,7 @@
     ["Kantipur Nepal", "regional", "img/kantipur.png", "https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8"],
     
     
-    ["MH1 Prime", "regional", "img/mh1news.jpg", "http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8"],
-    
+   
     ["Fastway - Canada", "regional", "img/fastway.png", "http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8"],
 
 
@@ -115,9 +108,7 @@
     
     
     ["Subrang", "movies", "img/subrang.jpg", "https://cdn61.liveonlineservices.com/hls/subrang.m3u8"],
-    
-    ["MH1 Music", "music", "img/mh1music.png", "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8"],
-    
+
 
     
     
@@ -168,26 +159,21 @@
     ["So Yummy!", "lifestyle", "img/SoYummy.jfif", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8"],
     
     
-    
-    ["Telemax", "music", "img/telemax.png", "http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8"],
-    
     ["ALTV Thai", "lifestyle", "img/altv4.jpg", "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"],    
+    
     
     ["Tastemade", "lifestyle", "https://media.bizj.us/view/img/11926697/tastemade-general*1200xx4200-2363-0-192.jpg", "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8"],
     
     ["Tastemade Travel", "lifestyle", "https://i.ytimg.com/vi/aO4miDfiZ1I/maxresdefault.jpg", "https://tastemadetravel-vizio.amagi.tv/playlist.m3u8"],
     
-    ["Travel XP", "lifestyle", "https://www.traveldailymedia.com/assets/2018/04/Travelxp-4K.jpg", "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"],
+    ["Travel XP", "lifestyle", "img/TravelxpHD.jpg", "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"],
     
     ["Wonder", "lifestyle", "https://images.firstpost.com/wp-content/uploads/2021/04/samsung-tv-plus-min.jpg", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
     
     
     
     ["Civilized TV", "lifestyle", "img/Civilized_Worldwide_Inc.jpg", "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8"],
-    
-    
-    
-    
+
     ["Popstar! - India", "lifestyle", "https://programminginsider.com/wp-content/uploads/2022/05/popstar.jpeg", "https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8"],
     
     ["InSight - India", "lifestyle", "https://i.ytimg.com/vi/M0YcQUGQqaQ/maxresdefault.jpg", "https://insighttv-samsungindia.amagi.tv/playlist.m3u8"],
@@ -230,15 +216,6 @@
     ["Dubai One", "movies", "img/dubaiOne1.jpg", "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8"],
     
     
-    ["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
-    
-    
-    ["AMG TV", "movies", "img/amg-tv.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
-    
-
-    
-    ["Ion Plus", "movies", "img/ionplus.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
-    
 
     ["K+ - South Korea", "movies", "img/k-plus.png", "http://210.210.155.37/uq2663/h/h08/index.m3u8"],
 
@@ -254,6 +231,19 @@
 
 
 
+    
+    ["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
+    
+    
+    ["AMG TV", "movies", "img/amg-tv.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
+    
+
+    
+    ["Ion Plus", "movies", "img/ionplus.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
+    
+
+
+
 
     
         
@@ -263,8 +253,6 @@
     ["Electric Now", "movies", "img/electric-now2.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8"],
     
 
-    ["Are We There Yet", "movies", "img/are-we-there-yet.png", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"],
-    
     ["AMC", "movies", "img/amc1.webp", "https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8"],
     
     ["AMC Presents", "movies", "img/amc2.jpg", "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
@@ -570,6 +558,8 @@
     ["teve.cat - France", "music", "img/canal4.jpg", "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8"],
     
 
+    ["The Breeze", "music", "img/Breeze-TV.png", "https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8"],
+    
     ["1hd - Russia", "music", "img/1hd-logo.jpg", "https://sc.id-tv.kz/1hd.m3u8"],
 
     ["TNT - Russia", "music", "img/tnt.webp", "http://83.222.205.65:8080/tntmusic/index.m3u8"],
@@ -771,7 +761,6 @@
     
     
     ["VDesi", "internetradio", "img/fm_vdesi1.jpg", "https://stream.radio.co/s42e977b6c/listen"],
-    
     
     
     
