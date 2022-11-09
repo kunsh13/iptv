@@ -25,7 +25,7 @@
         nav {width:calc(15%);height: calc(100%);position:absolute;top:0;right:0;}
 
 		nav ul li {display:flex;flex-wrap:wrap}
-		.thumbimg {width:95%;height:100px}
+		.thumbimg {width:calc(100% - 10px);height:100px}
 		.active img {width:calc(100% - 10px)!important;height:80px}
     }
 
@@ -170,6 +170,9 @@
 	.active img{background-color:yellow;border:10px solid yellow}
 	.active img:hover {border-right:10px solid #fff}
 
+	/*keyboard_navigate*/
+	.selected img{border-right:10px solid blue}
+
 	.hide {display:none!important}
 	.notavailable {text-decoration:line-through}
 
@@ -264,5 +267,4 @@
 	::-webkit-scrollbar-thumb {background-color:yellow;}
 	::-webkit-scrollbar-corner {background:0 0;}
 	::-webkit-scrollbar {width:8px;height:8px;background:0 0;}
-
 
