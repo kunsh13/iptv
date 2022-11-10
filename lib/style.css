@@ -166,7 +166,7 @@
 	#menu li:hover:not(.active) {background:#fff;cursor:pointer}
 
 	#menu li {outline:none !important}
-	#menu li:focus {cursor:pointer;border-right:10px solid yellow}
+	#menu li:focus {cursor:pointer;border-right:10px solid #fff}
 	#menu li:focus:not(.active) .thumbimg {width:100%}
 
 	
