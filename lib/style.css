@@ -11,7 +11,7 @@
 	/* layout css */
 	html, body {font-family:'Jockey One', 'Dosis','Berkshire Swash','Bungee Shade','arial';background-color:#000;overflow:hidden;margin:0; padding:0;height:100%}
 	
-    section {display:flex;flex-direction:column;height:100%;position:relative}
+    section {display:flex;flex-direction:column;height:100%;position:relative!important}
 	main {box-sizing:border-box}
 	nav {overflow-y:scroll;scroll-behavior:smooth;background:#606060}
     
@@ -20,10 +20,14 @@
 	
 	@media only screen and (orientation: landscape) {
         main {width:calc(85%);height:calc(100%)}
-        nav {width:calc(15%);height: calc(100%);position:absolute;top:0;right:0}
+        nav {width:calc(15%);height: calc(100% - 100px);position:absolute;top:100px;right:0}
 
 		.active {height:100px;background-size: cover;background-image: url("../img/currentlyPlaying.jpg");background-repeat: no-repeat;}
+
+		/*float middle*/
 		.active .thumbimg{position: fixed;top:calc(50% - 50px);z-index: 4;width: calc(15% - 18px);}
+		/*float top*/
+		.active .thumbimg{position: fixed;top:0;z-index: 4;width: calc(15% - 18px);}		
 
 		nav ul li {display:flex;flex-wrap:wrap}
 		.thumbimg {width:calc(100% - 10px);height:100px}
