@@ -32,6 +32,10 @@
 		nav ul li {display:flex;flex-wrap:wrap}
 		.thumbimg {width:calc(100% - 10px);height:100px}
 		.active img {width:calc(100% - 10px)!important;height:80px}
+
+		#menu li {outline:none !important}
+		#menu li:focus:not(.active) {cursor:pointer;border-right:10px solid #fff}
+		#menu li:focus:not(.active) .thumbimg {width:100%}
     }
 
     @media (orientation:portrait) {
@@ -165,14 +169,12 @@
 	#menu li {margin:0;cursor:pointer; color:yellow;vertical-align:middle}
 	#menu li:hover:not(.active) {background:#fff;cursor:pointer}
 
-	#menu li {outline:none !important}
-	#menu li:focus {cursor:pointer;border-right:10px solid #fff}
-	#menu li:focus:not(.active) .thumbimg {width:100%}
+
 
 	
 	.active:befo//re {content:"Active Channel";position:absolute;left:10px;padding:10px}
 	.active img{background-color:yellow;border:10px solid yellow}
-	.active img:hover {border-right:10px solid #fff}
+	.active img:hover:not(.active) {border-right:10px solid #fff}
 
 	/*keyboard_navigate*/
 	.selected img{border-right:10px solid blue}
