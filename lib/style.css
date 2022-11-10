@@ -163,7 +163,7 @@
 	#menu {background: #12c2e9;background: -webkit-linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);}
 
 	#menu li {margin:0;cursor:pointer; color:yellow;vertical-align:middle}
-	#menu li:hover {background:#fff;cursor:pointer}
+	#menu li:hover:not(.active) {background:#fff;cursor:pointer}
 
 	#menu li {outline:none !important}
 	#menu li:focus {cursor:pointer;border-right:10px solid red}
