@@ -8,8 +8,6 @@
  */
 
 
-
-
 	/* layout css */
 	html, body {font-family:'Jockey One', 'Dosis','Berkshire Swash','Bungee Shade','arial';background-color:#000;overflow:hidden;margin:0; padding:0;height:100%}
 	
@@ -22,7 +20,10 @@
 	
 	@media only screen and (orientation: landscape) {
         main {width:calc(85%);height:calc(100%)}
-        nav {width:calc(15%);height: calc(100%);position:absolute;top:0;right:0;}
+        nav {width:calc(15%);height: calc(100%);position:absolute;top:0;right:0}
+
+		.active {height:100px;background-size: cover;background-image: url("../img/currentlyPlaying.jpg");background-repeat: no-repeat;}
+		.active .thumbimg{position: fixed;top:calc(50% - 50px);z-index: 4;width: calc(15% - 18px);}
 
 		nav ul li {display:flex;flex-wrap:wrap}
 		.thumbimg {width:calc(100% - 10px);height:100px}
@@ -161,9 +162,9 @@
 	#menu li:hover {background:#fff;cursor:pointer}
 
 	#menu li {outline: none !important; }
-	#menu li:focus {background:#12c2e9;cursor:pointer;bo/rder:10px solid yellow}
+	#menu li:focus {background:#ff0000;cursor:pointer}
 
-
+	
 
 	
 	.active:befo//re {content:"Active Channel";position:absolute;left:10px;padding:10px}
