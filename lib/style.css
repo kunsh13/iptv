@@ -21,6 +21,7 @@
 	@media only screen and (orientation: landscape) {
         main {width:calc(85%);height:calc(100%)}
         nav {width:calc(15%);height: calc(100% - 100px);position:absolute;top:100px;right:0}
+		aside{right:175px}
 
 		.active {height:100px;background-size: cover;background-image: url("../img/currentlyPlaying.jpg");background-repeat: no-repeat;}
 
@@ -40,7 +41,8 @@
 
     @media (orientation:portrait) {
         main {height:25%}
-        nav {height:75%;}
+        nav {height:75%}
+    	aside{right:0}
 
         nav ul li {display:inline-block}
        .thumbimg {width:240px;height:166px}
@@ -55,7 +57,7 @@
 	}
 	
 	/*aside*/
-    aside{position:absolute;top:0;right:calc(15%);float:top;width:50px;height:50px;padding:10px;margin:10px;border-radius:50%}
+    aside{position:absolute;top:0;float:top;width:50px;height:50px;padding:10px;margin:10px;border-radius:50%}
     
 	ul {padding:0;margin:0;list-style:none;}
     aside .searchbutt {margin:0;vertical-align:middle}
