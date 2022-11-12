@@ -42,7 +42,7 @@
     @media (orientation:portrait) {
         main {height:25%}
         nav {height:75%}
-    	aside{right:0}
+    	aside{right:0!important}
 
         nav ul li {display:inline-block}
        .thumbimg {width:240px;height:166px}
@@ -57,7 +57,7 @@
 	}
 	
 	/*aside*/
-    aside{position:absolute;top:0;float:top;width:50px;height:50px;padding:10px;margin:10px;border-radius:50%}
+    aside{position:absolute;top:0;right:15%;float:top;width:50px;height:50px;padding:10px;margin:10px;border-radius:50%}
     
 	ul {padding:0;margin:0;list-style:none;}
     aside .searchbutt {margin:0;vertical-align:middle}
