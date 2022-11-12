@@ -32,7 +32,8 @@
 
 		nav ul li {display:flex;flex-wrap:wrap}
 		.thumbimg {width:calc(100% - 10px);height:100px}
-		.active img {width:calc(100% - 10px)!important;height:80px}
+		/*.active img {width:calc(100% - 10px)!important;height:80px}*/
+		.active img {width:100%!important;height:80px}
 
 		#menu li {outline:none !important}
 		#menu li:focus:not(.active) {cursor:pointer;border-right:10px solid #fff}
@@ -67,8 +68,6 @@
 	aside .searchbutt:hover, aside .searchbutt:active {cursor:pointer;border:1px solid yellow;background:yellow}
 
 	
-
-	/*https://nikitahl.com/search-icon-inside-input*/
 	aside .searchbox  {
 		color: #000;
 		display: block;
@@ -176,7 +175,7 @@
 	
 	.active:befo//re {content:"Active Channel";position:absolute;left:10px;padding:10px}
 	.active img{background-color:yellow;border:10px solid yellow}
-	.active img:hover:not(.active) {border-right:10px solid #fff}
+	/*.active img:hover:not(.active) {border-right:10px solid #fff}*/
 
 	/*keyboard_navigate*/
 	.selected img{border-right:10px solid blue}
