@@ -2,6 +2,7 @@
     ["name", "category", "image", "url"],
 
     ["Welcome", "welcome", "img/welcome1.jpg", "img/1-airport-uk.mp3"],
+    
     ["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
     
     ["Aaj Tak HD", "news", "img/aajtakhd.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],
@@ -13,10 +14,13 @@
     ["Zee Business", "news", "img/zeebusiness.jpg", "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8"],
     
     ["Zee Uttar Pradesh Uttarakhand", "news", "img/zeeuttrakhand.jpg", "https://derxvsp9jqjuq.cloudfront.net/out/v1/268b5323e33b4d6d833cfd1f59366329/index_4.m3u8"],
-
+    
+    
     ["Good News Today", "news", "img/gnt.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"],
     
     ["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
+    
+
     
     ["Khabrain Abhi Tak", "news", "img/khabrenabhitak.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"],
     
@@ -24,17 +28,27 @@
     
     ["News 24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
     
+
+    
     ["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
     
    ["Ind 24", "news", "img/Ind24.png", "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8"],
     
+   
+    
+    
    ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8"],
     
     
-   ["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
- 
-   ["Sudarshan News", "news", "img/sudarshan.jfif", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
-        
+    ["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
+
+    
+
+
+    
+    ["Sudarshan News", "news", "img/sudarshan.jfif", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
+    
+    
     ["First India News", "news", "img/First-india-news-rajasthan_1-in.webp", "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8"],
     
     ["NDTV India", "news", "img/ndtvindia.jpg", "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"],
@@ -64,17 +78,22 @@
     
     ["Hornbill TV", "regional", "img/hornbill.jpg", "http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist_w1492888499.m3u8"],
     
+    
     ["News Live", "regional", "https://image3.mouthshut.com/images/imagesp/925599220s.jpg", "https://5b48d7e1b4bce.streamlock.net/myapp/newslive/chunklist_w149645135.m3u8"],
     
     ["Northeast live", "regional", "img/northeastlive.jpg", "https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8"],
+    
     
     ["News Daily 24", "regional", "img/dailynews24.jpg", "https://legitpro.co.in/hls28/nd24/index.m3u8"],
     
     ["Pratidin Time", "regional", "img/PratidinTime.jpg", "https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist_w1668404264.m3u8"],
     
     ["Kantipur Nepal", "regional", "img/kantipur.png", "https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8"],
+    
+    
    
     ["Fastway - Canada", "regional", "img/fastway.png", "http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8"],
+
 
     ["Shemaroo - Bhakti", "music", "img/shemaroobhakti.png", "https://bhaktiapp.shemaroo.com/pratishirdi/smil:pratishirdisel.smil/chunklist_b1128000_sleng.m3u8"],   
 
@@ -107,6 +126,8 @@
     
     
     ["AB Dhamaal", "movies", "img/Dhamaal_Gujarat_Sabgroup.webp", "https://live.hungama.com/linear/dhamaal/playlist.m3u8"],
+    
+    
      
     ["Dreamz HD", "movies", "img/dreamz.png", "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR"],
        
@@ -211,7 +232,7 @@
 
 
     
-    ["Charge!", "movies", "https://www.oneclickactivate.com/wp-content/uploads/2021/09/3-8.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
+    ["Charge!", "movies", "img/Charge.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
     
     
     ["AMG TV", "movies", "img/amg-tv.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
@@ -573,9 +594,9 @@
     
     ["PTC Chak De IND", "music", "https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De-1.png", "https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8"],
     
-    ["PTC Chak De Canada", "music", "https://www.ptcnetwork.com/wp-content/uploads/2021/09/03-PTC-Chakde.jpg", "https://streaming.ptcplay.com/ptcchakdeusONE/smil:Live.smil/playlist.m3u8"],
+    ["PTC Chak De Canada", "music", "img/PTC-Chakde.jpg", "https://streaming.ptcplay.com/ptcchakdeusONE/smil:Live.smil/playlist.m3u8"],
     
-    ["PTC Simran", "music", "https://static.wikia.nocookie.net/logopedia/images/0/02/PTC_Simran.jpg", "https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8"],
+    ["PTC Simran", "music", "img/PTC_Simran.jpg", "https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8"],
     
     ["PTC Gold", "music", "https://i.ytimg.com/vi/qfXcQBmaZq8/maxresdefault.jpg", "https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8"],
     
@@ -615,7 +636,7 @@
     
     ["Kirtan Mandali - Vrndavan", "internetradio", "https://iskconnews.org/media/img_versions/2010/06-Jun/24_th_featured.jpg", "https://server.24hourkirtan.fm:8000/128k.mp3"],
     
-    ["Bhakti Sangeet", "internetradio", "https://www.radio.net/images/broadcasts/7f/3f/131351/1/c300.png", "https://stream.zeno.fm/ut3kgm1vsa0uv"],
+    ["Bhakti Sangeet", "internetradio", "img/Bhakti_Sangeet.jpg", "https://stream.zeno.fm/ut3kgm1vsa0uv"],
     
     ["Bhajan Rajasthani", "internetradio", "img/rajasthanibhajan.jpg", "https://stream.zeno.fm/4ukvgz7ydy8uv"],
     
@@ -716,7 +737,7 @@
     
     
     
-    ["Fun Asia - Los Angeles", "internetradio", "https://funasia.net/bigfantv.funasia.net/upload/radio/1/mainimage2736.png", "http://funasia.streamguys1.com/live11"],
+    ["Fun Asia - Los Angeles", "internetradio", "img/funAsia_la.png", "http://funasia.streamguys1.com/live11"],
     
     
     ["Big FM - Fun Asia", "internetradio", "https://funasia.net/bigfantv.funasia.net/upload/radio/23/mainimage3619.png", "https://funasia.streamguys1.com/live4"],
