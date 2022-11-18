@@ -23,17 +23,16 @@
         nav {width:calc(15%);height: calc(100% - 100px);position:absolute;top:100px;right:0}
 		aside{right:175px}
 
-		.active {height:100px;background-size: cover;background-image: url("../img/currentlyPlaying.jpg");background-repeat: no-repeat;}
+		.active {height: 16vh;background-size: cover;background-image: url("../img/currentlyPlaying.jpg");background-repeat: no-repeat}
 
-		/*float middle*/
-		.active .thumbimg{position: fixed;top:calc(50% - 50px);z-index: 4;width: calc(15% - 18px);}
+	
 		/*float top*/
-		.active .thumbimg{position: fixed;top:0;z-index: 4;width: calc(15% - 18px);}		
+		.active .thumbimg{position: fixed;top:0;z-index: 4;width: calc(15% - 18px);height:16vh}		
 
 		nav ul li {display:flex;flex-wrap:wrap}
-		.thumbimg {width:calc(100% - 10px);height:100px}
+		.thumbimg {width:calc(100% - 10px);height:16vh}
 		/*.active img {width:calc(100% - 10px)!important;height:80px}*/
-		.active img {width:100%!important;height:80px}
+		.active img {width:100%!important;height: 16vh;}
 
 		#menu li {outline:none !important}
 		#menu li:focus:not(.active) {cursor:pointer;border-right:10px solid #fff}
