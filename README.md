@@ -23,13 +23,3 @@
 [<img align="left" alt="qr code" width="281px" height="281px" src="img/qr_c.png" />][site]
 <br>
 
-<br>
-
-<script src="https://utteranc.es/client.js"
-        repo="https://github.com/kunsh13/iptv"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-<br>
