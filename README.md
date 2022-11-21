@@ -3,8 +3,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b649cddc-2888-4ee6-9391-fa6be667a902/deploy-status)](https://app.netlify.com/sites/kunsh13/deploys)
 
+- [Submit Discussion](https://github.com/kunsh13/iptv/discussions)
 
-- [Submit Feedback!](https://forms.gle/XACScoR7myNHnVCh8)
+```      - [Submit Feedback!](https://forms.gle/XACScoR7myNHnVCh8) ```
 
 - [Firebase Site ](https://kunsh13-iptv.firebaseapp.com/)
 
