@@ -1,11 +1,13 @@
 
 <h1 align='center'>🌟 IPTV <a href="https://kunsh13.github.io/iptv/"><img src="/img/favicon_round.png" width="40" height="40"></a> 2.3🌟</h1>
 
-I have started C++ project on WIFI Embded Internet radio on ESP32 WROOM and vs1053b 24bit I2S audio processor. I would recommand [KaRadio32](https://github.com/karawin/Ka-Radio32) opensource library. I learned that WebStations are listed in a seperate file. I love how community religiously follow and experiment their projects. 
+I have started C++ project on WIFI Embded Internet radio on MCU ESP32 WROOM and DAC VS1053b 24bit I2S audio processor, 3 Band eq. I would recommand [KaRadio32](https://github.com/karawin/Ka-Radio32) opensource library. I learned that WebStations are listed in a seperate file. I love how community religiously follow and experiment their projects. 
 
-Later migrated the project to ESP32 WROVER and PCM5102 32Bit I2S audio processor. Having 8 MB SPI PSRAM and AAC/OGG for adding more stream audio over the https. Now there is no buffering of the audio. I am porting the project in TTGO TAudio.
+Later migrated the project to ESP32 WROVER-B and PCM5102 32Bit I2S audio processor. Having 8 MB SPI PSRAM and AAC/OGG for adding more stream audio over the https. Now there is no buffering of the audio. 
 
-As I kept learning I have added stream for video as well and created this iptv and internet radio project.
+I am porting the project in [TTGO TAudio](http://www.lilygo.cn/prod_view.aspx?TypeId=50063&Id=1171). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq.
+
+As I kept learning I have added stream for video as well and created this iptv/internet radio project.
 
 
 
