@@ -29,11 +29,13 @@
 <br>
 <br>
 <br>
+Journey so far:
+I have developed a WIFI Internet radio prototype using Embedded C++.
 
-I have started C++ project on WIFI Embded Internet radio on MCU ESP32 WROOM + DAC VS1053b 24bit I2S audio processor, 3 Band eq. I would recommand [KaRadio32](https://github.com/karawin/Ka-Radio32) opensource library. I love how the [community](https://www.facebook.com/groups/162949914181385) religiously follow and experiment their projects. 
+Prototype v1: MCU ESP32 WROOM + DAC VS1053b 24bit I2S audio processor, 3 Band eq. I would recommand [KaRadio32](https://github.com/karawin/Ka-Radio32) opensource library. I love how the [community](https://www.facebook.com/groups/162949914181385) religiously follow and experiment with their projects. 
 
-Later migrated the project to ESP32 WROVER-B + PCM5102 32Bit I2S audio processor. Having 8 MB SPI PSRAM and AAC/OGG for adding more stream audio over the https. Now there is no buffering of the audio. 
+Prototype v2: Due to the buffering of streams. I have migrated the project to ESP32 WROVER-B + PCM5102 32Bit I2S audio processor. Having 8 MB SPI PSRAM and AAC/OGG I  added more audio streams over the https. 
 
-I am porting the project in LilyGo [TTGO TAudio](http://www.lilygo.cn/prod_view.aspx?TypeId=50063&Id=1171). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq.
+Prototype v3: I am porting the project in LilyGo [TTGO TAudio](http://www.lilygo.cn/prod_view.aspx?TypeId=50063&Id=1171). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq.
 
 As I kept learning I have created this web app. Video streams are added along with internet radio streams. I have created this project for fun and learning purpose.
