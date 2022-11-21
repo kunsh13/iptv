@@ -3,7 +3,7 @@
 
 I have started C++ project on WIFI Embded Internet radio on ESP32 WROOM and vs1053b 24bit I2S audio processor. I would recommand [KaRadio32](https://github.com/karawin/Ka-Radio32) opensource library. I learned that WebStations are listed in a seperate file. I love how community religiously follow and experiment their projects. 
 
-Later migrated the project to ESP32 WROVER for enhanced features and PCM5102 32Bit I2S audio processor. Having 8 MB SPI PSRAM and AAC/OGG for adding more stream audio over the https. Now there is no buffering of the audio.
+Later migrated the project to ESP32 WROVER and PCM5102 32Bit I2S audio processor. Having 8 MB SPI PSRAM and AAC/OGG for adding more stream audio over the https. Now there is no buffering of the audio.
 
 I am porting the project in TTGO TAudio.
 As I kept learning I have added stream for video as well and created this iptv and internet radio project.
