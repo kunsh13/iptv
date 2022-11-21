@@ -5,7 +5,7 @@ I have started C++ project on WIFI Embded Internet radio on MCU ESP32 WROOM and 
 
 Later migrated the project to ESP32 WROVER-B and PCM5102 32Bit I2S audio processor. Having 8 MB SPI PSRAM and AAC/OGG for adding more stream audio over the https. Now there is no buffering of the audio. 
 
-I am porting the project in [TTGO TAudio](http://www.lilygo.cn/prod_view.aspx?TypeId=50063&Id=1171). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq.
+I am porting the project in LilyGo [TTGO TAudio](http://www.lilygo.cn/prod_view.aspx?TypeId=50063&Id=1171). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq.
 
 As I kept learning I have added stream for video as well and created this iptv/internet radio project.
 
