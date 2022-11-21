@@ -34,8 +34,8 @@ I have developed a WIFI Internet radio prototype using Embedded C++ and KaRadio3
 
 Prototype v1: MCU ESP32 WROOM + 0.9 in OLED I2C Display + DAC VS1053b 24Bit I2S audio processor, 3 Band eq. Porting in Dev kit.
 
-Prototype v2: Due to the buffering of streams, I have migrated the project to ESP32 WROVER-B 8 MB SPI PSRAM + 1.4 in OLED I2C Display + PCM5102 32Bit I2S audio processor. I have added AAC and OGG audio streams over the https. Wrover-B is intended for commercial use and Dev kit is not available. I have to get the mcu and custom build my own board. No time for PCBway.
+Prototype v2: Due to the buffering of streams, I have migrated the project to ESP32 WROVER-B 8 MB SPI PSRAM + 1.4 in OLED I2C Display + PCM5102 32Bit I2S audio processor. I have added AAC and OGG audio streams over the https. Devkit is not available in my region. I have to get the mcu and custom build my own board. No time for PCBway.
 
-Prototype v3: I am porting the project in LilyGo [TTGO TAudio](https://github.com/LilyGO/TTGO-TAudio). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq. As compared to v2 this is a complete Dev Kit. 
+Prototype v3: I am porting the project in LilyGo [TTGO TAudio](https://github.com/LilyGO/TTGO-TAudio). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq. As compared to v2 this is a complete Devkit. 
 
 As I kept learning I have created this web app. Video streams are added along with internet radio streams. I have created this project for fun and learning purpose.
