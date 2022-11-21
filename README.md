@@ -36,4 +36,4 @@ Later migrated the project to ESP32 WROVER-B + PCM5102 32Bit I2S audio processor
 
 I am porting the project in LilyGo [TTGO TAudio](http://www.lilygo.cn/prod_view.aspx?TypeId=50063&Id=1171). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq.
 
-As I kept learning I have created this basic app. Video streams are added along with internet radio streams. I have created this project for fun and learning purpose.
+As I kept learning I have created this web app. Video streams are added along with internet radio streams. I have created this project for fun and learning purpose.
