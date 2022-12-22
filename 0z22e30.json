@@ -9,8 +9,6 @@
     
     ["ABP Hindi", "news", "img/abp.jpg", "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8"],
     
-    
-    
     ["Zee News", "news", "img/zeenews.jpg", "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8"],
     
     ["Zee Business", "news", "img/zeebusiness.jpg", "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8"],
@@ -39,7 +37,7 @@
    
     
     
-   ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8"],
+   ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_360p/chunks.m3u8"],
     
     
     ["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
@@ -147,9 +145,8 @@
     ["Love Nature UHD 4K", "lifestyle", "img/ln-logo_peacock_4k.png", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
     
     ["Love Nature HD 1080", "lifestyle", "img/love-nature-logo_peacock.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
-    
-    
-    
+
+
     
     ["Wild Earth", "lifestyle", "https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg", "https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&channelId=60d4edddb2fdec002c141135/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/768x432_1425600/index.m3u8"],
     
