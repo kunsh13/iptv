@@ -11,7 +11,7 @@
 - [Netlify Site](https://kunsh13.netlify.app/)
 - [Vercel Site](https://iptv13.vercel.app)
 
-```       Click image to open```
+```Click image to open```
 
 [<img align="left" alt="IPTV" width="500px" height="281px" src="img/banner.png" />][site]
 
