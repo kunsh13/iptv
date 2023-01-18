@@ -81,7 +81,7 @@
     
     ["News Live", "regional", "https://image3.mouthshut.com/images/imagesp/925599220s.jpg", "https://5b48d7e1b4bce.streamlock.net/myapp/newslive/chunklist_w149645135.m3u8"],
     
-    ["Northeast live", "regional", "img/northeastlive.jpg", "https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8"],
+    ["Northeast live", "regional", "img/northeastlive.jpg", "https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/chunklist_w693378298.m3u8"],
     
     
     ["News Daily 24", "regional", "img/dailynews24.jpg", "https://legitpro.co.in/hls28/nd24/index.m3u8"],
@@ -114,7 +114,7 @@
     
     ["Hungama Kadak Hits", "movies", "img/kadakhits.png", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
     
-    ["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://pull-3187.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/playlist.m3u8"],
+    ["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8"],
     
     ["Moviezpunjab - Hype UK", "movies", "img/moviezpunjab.jpg", "http://35.189.69.44/tmp_hls/desibox/index.m3u8"],
     
@@ -264,7 +264,7 @@
     ["Now This", "movies", "img/now-this.avif", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8"],
     
 
-
+    ["America BBC", "movies", "img/bbc.jpg", "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8"],
 
     
     ["Filmstreams", "movies", "img/DundeeTheater.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
@@ -423,7 +423,7 @@
     
     ["DW - Deutsche Welle News", "news", "img/dw1.jpg", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],
     
-    ["BBC America", "news", "img/bbc.jpg", "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8"],
+
 
     ["RT - Russia Today", "news", "img/rt1.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
     
@@ -558,7 +558,7 @@
     
 
     ["The Breeze", "music", "img/Breeze-TV.png", "https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8"],
-    
+   
     ["1hd - Russia", "music", "img/1hd-logo.jpg", "https://sc.id-tv.kz/1hd.m3u8"],
 
     ["TNT - Russia", "music", "img/tnt.webp", "http://83.222.205.65:8080/tntmusic/index.m3u8"],
