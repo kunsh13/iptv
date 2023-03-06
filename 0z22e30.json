@@ -63,8 +63,10 @@
     
     ["DD National", "news", "img/DD-national.webp", "https://livetv-channels.b-cdn.net/8006/chunklist0.m3u8"],
     
-    
-    
+   ["DD India", "news", "img/DD-India.jpeg", "https://yupptvliveten2.yuppcdn.net/280722/smil:ddindiahd.smil/chunklist_b1628000.m3u8"],
+      
+    ["DD Bharti", "news", "img/DDbharti.jpg", "https://z5ak-live.zee5.com/out/v1/03d04d1461114e9083d382ab0054ac2c/hdntl=exp=1676604499~acl=%2f*~data=hdntl~hmac=70ce74ce0b26d6e7a23ffcaeed3360c46cf4df2882db48b05988b356b0a5d4c6/index_6.m3u8"],
+         
     ["Sansad TV", "news", "img/sansad.jpg", "https://hls.media.nic.in/live/rstv-360p/index.m3u8"],
     
     
@@ -145,9 +147,7 @@
     
     ["Love Nature UHD 4K", "lifestyle", "img/ln-logo_peacock_4k.png", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
     
-    ["Love Nature HD 1080", "lifestyle", "img/love-nature-logo_peacock.png", "http://bamus-eng-roku.amagi.tv/playlist.m3u8"],
-
-
+ 
     
     ["Wild Earth", "lifestyle", "https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg", "https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&channelId=60d4edddb2fdec002c141135/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/768x432_1425600/index.m3u8"],
     
@@ -190,7 +190,8 @@
     
   ["Real Stories", "lifestyle", "img/realstories.jpg", "https://lds-realstories-samsungau.amagi.tv/playlist720-p.m3u8"],
     
-    
+  
+  
     ["Smithsonian - US", "lifestyle", "https://wwwimage-us.pplusstatic.com/base/files/seo/og-brand-smithsonian_5.jpg", "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"],
     
     ["Timeline - History", "lifestyle", "https://dynamiteevents.co.uk/wp-content/uploads/2020/03/DYNAMITE_TIMELINE-TV-CHRISTMAS-PARTY_Carousel.jpg", "https://lds-timeline-plex.amagi.tv/playlist.m3u8"],
@@ -563,6 +564,9 @@
     ["1hd - Russia", "music", "img/1hd-logo.jpg", "https://sc.id-tv.kz/1hd.m3u8"],
 
     ["TNT - Russia", "music", "img/tnt.webp", "http://83.222.205.65:8080/tntmusic/index.m3u8"],
+    
+    ["TNT - Russia", "music", "img/tnt.webp", "https://salam-2.rutube.ru/dive/river-1-401.rutube.ru/y-b5pT1rvOi1ZEKGb9w3kg/stream/musang-604.cvt.rutube.ru/8RUe1S2HrM2ELaZ16mjcig/1676542734/5a294ae1ed12c44c7053301fb5fa9ba0/1080p_stream.m3u8"],
+    
 
     ["Zerouno - Italy", "music", "img/Zerouno.jpg", "http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8"],
 
