@@ -20,6 +20,9 @@
     
     
     ["Good News Today", "news", "img/gnt.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"],
+
+    ["NewsX", "news", "img/newsx.jpg", "https://livetv.newsx.com/itv/itvnetwork4/chunklist_w930140473.m3u8?hdnts=st%3D1685349202%7Eexp%3D1685370802%7Eacl%3D%21*%2Fitv%2Fitvnetwork4%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%7Ehmac%3D1cbb68d28664c3c6d50230de39d32d6f49ec070637db7247d410d423ba1fb15d"],   
+
     
     ["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
     
@@ -27,25 +30,29 @@
     
     ["Khabrain Abhi Tak", "news", "img/khabrenabhitak.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"],
     
-    ["News 18 India", "news", "img/news18india.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8"],
+
+
+    ["News 18 India", "news", "img/news18india.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8"],
+
+    ["Newsnation", "news", "img/newsnation.jpg", "https://livetv-channels.b-cdn.net/8006/chunklist0.m3u8"],   
     
     ["News 24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
     
 
-    ["Newsnation", "news", "img/newsnation.jpg", "https://livetv-channels.b-cdn.net/8006/chunklist0.m3u8"],   
-
     ["Times Now", "news", "img/timesnow.jpg", "https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/chunklist_2.m3u8"],   
-
-    ["NewsX", "news", "img/newsx.jpg", "https://livetv.newsx.com/itv/itvnetwork4/chunklist_w930140473.m3u8?hdnts=st%3D1685349202%7Eexp%3D1685370802%7Eacl%3D%21*%2Fitv%2Fitvnetwork4%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%7Ehmac%3D1cbb68d28664c3c6d50230de39d32d6f49ec070637db7247d410d423ba1fb15d"],   
 
 
     ["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
-    
-   ["Ind 24", "news", "img/Ind24.png", "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8"],
-    
-   ["India News", "news", "img/indianews.webp", "https://livetv.newsx.com/itv/itvnetwork5/chunklist_w932303204.m3u8?hdnts=st%3D1685349133%7Eexp%3D1685370733%7Eacl%3D%21*%2Fitv%2Fitvnetwork5%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%7Ehmac%3D0250c96f694e265194b5450f3c032d000a3f33182e480cd00b6608b49d612bf8"],
+
+ 
+
+
+  ["India News", "news", "img/indianews.webp", "https://livetv.newsx.com/itv/itvnetwork5/chunklist_w932303204.m3u8?hdnts=st%3D1685349133%7Eexp%3D1685370733%7Eacl%3D%21*%2Fitv%2Fitvnetwork5%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%7Ehmac%3D0250c96f694e265194b5450f3c032d000a3f33182e480cd00b6608b49d612bf8"],
        
-    ["Republic World", "news", "img/republiclive.png", "https://ottr12.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8"],
+    
+   ["India 24", "news", "img/Ind24.png", "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8"],
+    
+   ["Republic World", "news", "img/republiclive.png", "https://ottr12.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8"],
     
     ["Republic Hindi", "news", "img/republicbharat.jpg", "https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8"],
     
@@ -66,11 +73,6 @@
     ["NDTV India", "news", "img/ndtvindia.jpg", "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"],
     
     ["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
-    
-
-    ["DD News", "news", "img/DDnews.png", "https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8"],
-    
-    ["DD Sports", "news", "img/DD-Sports.webp", "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"],
   
     ["DD National", "news", "img/DD-national.webp", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=877600.m3u8"],
        
@@ -282,19 +284,24 @@
     ["Electric Now", "movies", "img/electric-now2.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8"],
     
 
-    ["AMC", "movies", "img/amc1.webp", "https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8"],
     
-    ["AMC Presents", "movies", "img/amc2.jpg", "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
+    ["AMC", "movies", "img/amc1.webp", "https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8"],
     
-    ["AMC Thriller - Rush ", "movies", "img/amc3.webp", "https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8"],
+    ["AMC Absolute Reality", "movies", "img/amc2.jpg", "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8"],
+    
+    ["AMC TV Stories", "movies", "img/amc3.webp", "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId="],
     
     ["AMC+", "movies", "img/amc4.jpg", "https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8"],
     
     
+
+
+
+
     ["Now This", "movies", "img/now-this.avif", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8"],
     
 
-    ["America BBC", "movies", "img/bbc.jpg", "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8"],
+    ["BBC America", "movies", "img/bbc.jpg", "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8"],
 
     
     ["Filmstreams", "movies", "img/DundeeTheater.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
@@ -588,8 +595,6 @@
    
     ["1hd - Russia", "music", "img/1hd-logo.jpg", "https://sc.id-tv.kz/1hd.m3u8"],
 
-    ["TNT - Russia", "music", "img/tnt.webp", "http://83.222.205.65:8080/tntmusic/index.m3u8"],
-    
     ["TNT - Russia", "music", "img/tnt.webp", "https://salam-2.rutube.ru/dive/river-1-401.rutube.ru/y-b5pT1rvOi1ZEKGb9w3kg/stream/musang-604.cvt.rutube.ru/8RUe1S2HrM2ELaZ16mjcig/1676542734/5a294ae1ed12c44c7053301fb5fa9ba0/1080p_stream.m3u8"],
     
 
