@@ -16,14 +16,14 @@
     
     ["Zee Business", "news", "img/zeebusiness.jpg", "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8"],
     
-    ["Zee Uttar Pradesh Uttarakhand", "news", "img/zeeuttrakhand.jpg", "https://ythls.onrender.com/channel/UCWmwc3u2ikBG2Xfitc_26gg.m3u8"],
-    
+    ["Zee Uttar Pradesh Uttarakhand", "news", "img/zeeuttrakhand.jpg", "https://duw35ict5q7th.cloudfront.net/index_3.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg0NDEyMzd9.QsKLoUEWdwCsx1I0Plv54700XOLxdfsOe9v2F8ZSY-g"],
+   
     
     ["Good News Today", "news", "img/gnt.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"],
 
     ["NewsX", "news", "img/newsx.jpg", "https://livetv.newsx.com/itv/itvnetwork4/chunklist_w930140473.m3u8?hdnts=st%3D1685349202%7Eexp%3D1685370802%7Eacl%3D%21*%2Fitv%2Fitvnetwork4%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%7Ehmac%3D1cbb68d28664c3c6d50230de39d32d6f49ec070637db7247d410d423ba1fb15d"],   
 
-    
+
     ["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
     
 
@@ -39,7 +39,7 @@
     ["News 24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
     
 
-    ["Times Now", "news", "img/timesnow.jpg", "https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/chunklist_2.m3u8"],   
+    ["Times Now", "news", "img/timesnow_navbharat.jpg", "https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/chunklist_2.m3u8"],   
 
 
     ["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
@@ -50,13 +50,13 @@
   ["India News", "news", "img/indianews.webp", "https://livetv.newsx.com/itv/itvnetwork5/chunklist_w932303204.m3u8?hdnts=st%3D1685349133%7Eexp%3D1685370733%7Eacl%3D%21*%2Fitv%2Fitvnetwork5%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%7Ehmac%3D0250c96f694e265194b5450f3c032d000a3f33182e480cd00b6608b49d612bf8"],
        
     
-   ["India 24", "news", "img/Ind24.png", "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8"],
+   ["India 24", "news", "img/Ind24.png", "https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8"],
     
    ["Republic World", "news", "img/republiclive.png", "https://ottr12.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8"],
     
     ["Republic Hindi", "news", "img/republicbharat.jpg", "https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8"],
     
-   ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_360p/chunks.m3u8"],
+   ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_480p/chunks.m3u8"],
     
     
     ["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
@@ -262,12 +262,10 @@
 
 
 
-    
+
     ["Charge!", "movies", "img/Charge.jpg", "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"], 
     
-    
     ["AMG TV", "movies", "img/amg-tv.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
-    
 
     
     ["Ion Plus", "movies", "img/ionplus.jpg", "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8"],	
