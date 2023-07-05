@@ -12,9 +12,11 @@
         
     ["ABP Ganga", "movies", "img/abp_ganga.webp", "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"],
 
-    ["Zee News", "news", "img/zeenews.jpg", "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8"],
+    ["Zee News", "news", "img/zeenews.jpg", "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"],
+
     
-    ["Zee Business", "news", "img/zeebusiness.jpg", "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8"],
+    
+    ["Zee Hindustan", "news", "img/zeehindustan.jpg", "https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8"],
     
     ["Zee Uttar Pradesh Uttarakhand", "news", "img/zeeuttrakhand.jpg", "https://duw35ict5q7th.cloudfront.net/index_3.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg0NDEyMzd9.QsKLoUEWdwCsx1I0Plv54700XOLxdfsOe9v2F8ZSY-g"],
    
