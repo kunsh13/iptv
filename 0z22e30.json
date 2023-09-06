@@ -26,15 +26,21 @@
     ["NewsX", "news", "img/newsx.jpg", "https://livetv.newsx.com/itv/itvnetwork4/chunklist_w930140473.m3u8?hdnts=st%3D1685349202%7Eexp%3D1685370802%7Eacl%3D%21*%2Fitv%2Fitvnetwork4%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%7Ehmac%3D1cbb68d28664c3c6d50230de39d32d6f49ec070637db7247d410d423ba1fb15d"],   
 
 
+ 
+    ["WION Live", "news", "img/wion.jpg", "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8"],
+    
+    
     ["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
     
 
+
+    
     
     ["Khabrain Abhi Tak", "news", "img/khabrenabhitak.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"],
     
 
 
-    ["News 18 India", "news", "img/news18india.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8"],
+    ["News 18 India", "news", "img/news18india.jpg", "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=699600.m3u8"],
 
     ["Newsnation", "news", "img/newsnation.jpg", "https://livetv-channels.b-cdn.net/8006/chunklist0.m3u8"],   
     
@@ -45,6 +51,8 @@
 
 
     ["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
+
+     ["India TV", "news", "img/indiatv2.jpg", "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8"],
 
  
 
@@ -85,7 +93,10 @@
     ["Sansad TV", "news", "img/sansad.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd/default/sansadtvsd-audio_208482_und=208000-video=877600.m3u8"],
     
     
+         
+    ["Lok Sabha Sansad TV", "news", "img/sansad.jpg", "https://hls.media.nic.in/live/rstv-360p/index.m3u8"],
     
+        
     
     
     ["News 18 Lokmat", "news", "img/news18lokmat.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
@@ -132,7 +143,7 @@
     
     ["Hungama Kadak Hits", "movies", "img/kadakhits.png", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
     
-    ["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8"],
+    ["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://mhdtv.co.in/jio/app/live/1295/B4U_Kadak/e9c8b8f107b6cb6edad4c3b6cda58d146008533263dd0c52c10ee4fb9df553c289b5108ceb5788baa0c3e07a3ff2b250e16b62fe68e6db5a47f4eab35462d7dd45d27104eb4599207f451f67f7c7d005c8f1b8a4a7a74cea713d6ebd0a8a7f402f647232f5582aab9cd6691fce1d09e2345b62618834e3174baa51f8cb460aa50ef8642d502601bdcabe87fc366e70296a866c5b80a0e3c573990b5c1f9bc133_playlist.m3u8"],
     
     ["Moviezpunjab - Hype UK", "movies", "img/moviezpunjab.jpg", "http://35.189.69.44/tmp_hls/desibox/index.m3u8"],
 
@@ -152,15 +163,9 @@
             
     ["Anjan - Hindi", "movies", "img/anjan.jpg", "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"],
     
-    
-    ["AB Mastiii", "movies", "img/Mastiii_2016.webp", "https://pull-3188.5centscdn.com/vizjsj1apjkea3/smil:Mastiii.smil/chunklist_w134870481_b1044100_sleng.m3u8"],
-    
-    
-    ["AB Dhamaal", "movies", "img/Dhamaal_Gujarat_Sabgroup.webp", "https://live.hungama.com/linear/dhamaal/playlist.m3u8"],
+    ["Boogle Bollywood", "movies", "img/boogle.jpg", "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"],
+       
 
-
-
-    ["Dreamz HD", "movies", "img/dreamz.png", "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR"],
 
 
     ["Keralabhumi", "music", "img/keralabhumi.jpg", "http://103.153.92.157:11037/hls/kbh.m3u8"],
@@ -173,6 +178,9 @@
     ["Clarity UHD 4K", "lifestyle", "img/clarity.png", "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"],
     
     ["Love Nature UHD 4K", "lifestyle", "img/ln-logo_peacock_4k.png", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
+    
+     
+    ["Love Nature", "lifestyle", "img/ln-logo_peacock_4k.png", "https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist288p.m3u8"],
     
  
     
@@ -195,7 +203,9 @@
     
     ["Travel XP", "lifestyle", "img/TravelxpHD.jpg", "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"],
     
-    ["Wonder", "lifestyle", "img/wonder.webp", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
+  ["Wonder", "lifestyle", "img/wonder.webp", "https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8"],
+      
+          ["Wonder", "lifestyle", "img/wonder.webp", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
     
     
     
@@ -558,13 +568,15 @@
     
     
     
-    
-    
-    
-    
-    
-    
 
+    
+    
+    ["Stingray Rock Alternative Live", "music", "img/stingray_rock_alternative_live.webp", "https://stream.ads.ottera.tv/cl/230906cjs17agji6sg5fhohlug/768x432_690800_0_f.m3u8?i=475_3026"],   
+
+    ["Stingray Classic Rock Live", "music", "img/stingray_classic_rock_live.jpg", "https://stream-us-east-1.getpublica.com/cl/230906cjs15i8ji6sg5fhohas0/768x432_646734_0_f.m3u8?i=513_1942"], 
+    
+    
+    ["Stingray Euro Hits Live", "music", "img/stingray_euro_hits_live.webp", "https://stream.ads.ottera.tv/cl/230906cjs139ov7e9de4ct396g/768x432_690800_0_f.m3u8?i=475_3019"],
 
     
     ["Stingray Rock Alternative", "music", "img/stingray80.jfif", "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8"],
