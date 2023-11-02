@@ -3,7 +3,9 @@
 
     ["Welcome", "welcome", "img/welcome1.jpg", "img/1-airport-uk.mp3"],
     
+
     ["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
+
     
     ["Aaj Tak HD", "news", "img/aajtakhd.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],
     
@@ -42,7 +44,8 @@
 
     ["News 18 India", "news", "img/news18india.jpg", "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=699600.m3u8"],
 
-    ["Newsnation", "news", "img/newsnation.jpg", "https://livetv-channels.b-cdn.net/8006/chunklist0.m3u8"],   
+    ["Newsnation", "news", "img/newsnation.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=2137600.m3u8"],   
+    
     
     ["News 24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
     
@@ -84,21 +87,23 @@
     
     ["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
   
-    ["DD National", "news", "img/DD-national.webp", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=877600.m3u8"],
-       
-   ["DD India", "news", "img/DD-India.jpeg", "https://yuppirecloriginvt.akamaized.net/280722/smil:ddindiahd.smil/chunklist_b1628000.m3u8?hdntl=exp=1685437189~acl=!*/280722/smil:ddindiahd.smil/*!/payload/yuppTVCom_5_-1_276e3c017a854597_IN_122.161.52.176/*~data=hdntl~hmac=59a3b6713e407d1a62b64f13db9030039735ce9f2a7336857a65ffefe4ddd890"],
+  
+    ["DD National", "news", "img/DD-national.webp", "https://dh0gbq06d73n9.cloudfront.net/bpk-tv/Ddnationalbk/default/ddnationalbk-audio_208482_und=208000-video=2137600.m3u8?hdnts=st=1698896930~exp=1698918530~acl=!*/bpk-tv/Ddnationalbk/default/*!/payload/yupptvott_5_-1_93c1895f-e2de-f666-ba76-592d8fcd62f0_IN_122.161.53.157_dishtv_1_channel_16_-1/*~data=yupptvott_5_-1_93c1895f-e2de-f666-ba76-592d8fcd62f0_IN_122.161.53.157_dishtv_1_channel_16_-1~hmac=a87f13bec9c7f4e20355759280173666d998e015e486c52dd29483639fe710fb"],  
+    
+    
+
+    
+
+   ["DD India", "news", "img/DD-India.jpeg", "https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8"],
       
-    ["DD Bharti", "news", "img/DDbharti.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/ddbharti-audio_208482_und=208000-video=877600.m3u8"],
+    ["DD Bharti", "news", "img/DDbharti.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/ddbharti-audio_208482_und=208000-video=2137600.m3u8"],
          
-    ["Sansad TV", "news", "img/sansad.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd/default/sansadtvsd-audio_208482_und=208000-video=877600.m3u8"],
+
+    ["Sansad TV", "news", "img/sansad.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/sansadtvhd-audio_208482_und=208000-video=2137600.m3u8"],
     
-    
-         
-    ["Lok Sabha Sansad TV", "news", "img/sansad.jpg", "https://hls.media.nic.in/live/rstv-360p/index.m3u8"],
-    
-        
-    
-    
+
+
+
     ["News 18 Lokmat", "news", "img/news18lokmat.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657888922~exp=1657975322~acl=/*~hmac=00f24a4a2a46c71b8fd157088ae5eef9f4a3fe2919549b53bb777e17678bfa2a"],
     
     
@@ -142,10 +147,17 @@
     
     
     ["Hungama Kadak Hits", "movies", "img/kadakhits.png", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
+
+
+
+    
     
     ["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://mhdtv.co.in/jio/app/live/1295/B4U_Kadak/e9c8b8f107b6cb6edad4c3b6cda58d146008533263dd0c52c10ee4fb9df553c289b5108ceb5788baa0c3e07a3ff2b250e16b62fe68e6db5a47f4eab35462d7dd45d27104eb4599207f451f67f7c7d005c8f1b8a4a7a74cea713d6ebd0a8a7f402f647232f5582aab9cd6691fce1d09e2345b62618834e3174baa51f8cb460aa50ef8642d502601bdcabe87fc366e70296a866c5b80a0e3c573990b5c1f9bc133_playlist.m3u8"],
     
     ["Moviezpunjab - Hype UK", "movies", "img/moviezpunjab.jpg", "http://35.189.69.44/tmp_hls/desibox/index.m3u8"],
+
+    
+    ["Pitaara - Punjabi", "movies", "img/Pitaara3.jpg", "https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/b009bab9-7572-4e98-9d2e-e44c05ced731/2.m3u8?sessionId=7075276d-0df1-4652-95d0-5aeff80d0841"],
 
 
 
@@ -797,7 +809,7 @@
     
     ["High Voltage - 1 FM", "internetradio", "img/fm_1.fm-thechilloutlounge.png", "https://strm112.1.fm/highvoltage_mobile_mp3"],
     
-    ["Movie Sounttrack - 1 FM", "internetradio", "img/fm_OneClub.jpg", "https://strm112.1.fm/moviesoundtracks_mobile_mp3"],
+    ["Movie    - 1 FM", "internetradio", "img/fm_OneClub.jpg", "https://strm112.1.fm/moviesoundtracks_mobile_mp3"],
     
     ["Fusion Life Radio", "internetradio", "img/fm_fusion.jpeg", "https://c28.radioboss.fm:18046/stream"],
     
