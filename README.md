@@ -39,3 +39,5 @@ Prototype v2: Due to the buffering of streams, I have migrated the project to ES
 Prototype v3: I am porting the project in LilyGo [TTGO TAudio](https://github.com/LilyGO/TTGO-TAudio). MCU ESP32 WROVER-B + DAC WM8978 I2S 24Bit 5 band eq. As compared to v2 this is a complete Devkit. 
 
 As I kept learning I have created this web app. Video streams are added along with internet radio streams. I have created this project for fun and learning purpose.
+
+<br>
