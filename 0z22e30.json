@@ -105,66 +105,32 @@
     
     
     
-    ["Tribe TV", "regional", "img/tribeTV.png", "https://livelegitpro.in/hls5/tribetv/index.m3u8"],
+    ["Tribe TV", "regional", "img/tribeTV.png", "https://server.livelegitpro.in:9899/tribetv/tribetv/tracks-v1a1/mono.m3u8"],
     
-    ["Hornbill TV", "regional", "img/hornbill.jpg", "http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist_w1492888499.m3u8"],
+    ["Hornbill TV", "regional", "img/hornbill.jpg", "https://cdn.smartstream.video/smartstream-us/hornbill/hornbill/chunks.m3u8?nimblesessionid=3933582"],
     
     
-    ["News Live", "regional", "img/newslive.jpg", "https://5b48d7e1b4bce.streamlock.net/myapp/newslive/chunklist_w149645135.m3u8"],
+    ["News Live", "regional", "img/newslive.jpg", "https://cdn.pride-east.com/smartstream-us/newslivembr/newslivembr.smil/chunks.m3u8?nimblesessionid=3933654"],
     
-    ["Northeast live", "regional", "img/northeastlive.jpg", "https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/chunklist_w693378298.m3u8"],
+    ["Northeast live", "regional", "img/northeastlive.jpg", "https://cdn.pride-east.com/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunks.m3u8?nimblesessionid=3933687"],
     
     
     ["News Daily 24", "regional", "img/dailynews24.jpg", "https://legitpro.co.in/hls28/nd24/index.m3u8"],
     
-    ["Pratidin Time", "regional", "img/PratidinTime.jpg", "https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist_w1668404264.m3u8"],
+    ["Pratidin Time", "regional", "img/PratidinTime.jpg", "https://cdn.smartstream.video/smartstream-us/pratidintime/pratidintime/chunks.m3u8?nimblesessionid=3933760"],
     
     ["Kantipur Nepal", "regional", "img/kantipur.png", "https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8"],
     
-    
-   
     ["Fastway - Canada", "regional", "img/fastway.png", "http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8"],
-
-
-    ["Shemaroo - Bhakti", "music", "img/shemaroobhakti.png", "https://bhaktiapp.shemaroo.com/pratishirdi/smil:pratishirdisel.smil/chunklist_b1128000_sleng.m3u8"],   
-
-
-    ["Hungama - I Love", "music", "img/ilove.png", "https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8"],
-    
-   
-    
-    ["Hungama - Artist Aloud", "music", "img/artist_aloud.png", "https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8"],
-    
-    ["Hungama - Dil Se", "music", "img/dilse.png", "https://live.hungama.com/linear/dil-se/playlist.m3u8"],
-    
     
     ["Subrang", "movies", "img/subrang.jpg", "https://cdn61.liveonlineservices.com/hls/subrang.m3u8"],
-
-
-    
-    
-    ["Hungama Kadak Hits", "movies", "img/kadakhits.png", "https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],
-
-
-
-    
-    
-    ["B4U Kadak - Hindi", "movies", "img/b4ukadak.png", "https://mhdtv.co.in/jio/app/live/1295/B4U_Kadak/e9c8b8f107b6cb6edad4c3b6cda58d146008533263dd0c52c10ee4fb9df553c289b5108ceb5788baa0c3e07a3ff2b250e16b62fe68e6db5a47f4eab35462d7dd45d27104eb4599207f451f67f7c7d005c8f1b8a4a7a74cea713d6ebd0a8a7f402f647232f5582aab9cd6691fce1d09e2345b62618834e3174baa51f8cb460aa50ef8642d502601bdcabe87fc366e70296a866c5b80a0e3c573990b5c1f9bc133_playlist.m3u8"],
-    
-    ["Moviezpunjab - Hype UK", "movies", "img/moviezpunjab.jpg", "http://35.189.69.44/tmp_hls/desibox/index.m3u8"],
-
-    
-    ["Pitaara - Punjabi", "movies", "img/Pitaara3.jpg", "https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/b009bab9-7572-4e98-9d2e-e44c05ced731/2.m3u8?sessionId=7075276d-0df1-4652-95d0-5aeff80d0841"],
-
 
 
    ["Colors Cineplus", "movies", "img/colors_cineplex.avif", "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8"],
 
 
    ["Colors Cineplus Bollywood", "movies", "img/colors_cineplus_bollywood.jpg", "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8"],
-
-
-
+  
     ["Colors HD", "movies", "img/colors_hd.jpg", "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8"],
     
     ["Colors Rishtey", "movies", "img/colors_rishtey.png", "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8"],
@@ -270,17 +236,7 @@
 
     
     ["Ion", "movies", "img/ionplus.jpg", "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist_4300k.m3u8"],	
-    
-    ["Ion Plus", "movies", "img/ionplus.jpg", "https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8"],	
-    
-
-
-
-
-    
-        
-    ["A&E - Cable Hits", "lifestyle", "img/AE-Anywhere.jpg", "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"],
-    
+   
     
     ["Electric Now", "movies", "img/electric-now2.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/1280x720_1861200/chunklist.m3u8"],
     
