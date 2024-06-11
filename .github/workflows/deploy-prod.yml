@@ -17,6 +17,7 @@ jobs:
       # - run: npm run build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
-          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
+          # firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
+          firebaseServiceAccount: "${{ FIREBASE_SERVICE_ACCOUNT_IPTV_KUN }}
           projectId: iptv-kun
           channelId: live
