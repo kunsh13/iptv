@@ -2,17 +2,14 @@
     ["name", "category", "image", "url"],
 
     ["Welcome", "welcome", "img/welcome1.jpg", "img/1-airport-uk.mp3"],
-
     
 
-
-    
     ["Aaj Tak", "news", "img/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
 
     
     ["Aaj Tak HD", "news", "img/aajtakhd.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],
     
-    ["ABP Hindi", "news", "img/abp.jpg", "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8"],
+    ["ABP Hindi", "news", "img/abp.jpg", "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8"],
 
         
     ["ABP Ganga", "movies", "img/abp_ganga.webp", "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"],
@@ -42,7 +39,7 @@
         
 
 
-    ["News 18 India", "news", "img/news18india.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2702400.m3u8"],
+    ["News 18 India", "news", "img/news18india.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8"],
 
     ["Newsnation", "news", "img/newsnation.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=2137600.m3u8"],   
     
@@ -50,14 +47,15 @@
     ["News 24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
     
 
-    ["Times Now", "news", "img/timesnow_navbharat.jpg", "https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/chunklist_2.m3u8"],   
+    ["Times Now", "news", "img/timesnow_navbharat.jpg", "https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/c137b220-0872-4db0-bc81-5a9d4064aef8:TPE/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8"],   
 
 
     ["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
 
      ["India TV", "news", "img/indiatv2.jpg", "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8"],
 
- 
+     
+     ["India Daily", "news", "img/IndiaDaily.jpg", "https://thejbtcdn.vidgyor.com/thejbt-origin/liveabr/thejbt-origin/live_720p/chunks.m3u8"],
 
 
   ["India News", "news", "img/indianews.webp", "https://livetv.newsx.com/itv/itvnetwork5/chunklist_w932303204.m3u8?hdnts=st%3D1685349133%7Eexp%3D1685370733%7Eacl%3D%21*%2Fitv%2Fitvnetwork5%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%7Ehmac%3D0250c96f694e265194b5450f3c032d000a3f33182e480cd00b6608b49d612bf8"],
@@ -65,9 +63,9 @@
     
    ["India 24", "news", "img/Ind24.png", "https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8"],
     
-   ["Republic World", "news", "img/republiclive.png", "https://ottr12.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8"],
+   ["Republic World", "news", "img/republiclive.png", "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/a9d2164b-0de6-483a-ba4e-2571dc7b40d6/1.m3u8"],
     
-    ["Republic Hindi", "news", "img/republicbharat.jpg", "https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8"],
+    ["Republic Hindi", "news", "img/republicbharat.jpg", "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/d0aa053b-3f36-4937-b18b-baf5bfcd060a/1.m3u8"],
     
    ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_480p/chunks.m3u8"],
     
@@ -78,7 +76,7 @@
 
 
     
-    ["Sudarshan News", "news", "img/sudarshan.jfif", "https://stream.imagetv.in/hls6/sudarshantv/index.m3u8"],
+    ["Sudarshan News", "news", "img/sudarshan.jfif", "https://livegeoroueu.akamaized.net/290723/smil:sudarshantv1.smil/chunklist_b1928000.m3u8?hdntl=exp=1719545643~acl=!*/290723/smil:sudarshantv1.smil/*!yuppTVCom_5_-1_b35661f8f9d34e97_IN_122.161.49.11/payload/yuppTVCom_5_-1_b35661f8f9d34e97_IN_122.161.49.11/*~data=hdntl~hmac=2a762815452cab928ce538d5aa873b0c8766854ebdef4b212ba32dfb2321dd18"],
     
     
     ["First India News", "news", "img/First-india-news-rajasthan_1-in.webp", "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8"],
@@ -87,14 +85,12 @@
     
     ["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
   
-  
+      ["DD Sports", "news", "img/DD-Sports.webp", "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"],  
+    
     ["DD National", "news", "img/DD-national.webp", "https://dh0gbq06d73n9.cloudfront.net/bpk-tv/Ddnationalbk/default/ddnationalbk-audio_208482_und=208000-video=2137600.m3u8?hdnts=st=1698896930~exp=1698918530~acl=!*/bpk-tv/Ddnationalbk/default/*!/payload/yupptvott_5_-1_93c1895f-e2de-f666-ba76-592d8fcd62f0_IN_122.161.53.157_dishtv_1_channel_16_-1/*~data=yupptvott_5_-1_93c1895f-e2de-f666-ba76-592d8fcd62f0_IN_122.161.53.157_dishtv_1_channel_16_-1~hmac=a87f13bec9c7f4e20355759280173666d998e015e486c52dd29483639fe710fb"],  
     
     
 
-    
-
-   ["DD India", "news", "img/DD-India.jpeg", "https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8"],
       
     ["DD Bharti", "news", "img/DDbharti.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/ddbharti-audio_208482_und=208000-video=2137600.m3u8"],
          
@@ -110,39 +106,27 @@
     
     ["Tribe TV", "regional", "img/tribeTV.png", "https://server.livelegitpro.in:9899/tribetv/tribetv/tracks-v1a1/mono.m3u8"],
     
-    ["Hornbill TV", "regional", "img/hornbill.jpg", "https://cdn.smartstream.video/smartstream-us/hornbill/hornbill/chunks.m3u8?nimblesessionid=3933582"],
+    ["Hornbill TV", "regional", "img/hornbill.jpg", "https://cdn.smartstream.video/smartstream-us/hornbill/hornbill/chunks.m3u8?nimblesessionid=2127707"],
     
     
-    ["News Live", "regional", "img/newslive.jpg", "https://cdn.pride-east.com/smartstream-us/newslivembr/newslivembr.smil/chunks.m3u8?nimblesessionid=3933654"],
+    ["News Live", "regional", "img/newslive.jpg", "https://cdn.pride-east.com/smartstream-us/newslivembr/newslivembr.smil/chunks.m3u8?nimblesessionid=2127868"],
     
-    ["Northeast live", "regional", "img/northeastlive.jpg", "https://cdn.pride-east.com/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunks.m3u8?nimblesessionid=3933687"],
+    ["Northeast live", "regional", "img/northeastlive.jpg", "https://cdn.pride-east.com/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunks.m3u8?nimblesessionid=2127943"],
     
+
     
-    ["News Daily 24", "regional", "img/dailynews24.jpg", "https://legitpro.co.in/hls28/nd24/index.m3u8"],
-    
-    ["Pratidin Time", "regional", "img/PratidinTime.jpg", "https://cdn.smartstream.video/smartstream-us/pratidintime/pratidintime/chunks.m3u8?nimblesessionid=3933760"],
+    ["Pratidin Time", "regional", "img/PratidinTime.jpg", "https://server.thelegitpro.in/pratidintime/pratidintime/tracks-v1/index.fmp4.m3u8"],
     
     ["Kantipur Nepal", "regional", "img/kantipur.png", "https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8"],
-    
-    ["Fastway - Canada", "regional", "img/fastway.png", "http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8"],
+
     
     ["Subrang", "movies", "img/subrang.jpg", "https://cdn61.liveonlineservices.com/hls/subrang.m3u8"],
 
 
-   ["Colors Cineplus", "movies", "img/colors_cineplex.avif", "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8"],
-
-
-   ["Colors Cineplus Bollywood", "movies", "img/colors_cineplus_bollywood.jpg", "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8"],
-  
-    ["Colors HD", "movies", "img/colors_hd.jpg", "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8"],
-    
-    ["Colors Rishtey", "movies", "img/colors_rishtey.png", "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8"],
     
             
-    ["Anjan - Hindi", "movies", "img/anjan.jpg", "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"],
-    
-    ["Boogle Bollywood", "movies", "img/boogle.jpg", "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"],
-       
+    ["Anjan - Hindi", "movies", "img/anjan.jpg", "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/chunklist_b4000000.m3u8"],
+
     ["Safari - Malayalam", "lifestyle", "img/safari.jpg", "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"],
     
     
@@ -294,11 +278,15 @@
     
     
     ["Local now Music", "music", "img/localnowmusic.png", "https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8"],
-    ["Local Now Zen", "movies", "img/local0.png", "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8"],    
-    ["Local Now Rush", "movies", "img/LocalNow_Adrenaline_Rush.png", "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1024x576_m.m3u8"],
+    ["Local Now Zen", "movies", "img/local0.png", "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8"],
+
+    ["Local Now Rush", "movies", "img/LocalNow_Adrenaline_Rush.png", "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720.m3u8"],
+
     ["Local Now Discover", "movies", "img/local1.png", "https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1024x576.m3u8"],
+
     ["Local Now Drama", "movies", "img/local7.png", "https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8"],
     ["Local Now Romantique", "movies", "img/local3.png", "https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist_1280x720.m3u8"],
+
     ["Local Now Fear This", "movies", "img/local4.jpg", "https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist_1280x720.m3u8"],
     ["Local Now Family Flix", "movies", "img/local5.png", "https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x720.m3u8"],
     ["Local Now That’s Funny", "movies", "img/local6.png", "https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist_1024x576.m3u8"],
@@ -623,6 +611,8 @@
     
     ["VDesi", "internetradio", "img/fm_vdesi1.jpg", "https://stream.radio.co/s42e977b6c/listen"],
     
+        
+    ["Totv.org", "internetradio", "img/radio-nasha.jpg", "https://www.youtube.com/watch?v=eQjARi_-W0E   "],
     
     
     ["The End", "welcome notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"]
