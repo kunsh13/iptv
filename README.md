@@ -29,6 +29,12 @@
 <br>
 <br>
 <br>
+
+<br><br>
+<br>
+<br>
+<br>
+<br>
 Journey so far:<br>
 I have developed a WIFI Internet radio prototype using Embedded C++ and KaRadio32 opensource library. KaRadio ([Github](https://github.com/karawin/Ka-Radio32) /  [FB](https://www.facebook.com/groups/162949914181385) / [Hackstor.io](https://hackaday.io/project/11570-wifi-webradio-on-esp8266-or-esp32)). 
 
