@@ -19,7 +19,7 @@
 [site]: https://kunsh13.github.io/iptv/
 
 
-[<img align="right" alt="qr code" width="281px" height="281px" src="img/qr_c.png" />][site]
+[<img align="middle" alt="qr code" width="281px" height="281px" src="img/qr_c.png" />][site]
 <br>
 <br>
 <br>
