@@ -5,7 +5,7 @@
 
 - [Submit your feedback](https://github.com/kunsh13/iptv/discussions)
 
-- [Firebase Site ](https://kunsh13-iptv.firebaseapp.com/)       [not up to date]
+- [Firebase Site ](https://kunsh13-iptv.firebaseapp.com/)       ```[not up to date]```
 
 - [Github Site](https://kunsh13.github.io/iptv/)
 - [Netlify Site](https://kunsh13.netlify.app/) <br><br>
