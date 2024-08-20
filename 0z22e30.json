@@ -312,9 +312,9 @@
   
     ["RT - Russia Today", "news", "img/rt1.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
     
-    ["ABC - Australia", "news", "img/abc.jpg", "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"],
+    ["ABC - Australia", "news", "img/abc.jpg", "https://x-stor-ep-dis-news.uplynk.com/ause/slices/2f8/a4e18e29d9624114a7eac2829aac559e/2f86488a5f72409984659f25076263b6/D000008CA.ts?pbs=96715b6549de4a04afd029daa3a84c07&_jt=l&chid=3324f2467c414329b3b0cc5cd987b6be&cloud=aws&cdn=ep&si=0"],
     
-    ["Euro News - France", "news", "img/euronews.webp", "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8"],
+    ["Euro News - France", "news", "img/euronews.webp", "https://rakuten-euronews-1-nl.samsung.wurl.tv/66037cf47c8df41335fbf42b1b1b9e7f.m3u8"],
     
     ["TV5 Mongolia", "news", "img/tv5.jpg", "https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8"],
     
@@ -325,17 +325,50 @@
     
     ["Al Jazeera", "news", "img/aijazeera.jpeg", "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"],
     
-    ["TRT World - Turkey", "news", "img/trt.jpg", "https://tv-trtworld.live.trt.com.tr/master.m3u8"],
+    ["TRT World - Turkey", "news", "img/trt.jpg", "https://tv-trtworld.medya.trt.com.tr/master.m3u8"],
+    
     
     ["CNA - Singapore", "news", "img/cna.jpg", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"],
     
-    ["NHK - Japan", "news", "img/nhk.jpg", "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"],
+    ["NHK - Japan", "news", "img/nhk.jpg", "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8"],
     
     ["Arirang - Korea", "news", "img/arirang.jpg", "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"],
 
-    ["Reuters Now", "news", "img/reuters.jpg", "https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8"],
 
-    
+
+
+    ["Dust Little Do Studio", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"],
+
+    ["Dust - ", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-samsungnz/playlist.m3u8"],
+
+    ["Action Hollywood", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"],
+
+    ["Kartoon Channel!", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8"],
+
+    ["Pet Club", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"],
+
+    ["RCM modern times", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8"],
+
+    ["Motorvision", "news", "img/motorvision.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8"],
+
+    ["Wellbeing TV", "news", "img/wellbeing.jpg", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"],
+
+    ["Dust - Gyn powder and Sky", "news", "img/dust_gunpowder.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8"],
+
+    ["The Guardian - Rakutan", "news", "img/thegaurdian.png", "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8"],
+
+    ["Discover Film", "news", "img/discoverFilm.avif", "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"],
+
+    ["Movie fone.", "news", "img/moviefone.jpg", "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"],
+
+
+
+
+
+
+
+     ["Reuters Now", "news", "img/reuters.jpg", "https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8"],
+
     ["Revry", "lifestyle", "img/revry.jpg", "https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8"],
        
     
