@@ -147,11 +147,15 @@
   
     
     ["ALTV Thai", "lifestyle", "img/altv4.jpg", "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"],    
+
+
+
+    ["Tastemade", "lifestyle", "img/tastemade.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"],
     
+    ["Tastemade Travel", "lifestyle", "img/tastemade_travel.jpg", "https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u"],
     
-    ["Tastemade", "lifestyle", "img/tastemade.jpg", "https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8"],
-    
-    ["Tastemade Travel", "lifestyle", "img/tastemade_travel.jpg", "https://tastemadetravel-vizio.amagi.tv/playlist.m3u8"],
+    ["Tastemade Travel", "lifestyle", "img/tastemade_travel.jpg", "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8"],
+
     
     ["Travel XP", "lifestyle", "img/TravelxpHD.jpg", "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"],
   
@@ -234,10 +238,9 @@
     ["AMC All Weddings", "movies", "img/amc2.jpg", "https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8"],
     
     ["AMC TV Stories", "movies", "img/amc3.webp", "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId="],
-    
-    ["AMC+", "movies", "img/amc4.jpg", "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8"],
-    
-    
+        
+   ["AMC Rush", "movies", "img/amc4.jpg", "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8"],
+       
 
 
 
@@ -277,7 +280,10 @@
     ["Rakuten Action", "movies", "img/rakuten4.jpg", "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],   
     
     
-    ["Local now Music", "music", "img/localnowmusic.png", "https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8"],
+    
+    ["Local now Music", "music", "img/localnowmusic.png", "https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8"],
+
+
     ["Local Now Zen", "movies", "img/local0.png", "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8"],
 
     ["Local Now Rush", "movies", "img/LocalNow_Adrenaline_Rush.png", "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720.m3u8"],
@@ -293,6 +299,16 @@
       
     
     
+
+
+
+
+
+
+
+
+
+
     ["CGTN", "news", "img/cgtnNews.jpg", "https://live.cgtn.com/1000/prog_index.m3u8"],
     
     ["CGTN Documentary", "news", "img/cgtnDocumantry.jpg", "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"],
@@ -337,6 +353,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
     ["Dust Little Do Studio", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"],
 
     ["Dust - ", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-samsungnz/playlist.m3u8"],
@@ -361,16 +389,30 @@
 
     ["Movie fone.", "news", "img/moviefone.jpg", "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"],
 
-
-
-
-
-
-
      ["Reuters Now", "news", "img/reuters.jpg", "https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8"],
 
     ["Revry", "lifestyle", "img/revry.jpg", "https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8"],
        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     ["Just for Laugh Gags", "fun", "img/justforlaugh.jpg", "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY"],
     
@@ -399,9 +441,27 @@
     
     ["Red Bull", "fun", "img/redd_bull.jpg", "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],
     
-    ["Fish Tank TV", "fun", "img/fish_tank2.jpg", "https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8"],
-    
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ["Fish Tank TV", "fun", "img/fish_tank2.jpg", "https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8"],
     
     ["Relaxing Rain TV", "fun", "img/relaxing-rain.jpg", "https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8"],
     
@@ -410,14 +470,18 @@
     ["Alien Nation", "fun", "img/alienation.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8"],
     
     
+
+
+
+
+
+
+
+
+
     
     
     ["Loupe 4K", "music", "img/loupe.png", "https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8"],
-    
-    
-    
-
-    
     
     ["Stingray Rock Alternative Live", "music", "img/stingray_rock_alternative_live.webp", "https://stream.ads.ottera.tv/cl/230906cjs17agji6sg5fhohlug/768x432_690800_0_f.m3u8?i=475_3026"],   
 
@@ -455,17 +519,12 @@
     ["Worldwide Muzzik - Serbia", "music", "img/wwm.png", "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8"],
 
     ["VEVO 80s", "music", "img/vevo-channel.webp", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8"],
-    
 
     ["VEVO Pop", "music", "img/vevo_pop.webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
-    
-
-
     
     ["VH1", "music", "img/vh1.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
     
     ["MTV - Biggest Pop", "music", "img/mtv_pop.jpg", "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"],
-
     
     ["Circle", "music", "img/circle.avif", "https://circle-roku.amagi.tv/playlist.m3u8"],	
     
@@ -473,6 +532,22 @@
     
     
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
