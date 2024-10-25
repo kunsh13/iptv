@@ -21,19 +21,7 @@
 
 [<img align="middle" alt="qr code" width="281px" height="281px" src="img/qr_c.png" />][site]
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br><br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <details>
   <summary>Details</summary>
@@ -51,11 +39,9 @@ I have developed a WIFI Internet radio prototype using Embedded C++ and KaRadio3
 
 As I kept learning I have created this web app. Video streams are added along with internet radio streams. I have created this project for fun and learning purpose.
 
- 
+ [![Sparkline](https://stars.medv.io/kunsh13/iptv.svg)](https://stars.medv.io/kunsh13/iptv)
+
 
 </details>
-
-
-
 
 <br>
