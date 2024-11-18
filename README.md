@@ -1,5 +1,5 @@
 
-<h1 align='center'>🌟 IPTV <a href="https://kunsh13.github.io/iptv/"><img src="/img/favicon_round.png" width="40" height="40"></a> 2.3🌟</h1>
+<h1 align='center'>🌟 IPTV <a href="https://kunsh13.github.io/"><img src="/img/favicon_round.png" width="40" height="40"></a> 2.3🌟</h1>
 
 
 
@@ -7,7 +7,7 @@
 
 - [Firebase Site ](https://kunsh13-iptv.firebaseapp.com/)       ```[not up to date]```
 
-- [Github Site](https://kunsh13.github.io/iptv/)
+- [Github Site](https://kunsh13.github.io/)
 - [Netlify Site](https://kunsh13.netlify.app/) <br><br>
  [![Netlify Status](https://api.netlify.com/api/v1/badges/b649cddc-2888-4ee6-9391-fa6be667a902/deploy-status)](https://app.netlify.com/sites/kunsh13/deploys)
 - [Vercel Site](https://iptv13.vercel.app)
@@ -16,7 +16,7 @@
 
 [<img align="left" alt="IPTV" width="500px" height="281px" src="img/banner.png" />][site]
 
-[site]: https://kunsh13.github.io/iptv/
+[site]: https://kunsh13.github.io/
 
 
 [<img align="middle" alt="qr code" width="281px" height="281px" src="img/qr_c.png" />][site]
@@ -39,7 +39,7 @@ I have developed a WIFI Internet radio prototype using Embedded C++ and KaRadio3
 
 As I kept learning I have created this web app. Video streams are added along with internet radio streams. I have created this project for fun and learning purpose.
 
- [![Sparkline](https://stars.medv.io/kunsh13/iptv.svg)](https://stars.medv.io/kunsh13/iptv)
+ [![Sparkline](https://stars.medv.io/kunsh13/iptv.svg)](https://stars.medv.io/kunsh13/)
 
 
 </details>
