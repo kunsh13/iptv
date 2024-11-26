@@ -2,12 +2,12 @@
 <h1 align='center'>🌟 IPTV <a href="https://kunsh13.github.io/"><img src="/img/favicon_round.png" width="40" height="40"></a> 2.3🌟</h1>
 
 
-
+- [Github Site](https://bit.ly/_iptv_)
 - [Submit your feedback](https://github.com/kunsh13/iptv/discussions)
 
 - [Firebase Site ](https://kunsh13-iptv.firebaseapp.com/)       ```[not up to date]```
 
-- [Github Site](https://kunsh13.github.io/)
+
 - [Netlify Site](https://kunsh13.netlify.app/) <br><br>
  [![Netlify Status](https://api.netlify.com/api/v1/badges/b649cddc-2888-4ee6-9391-fa6be667a902/deploy-status)](https://app.netlify.com/sites/kunsh13/deploys)
 - [Vercel Site](https://iptv13.vercel.app)
@@ -16,13 +16,33 @@
 
 [<img align="left" alt="IPTV" width="500px" height="281px" src="img/banner.png" />][site]
 
-[site]: https://kunsh13.github.io/
+[site]: https://bit.ly/_iptv_
 
 
 [<img align="middle" alt="qr code" width="281px" height="281px" src="img/qr_c.png" />][site]
 <br>
 <br><br>
 <br>
+
+
+
+<details>
+<summary>Stars</summary>
+
+<a href="https://bit.ly/_iptv_">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kunsh13/kunsh13.github.io&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kunsh13/kunsh13.github.io&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kunsh13/kunsh13.github.io%20&type=Date" />
+ </picture>
+</a>
+
+
+</details>
+
+
+
+
 <details>
   <summary>Details</summary>
 
