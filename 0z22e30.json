@@ -74,13 +74,16 @@
 
 
   
+  ["DD India", "news", "img/DD-India.jpeg", "https://www.youtube-nocookie.com/embed/wBdHg8o7TFo"],
 
-    
+
+  ["DD News", "news", "img/DDnews.png", "https://www.youtube-nocookie.com/embed/OjsE734aXyc"],
+
   ["DD Bharti", "news", "img/DDbharti.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/ddbharti-audio_208482_und=208000-video=2137600.m3u8"],
-       
+
 
   ["Sansad TV", "news", "img/sansad.jpg", "https://playhls.media.nic.in/live/lstv/index.m3u8"],
-  
+
 
 
 
@@ -262,12 +265,6 @@
   
   ["Filmstreams", "movies", "img/DundeeTheater.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
   
-  ["Pop TV - Movies", "movies", "img/pop4.jpg", "https://stream1.aswifi.it/poptelevision/live/index.m3u8"],
-  ["Redbox - Rush", "movies", "img/redbox1.jpg", "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8"],	
-  ["Redbox - Spotlight", "movies", "img/redbox2.webp", "https://spotlight-vizio.amagi.tv/playlist.m3u8"],
-  ["Redbox - Comedy", "movies", "img/redbox3.webp", "https://comedy-redbox.amagi.tv/playlist.m3u8"],
-  ["Redbox - Battery Pop", "movies", "img/redbox4.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"],
-  ["Redbox - The Design Network", "lifestyle", "img/redbox-designnetwork.jpg", "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/2000.m3u8"], 
 
   ["Film Hub", "movies", "img/filmhub.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/640x360_700000/index.m3u8"],
   ["Filmrise", "movies", "img/filmrise.jpg", "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8"],
@@ -278,6 +275,8 @@
   ["Cine View", "movies", "img/Cineview_1000px_new-round.png", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8"],
   
 
+  
+  ["RCM modern times", "news", "img/rcm.avif", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8"],
 
   ["Action Hollywood", "movies", "img/actionHollywood.avif", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"],	
    
@@ -291,23 +290,6 @@
   ["Rakuten Top Movies UK", "movies", "img/rakuten4.jpg", "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/9a70ceec-f09b-4b71-9a99-171e0845cfb9/5.m3u8"],   
   
   
-  
-  ["Local now Music", "music", "img/localnowmusic.png", "https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8"],
-
-
-  ["Local Now Zen", "movies", "img/local0.png", "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8"],
-
-  ["Local Now Rush", "movies", "img/LocalNow_Adrenaline_Rush.png", "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720.m3u8"],
-
-  ["Local Now Discover", "movies", "img/local1.png", "https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1024x576.m3u8"],
-
-  ["Local Now Drama", "movies", "img/local7.png", "https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8"],
-  ["Local Now Romantique", "movies", "img/local3.png", "https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist_1280x720.m3u8"],
-
-  ["Local Now Fear This", "movies", "img/local4.jpg", "https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist_1280x720.m3u8"],
-  ["Local Now Family Flix", "movies", "img/local5.png", "https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x720.m3u8"],
-  ["Local Now That’s Funny", "movies", "img/local6.png", "https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist_1024x576.m3u8"],
-    
   
   
 
@@ -361,11 +343,8 @@
   ["CNA - Singapore", "news", "img/cna.jpg", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"],
   
   ["NHK - Japan", "news", "img/nhk.jpg", "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8"],
-  
-  ["Arirang - Korea", "news", "img/arirang.jpg", "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"],
 
-  
-  ["Arirang - Korea", "news", "img/arirang.jpg", "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"],
+  ["Arirang - Korea", "news", "img/arirang.jpg", "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8", "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"],
 
 
 
@@ -380,17 +359,11 @@
 
 
 
-  ["Dust Little Do Studio", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"],
+  ["Little Dot Studio - Dust", "news", "img/littledotstudions.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"],
 
-  ["Dust - ", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-samsungnz/playlist.m3u8"],
 
-  ["Action Hollywood", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"],
+  ["Kartoon Channel!", "news", "img/kartoonchannel.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8"],
 
-  ["Kartoon Channel!", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8"],
-
-  ["Pet Club", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"],
-
-  ["RCM modern times", "news", "img/reuters.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8"],
 
   ["Motorvision", "news", "img/motorvision.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8"],
 
@@ -400,7 +373,6 @@
 
   ["Wellbeing TV", "news", "img/wellbeing.jpg", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"],
 
-  ["Dust - Gun powder and Sky", "news", "img/dust_gunpowder.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8"],
 
   ["The Guardian - Rakuten", "news", "img/thegaurdian.png", "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8"],
 
@@ -439,6 +411,9 @@
   
   ["Just for Laugh Gags", "fun", "img/justforlaugh.jpg", "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY"],
   
+  
+  ["Pet Club", "news", "img/petclub.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"],
+
   
   ["The Pet Collective - US", "fun", "img/petcollective_us.jpg", "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ad55268cae539bcedb08&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=637&terminate=false&userId="],
   
@@ -530,18 +505,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
   ["Afrobeats - UK", "music", "img/afrobeats.webp", "https://stream.ecable.tv/afrobeats/index.m3u8"],
 
-  ["Feva Music - US", "music", "img/feva.jpg", "https://d2y0xw9ugf4if7.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FEVAMusic/018a1cf0-c719-4028-9f7b-b668414dfe83/2.m3u8"],
 
   ["THT Music - Russia", "music", "img/tnt.webp", "https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8"],
   
@@ -615,23 +580,15 @@
   ["PTC News US", "news", "img/ptc_news_live.jpg", "https://streaming.ptcplay.com/ptcnewsusONE/smil:Live.smil/playlist.m3u8"],
   
 
-  
-  ["9x Music", "music", "img/9xm.webp", "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"],
-  
-  
-  ["Wah Punjabi", "music", "img/wah_punjabi.webp", "http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/chunks.m3u8"],
-  
-      
-  ["Steelbird  - Punjabi", "music", "img/steelbird.jpg", "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8"],
 
  
   
   
   ["Radio Caravan US", "internetradio", "img/radio_caravan.jpg", "https://stream.voxx.pro/radio/8260/radio.mp3"],
   
-  ["Radio City Smaran", "internetradio", "img/radiocity_smaran.jpg", "http://prclive1.listenon.in:9950"],
+  ["Radio City Smaran", "internetradio", "img/radiocity_smaran.jpg", "https://stream.zeno.fm/wv1c9m5zrf9uv"],
   
-  ["Shemaroo Bhakti", "internetradio", "img/sheemaro_bhakti.jfif", "https://radiobhaktishopping.shemaroo.com/hariomradio/Stream1_aac/chunklist_w1854039901.m3u8"],
+  ["Shemaroo Bhakti", "internetradio", "img/sheemaro_bhakti.jfif", "https://stream-149.zeno.fm/utb5up4qbpqtv?zs=VCRc1Hk9SvupS8vtCPSBmA"],
   
   
   
@@ -758,12 +715,9 @@
   ["Fusion Life Radio", "internetradio", "img/fm_fusion.jpeg", "https://c28.radioboss.fm:18046/stream"],
   
   
-  ["VDesi", "internetradio", "img/fm_vdesi1.jpg", "https://stream.radio.co/s42e977b6c/listen"],
+  ["VDesi", "internetradio", "img/fm_vdesi2.jpg", "https://ice66.securenetsystems.net/WVDESI"],
+
   
-      
-  ["Totv.org", "internetradio", "img/radio-nasha.jpg", "https://www.youtube.com/watch?v=eQjARi_-W0E   "],
-  
-  
-  ["The End", "welcome notavailable", "img/radio-nasha.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"]
+  ["The End", "welcome notavailable", "img/radio-nasha.jpg", "img/1-bus-talking.mp3"]
   
   ]
