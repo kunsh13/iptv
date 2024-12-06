@@ -425,18 +425,20 @@
    
    ["Fail Army - International", "fun", "img/failarmy_inter.webp", "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8"],
 
-  ["Fail Army - Canada", "fun", "img/failarmy1.jpg", "https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8"],
+  ["Fail Army - Canada", "fun", "img/failarmy1.jpg", "https://jukin-weatherspy-2-in.samsung.wurl.tv/3000.m3u8"],
 
+
+  
   ["People are Awesome", "fun", "img/peopleareawe1.webp", "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8"],
 
-  ["WeatherSpy - Amagi", "fun", "img/weatherspy_amagi.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8"],
 
-  ["WeatherSpy - EU", "fun", "img/weatherspy_eu.png", "https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8"],
 
-  ["WeatherSpy - CA", "fun", "img/weatherspy-ca.webp", "https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8"],
 
-  ["WeatherSpy - US", "fun", "img/weatherspy-us.webp", "https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8"],
-  
+
+
+
+  ["WeatherSpy - Amagi", "fun", "img/weatherspy_amagi.png", "https://jukin-weatherspy-2-in.samsung.wurl.tv/3000.m3u8"],
+
   ["Red Bull", "fun", "img/redd_bull.jpg", "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],
   
 
@@ -444,25 +446,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  ["Fish Tank TV", "fun", "img/fish_tank2.jpg", "https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8"],
   
-  ["Relaxing Rain TV", "fun", "img/relaxing-rain.jpg", "https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8"],
-  
+
   ["Stingray - Naturescape", "fun", "img/stingray_naturescape.jpg", "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8"],
 
   
