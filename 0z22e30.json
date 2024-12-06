@@ -24,7 +24,7 @@
   
   ["Good News Today", "news", "img/gnt.jpg", "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"],
 
-  ["NewsX", "news", "img/newsx.jpg", "https://indianews.ottlive.co.in/newsx/newsx/tracks-a1/index.fmp4.m3u8"],   
+  ["NewsX", "news", "img/newsx.jpg", "https://livetv.newsx.com/itv/itvnetwork4/chunklist_w930140473.m3u8?hdnts=st%3D1685349202%7Eexp%3D1685370802%7Eacl%3D%21*%2Fitv%2Fitvnetwork4%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_37_-1%7Ehmac%3D1cbb68d28664c3c6d50230de39d32d6f49ec070637db7247d410d423ba1fb15d"],   
 
 
 
@@ -33,15 +33,20 @@
   
   ["India Today", "news", "img/indiatoday.jpg", "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"],
   
+  
+  ["Khabrain Abhi Tak", "news", "img/khabrenabhitak.jpg", "https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8"],
+      
+
 
   ["News 18 India", "news", "img/news18india.jpg", "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8"],
 
-
+  ["Newsnation", "news", "img/newsnation.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=2137600.m3u8"],   
+  
   
   ["News 24", "news", "img/news24.webp", "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"],
   
 
-  ["Times Now", "news", "img/timesnow_navbharat.jpg", "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8"],   
+  ["Times Now", "news", "img/timesnow_navbharat.jpg", "https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/c137b220-0872-4db0-bc81-5a9d4064aef8:TPE/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8"],   
 
 
   ["IBC 24", "news", "img/IBC24.jpg", "https://livetv.ibc24.in/livestream.m3u8"],
@@ -49,37 +54,47 @@
    ["India TV", "news", "img/indiatv2.jpg", "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8"],
 
    
-["India News", "news", "img/indianews.webp", "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8"],
+   ["India Daily", "news", "img/IndiaDaily.jpg", "https://thejbtcdn.vidgyor.com/thejbt-origin/liveabr/thejbt-origin/live_720p/chunks.m3u8"],
+
+
+["India News", "news", "img/indianews.webp", "https://livetv.newsx.com/itv/itvnetwork5/chunklist_w932303204.m3u8?hdnts=st%3D1685349133%7Eexp%3D1685370733%7Eacl%3D%21*%2Fitv%2Fitvnetwork5%2F*%21%2Fpayload%2Fyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%2F*%7Edata%3Dyupptvott_5_-1_c4a25801-374a-dc6a-4564-d062bffe2418_IN_122.161.52.176_dishtv_1_channel_224_-1%7Ehmac%3D0250c96f694e265194b5450f3c032d000a3f33182e480cd00b6608b49d612bf8"],
      
   
- ["India 24", "news", "img/Ind24.png", "https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8","https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8"],
+ ["India 24", "news", "img/Ind24.png", "https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8"],
   
- ["Republic World", "news", "img/republiclive.png", "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8"],
+ ["Republic World", "news", "img/republiclive.png", "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/a9d2164b-0de6-483a-ba4e-2571dc7b40d6/1.m3u8"],
   
-  ["Republic Hindi", "news", "img/republicbharat.jpg", "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/94e76cb5-a380-4250-a0b5-6a753158ee85/1.m3u8"],
+  ["Republic Hindi", "news", "img/republicbharat.jpg", "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/d0aa053b-3f36-4937-b18b-baf5bfcd060a/1.m3u8"],
   
  ["TV9 Bharatvarsh", "news", "img/tv9bharatvarsha.jpg", "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_480p/chunks.m3u8"],
   
+  
+  ["Bharat Samachar", "news", "img/bharatsamachar.jpg", "https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8"],
+
+  
 
 
   
-  ["Sudarshan News", "news", "img/sudarshan.jfif", "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1a1/mono.m3u8?hdnts=st=1733458043~exp=1733468843~acl=*~data=testdata~hmac=96f21654ad071ff2c71deca490744235b6fa03eb3da8d58658ea712d690e9377"],
+  ["Sudarshan News", "news", "img/sudarshan.jfif", "https://livegeoroueu.akamaized.net/290723/smil:sudarshantv1.smil/chunklist_b1928000.m3u8?hdntl=exp=1719545643~acl=!*/290723/smil:sudarshantv1.smil/*!yuppTVCom_5_-1_b35661f8f9d34e97_IN_122.161.49.11/payload/yuppTVCom_5_-1_b35661f8f9d34e97_IN_122.161.49.11/*~data=hdntl~hmac=2a762815452cab928ce538d5aa873b0c8766854ebdef4b212ba32dfb2321dd18"],
   
   
   ["First India News", "news", "img/First-india-news-rajasthan_1-in.webp", "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8"],
   
   ["NDTV India", "news", "img/ndtvindia.jpg", "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"],
   
-  ["NDTV 24x7", "news", "img/ndtv247.jpg", "https://dai.google.com/linear/hls/pb/event/FbL8YN7tSnqysJ6wVjKW7A/stream/d9ec0fcc-7530-4711-96cd-ea64dc150fad:TPE2/variant/f6adca9303a2fad362b115e82d5eac41/bandwidth/3330800.m3u8"],
+  ["NDTV 24x7", "news", "img/ndtv247.jpg", "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8"],
 
-
+    ["DD Sports", "news", "img/DD-Sports.webp", "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"],  
+  
+  ["DD National", "news", "img/DD-national.webp", "https://dh0gbq06d73n9.cloudfront.net/bpk-tv/Ddnationalbk/default/ddnationalbk-audio_208482_und=208000-video=2137600.m3u8?hdnts=st=1698896930~exp=1698918530~acl=!*/bpk-tv/Ddnationalbk/default/*!/payload/yupptvott_5_-1_93c1895f-e2de-f666-ba76-592d8fcd62f0_IN_122.161.53.157_dishtv_1_channel_16_-1/*~data=yupptvott_5_-1_93c1895f-e2de-f666-ba76-592d8fcd62f0_IN_122.161.53.157_dishtv_1_channel_16_-1~hmac=a87f13bec9c7f4e20355759280173666d998e015e486c52dd29483639fe710fb"],  
+  
   
 
     
   ["DD Bharti", "news", "img/DDbharti.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/ddbharti-audio_208482_und=208000-video=2137600.m3u8"],
        
 
-  ["Sansad TV", "news", "img/sansad.jpg", "https://playhls.media.nic.in/live/lstv/index.m3u8"],
+  ["Sansad TV", "news", "img/sansad.jpg", "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/sansadtvhd-audio_208482_und=208000-video=2137600.m3u8"],
   
 
 
@@ -117,17 +132,19 @@
   ["Clarity UHD 4K", "lifestyle", "img/clarity.png", "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"],
   
    
-  ["Love Nature", "lifestyle", "img/lovenature1.webp", "https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist288p.m3u8"],
+  ["Love Nature", "lifestyle", "img/lovenature1.webp", "https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/480p-cc/index.m3u8"],
 
   ["Love Nature UHD 4K", "lifestyle", "img/ln-logo_peacock_4k.png", "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"],
   
 
-
+  
+  ["Xplore - US", "lifestyle", "img/xplore.png", "https://xlpore-samsungus.amagi.tv/480p-vtt/index.m3u8"],
+  
   
   ["Wild Earth", "lifestyle", "img/wildearth.jpg", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8"],
   
   
-  ["GoTraveler", "lifestyle", "img/gotraveler.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8"],
+  ["GoTraveler", "lifestyle", "img/gotraveler.jpg", "https://amg09501-questar-amg09501c1-stirr-us-3094.playouts.now.amagi.tv/amg09501/AMG09501C1/segmented_playlist/0/playlist_fc18f0fd_4f1e4b8e.m3u8"],
 
   
   ["ALTV Thai", "lifestyle", "img/altv4.jpg", "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"],    
@@ -136,12 +153,14 @@
 
   ["Tastemade", "lifestyle", "img/tastemade.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"],
   
-  ["Tastemade Travel", "lifestyle", "img/tastemade_travel.jpg", "https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u"],
-  
-  ["Tastemade Travel", "lifestyle", "img/tastemade_travel.jpg", "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8"],
+  ["Tastemade Travel", "lifestyle", "img/tastemade_travel.jpg", "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8"],
 
-  
-  ["Travel XP", "lifestyle", "img/TravelxpHD.jpg", "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"],
+
+   ["Taiwan Plus", "lifestyle", "img/tiwanplus1.jpg", "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"], 
+
+
+   
+  ["Travel XP", "lifestyle", "img/TravelxpHD.jpg", "https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8"],
 
   ["Wonder", "lifestyle", "img/wonder.webp", "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"],
   
@@ -164,19 +183,35 @@
   
 ["Real Stories", "lifestyle", "img/realstories.jpg", "https://lds-realstories-samsungau.amagi.tv/playlist720-p.m3u8"],
   
+["Unsolved Mystries", "lifestyle", "img/unsolved-mysteries.avif", "https://livetv-fa.tubi.video/unsolved-mysteries/index_4.m3u8"],
+
+
+
+["History 365", "lifestyle", "img/history.jpg", "https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8"], 
+
+["Scientology Network", "lifestyle", "img/scientology.webp", "https://stream6.scientology.org/stream/hls_960x540_2000k.m3u8?offset=30"],
+ 
+
+
+["Revolt", "lifestyle", "img/revolt.jpg", "https://livetv-fa.tubi.video/revolt/playlistR480p.m3u8"],
+ 
+
+
+["Reelz", "lifestyle", "img/reelz.jpg", "https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/us-west-2/5245389775001/profile_2/chunklist.m3u8"],
+ 
 
 
   ["Smithsonian - US", "lifestyle", "img/smithsonian.jpg", "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"],
   
   ["Timeline - History", "lifestyle", "img/timeline_tv.jpg", "https://lds-timeline-plex.amagi.tv/playlist.m3u8"],
   
-  ["So...Real", "lifestyle", "img/so_real.png", "https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8"],
+  ["So...Real", "lifestyle", "img/so_real.png", "https://soreal-tcl.amagi.tv/480p/index.m3u8"],
   
   
   ["Rouge TV", "lifestyle", "img/rouge-tv.jpg", "https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8"],
   
 
-  ["Your Time", "fun", "img/yourtime.jpg", "https://hls.yourtime.live/hls/stream.m3u8"],
+  ["Your Time - Iran", "fun", "img/yourtime.jpg", "https://hls.yourtime.live/hls/stream.m3u8"],
 
   ["Vice East", "music", "img/vice_tv.png", "https://d2do1g43aq7264.cloudfront.net/playlist.m3u8"],
   
@@ -209,9 +244,14 @@
   
   ["AMG TV", "movies", "img/amg-tv.png", "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"],
 
-  
-  ["Ion", "movies", "img/ionplus.jpg", "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist_4300k.m3u8"],	
+   ["Ion", "movies", "img/ion-tv.png", "https://apollo.production-public.tubi.io/live/ac-ion.m3u8"],	
  
+  
+  ["Ion Plus", "movies", "img/ion-plus.jpg", "https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8"],	
+ 
+ 
+  
+  ["Ion mystries", "movies", "img/ionmystries.avif", "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist_4300k.m3u8"],	
   
   ["Electric Now", "movies", "img/electric-now2.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/1280x720_1861200/chunklist.m3u8"],
   
@@ -227,41 +267,43 @@
      
 
 
-
+  ["A&E - Cold Case", "movies", "img/ae-coldcase.webp", "https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8"],
+  
 
   ["Now This", "movies", "img/now-this.avif", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8"],
   
-  ["BBC America", "movies", "img/bbc.jpg", "https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8"],
+  ["BBC America", "movies", "img/bbc.jpg", "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"],
 
   
   ["Filmstreams", "movies", "img/DundeeTheater.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
   
-  ["Pop TV - Movies", "movies", "img/pop4.jpg", "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8"],
+  ["Pop TV - Movies", "movies", "img/pop4.jpg", "https://stream1.aswifi.it/poptelevision/live/index.m3u8"],
   ["Redbox - Rush", "movies", "img/redbox1.jpg", "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8"],	
   ["Redbox - Spotlight", "movies", "img/redbox2.webp", "https://spotlight-vizio.amagi.tv/playlist.m3u8"],
   ["Redbox - Comedy", "movies", "img/redbox3.webp", "https://comedy-redbox.amagi.tv/playlist.m3u8"],
   ["Redbox - Battery Pop", "movies", "img/redbox4.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"],
-  ["Redbox - The Design Network", "lifestyle", "img/redbox-designnetwork.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8"], 
+  ["Redbox - The Design Network", "lifestyle", "img/redbox-designnetwork.jpg", "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/2000.m3u8"], 
 
-  ["Film Hub", "movies", "img/filmhub.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/640x360_440000/index.m3u8"],
-  ["Filmrise", "movies", "img/filmrise.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"],
+  ["Film Hub", "movies", "img/filmhub.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/640x360_700000/index.m3u8"],
+  ["Filmrise", "movies", "img/filmrise.jpg", "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8"],
 
-  ["The Archive", "movies", "img/thearchive.png", "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us"],
+  ["The Archive", "movies", "img/thearchive.png", "https://dai.google.com/linear/hls/pb/event/MdbYPXWRStmMq1DaQhsBUw/stream/5fc310e8-c098-40ef-b0e8-d45792152dc7:TPE/variant/4f3a1626fb28cbb8fba296c984d881d6/bandwidth/550000.m3u8"],
 
   ["Cine Life", "movies", "img/cinelife.jpg", "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"],	
   ["Cine View", "movies", "img/Cineview_1000px_new-round.png", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8"],
   
-  
-  ["Gravitas Movies", "movies", "img/gravitas-movies.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"],
+
 
   ["Action Hollywood", "movies", "img/actionHollywood.avif", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"],	
    
-  
+   
+  ["Rakuten Viki", "movies", "img/rakutenviki.png", "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"], 
+
   
   ["Rakuten Family", "movies", "img/rakuten1.jpg", "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8"],
-  ["Rakuten Top", "movies", "img/rakuten2.jpg", "https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"],
-  ["Rakuten Comedy", "movies", "img/rakuten3.jpg", "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],
-  ["Rakuten Action", "movies", "img/rakuten4.jpg", "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"],   
+  ["Rakuten Family - Sweden", "movies", "img/rakuten2.jpg", "https://rakuten-family-9-se.samsung.wurl.tv/2000.m3u8"],
+  ["Rakuten Family - UK", "movies", "img/rakuten3.jpg", "https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8"],
+  ["Rakuten Top Movies UK", "movies", "img/rakuten4.jpg", "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/9a70ceec-f09b-4b71-9a99-171e0845cfb9/5.m3u8"],   
   
   
   
@@ -293,14 +335,15 @@
 
 
 
-  ["CGTN", "news", "img/cgtnNews.jpg", "https://live.cgtn.com/1000/prog_index.m3u8"],
+  ["CGTN", "news", "img/cgtnNews.jpg", "https://english-livebkali.cgtn.com/live/encgtn_1.m3u8"],
   
   ["CGTN Documentary", "news", "img/cgtnDocumantry.jpg", "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"],
   
   ["CNN", "news", "img/cnn.webp", "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"],
   
-  ["NBC", "news", "img/nbc.webp", "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"],
+  ["NBC", "news", "img/nbc.webp", "https://livetv-fa.tubi.video/nbc-news-now/master_4.m3u8"],
   
+  ["BBC - news", "news", "img/bbc-studios2.jpg", "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"],
   
   ["CBS News", "news", "img/cbs_news.jpg", "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"],
   
@@ -311,6 +354,8 @@
   ["DW - Deutsche Welle News", "news", "img/dw1.jpg", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"],
 
   ["RT - Russia Today", "news", "img/rt1.jpg", "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"],
+  ["RT - Russia Documentary", "news", "img/rt2.jpg", "https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8"],
+  
   
   ["ABC - Australia", "news", "img/abc.jpg", "https://x-stor-ep-dis-news.uplynk.com/ause/slices/2f8/a4e18e29d9624114a7eac2829aac559e/2f86488a5f72409984659f25076263b6/D000008CA.ts?pbs=96715b6549de4a04afd029daa3a84c07&_jt=l&chid=3324f2467c414329b3b0cc5cd987b6be&cloud=aws&cdn=ep&si=0"],
   
@@ -318,7 +363,7 @@
   
   ["TV5 Mongolia", "news", "img/tv5.jpg", "https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8"],
   
-  ["SKY News - UK", "news", "img/sky.webp", "https://www.youtube.com/embed/9Auq9mYxFEE"],
+  ["SKY News - UK", "news", "img/sky.webp", "https://www.youtube-nocookie.com/embed/oJUvTVdTMyY"],
   
   
   
@@ -334,7 +379,8 @@
   
   ["Arirang - Korea", "news", "img/arirang.jpg", "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"],
 
-
+  
+  ["Arirang - Korea", "news", "img/arirang.jpg", "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"],
 
 
 
@@ -363,11 +409,15 @@
 
   ["Motorvision", "news", "img/motorvision.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8"],
 
+  
+
+
+
   ["Wellbeing TV", "news", "img/wellbeing.jpg", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"],
 
-  ["Dust - Gyn powder and Sky", "news", "img/dust_gunpowder.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8"],
+  ["Dust - Gun powder and Sky", "news", "img/dust_gunpowder.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8"],
 
-  ["The Guardian - Rakutan", "news", "img/thegaurdian.png", "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8"],
+  ["The Guardian - Rakuten", "news", "img/thegaurdian.png", "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8"],
 
   ["Discover Film", "news", "img/discoverFilm.avif", "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"],
 
@@ -378,6 +428,11 @@
   ["Revry", "lifestyle", "img/revry.jpg", "https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8"],
      
 
+  ["Newsmax", "news", "img/newsmax.jpg", "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index_720.m3u8"],
+
+  
+  ["Alien Nation", "fun", "img/alienation.jpg", "https://livetv-fa.tubi.video/alien-nation/playlistR_480p.m3u8"],
+  
 
 
 
@@ -389,11 +444,10 @@
 
 
 
+  ["Always Funny", "fun", "img/alwaysfunny.png", "https://linear-12.frequency.stream/dist/stirr/12/hls/master/playlist.m3u8"],
 
 
-
-
-
+  ["Always Funny Pranks & Fails", "fun", "img/alwaysfunny_prank.jpg", "https://linear-863.frequency.stream/dist/stirr/863/hls/master/playlist.m3u8"],
 
 
 
@@ -413,7 +467,7 @@
 
   ["Fail Army - Canada", "fun", "img/failarmy1.jpg", "https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8"],
 
-  ["People are Awesome", "fun", "img/peopleareawe1.webp", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8"],
+  ["People are Awesome", "fun", "img/peopleareawe1.webp", "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8"],
 
   ["WeatherSpy - Amagi", "fun", "img/weatherspy_amagi.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8"],
 
@@ -449,46 +503,64 @@
   
   ["Relaxing Rain TV", "fun", "img/relaxing-rain.jpg", "https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8"],
   
-  ["Stingray - Naturescape", "fun", "img/stingray_naturescape.jpg", "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812bd9f249444e05d09cc4e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=692&terminate=false&userId="],
-  
-  ["Alien Nation", "fun", "img/alienation.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8"],
-  
-  
-
-
-
-
-
-
-
-
+  ["Stingray - Naturescape", "fun", "img/stingray_naturescape.jpg", "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8"],
 
   
+
+
+
+
+
   
   ["Loupe 4K", "music", "img/loupe.png", "https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8"],
-  
-  ["Stingray Rock Alternative Live", "music", "img/stingray_rock_alternative_live.webp", "https://stream.ads.ottera.tv/cl/230906cjs17agji6sg5fhohlug/768x432_690800_0_f.m3u8?i=475_3026"],   
 
-  ["Stingray Classic Rock Live", "music", "img/stingray_classic_rock_live.jpg", "https://stream-us-east-1.getpublica.com/cl/230906cjs15i8ji6sg5fhohas0/768x432_646734_0_f.m3u8?i=513_1942"], 
-  
-  
-  ["Stingray Euro Hits Live", "music", "img/stingray_euro_hits_live.webp", "https://stream.ads.ottera.tv/cl/230906cjs139ov7e9de4ct396g/768x432_690800_0_f.m3u8?i=475_3019"],
+
+
+
+
 
   
-  ["Stingray Rock Alternative", "music", "img/stingray80.jfif", "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8"],
+  ["Stingray Rock Alternative Live", "music", "img/stingray_rock_alternative_live.webp", "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/86c450ed-9e6a-3c4f-9b87-08174d04fab6/690800/manifest.m3u8"],   
+
+  ["Stingray Classic Rock Live", "music", "img/stingray_classic_rock_live.jpg", "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/690800/manifest.m3u8"], 
   
   
-  ["Stingray Greatest Hits", "music", "img/stingrayhits.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"],
+  ["Stingray K-Pop", "music", "img/stingray_euro_hits_live.webp", "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/7f580049-e104-34da-bf75-65c1708e6c1f/690800/manifest.m3u8"],
+
+  
+  ["Stingray Hit List", "music", "img/stingray80.jfif", "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/7f5c4019-53d1-3ece-aad4-eeab2919c146/690800/manifest.m3u8"],
   
   
-  ["Stingray Flashback", "music", "img/stingraymusic.jfif", "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8"],
+  ["Stingray Soul Storm", "music", "img/stingrayhits.jpg", "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/33357341-efb9-3b26-b81b-f78a0f4b7617/690800/manifest.m3u8"],
   
-  ["Stingray Karaoke", "music", "img/stingraykaraoke1.jpg", "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8"],
   
-  ["Stingray Karaoke 2", "music", "img/StingrayKaraoke2.jpg", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"],
+  ["Stingray CMusic", "music", "img/stingraymusic.jfif", "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/1751200/manifest.m3u8"],
   
-  ["Generations TV - France", "music", "img/generations.jfif", "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"],
+  ["Stingray Karaoke", "music", "img/stingraykaraoke1.jpg", "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/c92ba6bd-21aa-39b1-8f4a-8d02bef17886/1751200/manifest.m3u8"],
   
+  ["Stingray Nothin' But 90s", "music", "img/StingrayKaraoke2.jpg", "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/690800/manifest.m3u8"],
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ["Afrobeats - UK", "music", "img/afrobeats.webp", "https://stream.ecable.tv/afrobeats/index.m3u8"],
+
+  ["Feva Music - US", "music", "img/feva.jpg", "https://d2y0xw9ugf4if7.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FEVAMusic/018a1cf0-c719-4028-9f7b-b668414dfe83/2.m3u8"],
+
+  ["THT Music - Russia", "music", "img/tnt.webp", "https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8"],
+  
+
   ["Muzzik OKK - Serbia", "music", "img/muzzik.png", "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8"],
   
   ["KroneHit - Austria", "music", "img/Kronehit.png", "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8"],
@@ -504,13 +576,13 @@
 
   ["VEVO 80s", "music", "img/vevo-channel.webp", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8"],
 
-  ["VEVO Pop", "music", "img/vevo_pop.webp", "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"],
+  ["VEVO Pop", "music", "img/vevo_pop.webp", "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8"],
   
-  ["VH1", "music", "img/vh1.jpg", "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"],
+  ["VH1", "music", "img/vh1.jpg", "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1021-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e1d0f143-568e-4ded-ab2f-4285d4a8ae11"],
   
-  ["MTV - Biggest Pop", "music", "img/mtv_pop.jpg", "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"],
+  ["MTV - US", "music", "img/mtv.jpg", "https://streamer1.nexgen.bz/MTV/tracks-v1a1/mono.m3u8"],
   
-  ["Circle", "music", "img/circle.avif", "https://circle-roku.amagi.tv/playlist.m3u8"],	
+  ["Circle", "music", "img/circle.avif", "https://circle-samsung.amagi.tv/playlist.m3u8"],	
   
   
   
