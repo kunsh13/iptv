@@ -596,20 +596,22 @@
   
 
   
-  ["FM 91.1 - Radio City", "internetradio", "img/radiocity911.jpg", "https://prclive1.listenon.in/"],
+  ["FM 91.1 - Radio City", "internetradio", "img/loveguru2.jpg", "https://prclive1.listenon.in/"],
   
-  ["FM 92.7 - BIG FM", "internetradio", "img/bigfm927.jfif", "https://stream.zeno.fm/r2gn1pgm4qruv"],
+  ["FM 92.7 - BIG FM - Tamil", "internetradio", "img/bigfm927.jfif", "https://stream.zeno.fm/r2gn1pgm4qruv"],
   
   
   ["FM 98.3 - Radio Mirchi", "internetradio", "img/radio_mirchi.jpg", "https://listen.openstream.co/4603/audio"],
   
   
-  ["Sound Asia - Nairobi", "internetradio mp3", "img/fm_soundasia1.jpg", "https://cors.bitwize.com.lb/http://41.72.210.222:88/stream"],
+  ["Sound Asia - Nairobi", "internetradio mp3", "img/fm_soundasia1.jpg", "http://41.72.210.222:88/stream"],
   
-  ["Kadak FM - Dubai", "internetradio", "img/fm_kadak_dubai.jpg", "https://admdn7ta.cdn.mangomolo.com/mirchirdo/mirchirdo.stream_aac/chunklist.m3u8"],
-  
-  
-  ["Humm FM 1 - Dubai", "internetradio", "img/humm_fm.jpg", "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"],
+
+
+
+
+
+  ["Humm FM 1 - Dubai", "internetradio", "img/humm_fm.jpg", "https://digitalstreams.mediaworks.nz/humm_net_icy"],
   
   ["Ujala Radio - Netherlands", "internetradio", "img/fm_Ujalas-Mela-On-Tour-85.jpg", "https://server4.ujala.nl/stream/2/listen.mp3"],
   
