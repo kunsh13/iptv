@@ -257,10 +257,10 @@
   ["BBC America", "movies", "img/bbc.jpg", "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"],
 
   
-  ["Filmstreams", "movies", "img/DundeeTheater.jpg", "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8"],
+  ["Filmstreams", "movies", "img/DundeeTheater.jpg", "https://spi-filmstream-1-in.samsung.wurl.tv/3000.m3u8"],
   
 
-  ["Film Hub", "movies", "img/filmhub.png", "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/640x360_700000/index.m3u8"],
+
   ["Filmrise", "movies", "img/filmrise.jpg", "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8"],
 
   ["The Archive", "movies", "img/thearchive.png", "https://dai.google.com/linear/hls/pb/event/MdbYPXWRStmMq1DaQhsBUw/stream/5fc310e8-c098-40ef-b0e8-d45792152dc7:TPE/variant/4f3a1626fb28cbb8fba296c984d881d6/bandwidth/550000.m3u8"],
@@ -303,7 +303,9 @@
   
   ["Newsmax", "news", "img/newsmax.jpg", "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index_720.m3u8"],
 
+  ["Africanews", "news", "img/africanews.jpg", "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/aa470ffe77fc77b53f028fb6d9a9fe0f.m3u8"],
 
+  
   ["CNN", "news", "img/cnn.webp", "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"],
   
   ["NBC", "news", "img/nbc.webp", "https://livetv-fa.tubi.video/nbc-news-now/master_4.m3u8"],
@@ -365,7 +367,9 @@
 
   ["Motorvision", "news", "img/motorvision.jpg", "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8"],
 
-  
+ 
+  ["FTV", "news", "img/ftv_men.jpg", "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8"],
+ 
 
 
 
